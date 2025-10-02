@@ -8,7 +8,7 @@
     "email": "t00786182@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2025-10-02T00:35:25.608Z",
+  "lastChangedOn": "2025-10-02T00:37:13.177Z",
   "lastChangedBy": {
     "name": "T00786182",
     "email": "t00786182@mytru.ca",
@@ -18,6 +18,8 @@
     {
       "id": "1",
       "guid": "f093dafe-10ae-47a0-b8d7-8ba214e87908",
+      "heading": "Revision History",
+      "text": "<p dir=\"ltr\"><br></p><table><tbody><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Name</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Date</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Reason For Changes</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Version</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Team SES</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Sept 26, 2025</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Initial draft created</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">v1.0</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Team SES</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Sept 27, 2025</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Final review and formatting for vision and scope submission</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">v1.1</span></p></td></tr></tbody></table>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -29,6 +31,28 @@
           "changedOn": "2025-10-02T00:18:56.286Z",
           "docId": "Vision and Scope2",
           "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "text": null
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00786182@mytru.ca",
+            "name": "T00786182"
+          },
+          "changedOn": "2025-10-02T00:37:09.282Z"
+        },
+        {
+          "attributesChanged": {
+            "heading": null
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00786182@mytru.ca",
+            "name": "T00786182"
+          },
+          "changedOn": "2025-10-02T00:37:13.177Z"
         }
       ]
     },
