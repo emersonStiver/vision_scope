@@ -1,20 +1,1775 @@
 {
   "id": "Vision and Scope2",
   "guid": "d5fb73d6-5804-49b7-a2b2-c35062f5ce56",
-  "lastId": 0,
+  "lastId": 44,
   "createdOn": "2025-10-02T00:18:50.506Z",
   "createdBy": {
     "name": "T00786182",
     "email": "t00786182@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2025-10-02T00:18:50.506Z",
+  "lastChangedOn": "2025-10-02T00:35:25.608Z",
   "lastChangedBy": {
     "name": "T00786182",
     "email": "t00786182@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "data": [],
+  "data": [
+    {
+      "id": "1",
+      "guid": "f093dafe-10ae-47a0-b8d7-8ba214e87908",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00786182@mytru.ca",
+            "name": "T00786182"
+          },
+          "changedOn": "2025-10-02T00:18:56.286Z",
+          "docId": "Vision and Scope2",
+          "structureAction": "Create"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "guid": "c227904b-40bb-45e3-b397-e552b41415eb",
+      "heading": "Business Requirements",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00786182@mytru.ca",
+            "name": "T00786182"
+          },
+          "changedOn": "2025-10-02T00:19:03.824Z",
+          "docId": "Vision and Scope2",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00786182@mytru.ca",
+            "name": "T00786182"
+          },
+          "changedOn": "2025-10-02T00:19:10.049Z"
+        }
+      ],
+      "children": [
+        {
+          "id": "3",
+          "guid": "1b62c5b7-c312-473d-b800-f696317d6733",
+          "heading": "Background",
+          "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Urban centers worldwide face mounting challenges in waste management. Traditional collection methods rely on fixed schedules that fail to adapt to actual waste accumulation levels. This leads to operational inefficiencies, increased labor costs, excessive fuel consumption, and public dissatisfaction. Simultaneously, recycling participation rates remain low due to lack of awareness, convenience, and incentives. These challenges, coupled with the global push for sustainability, underscore the need for smarter, data-driven waste management solutions.</span></p>",
+          "history": [
+            {
+              "affectedNodeId": "2",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:19:12.911Z",
+              "docId": "Vision and Scope2",
+              "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "heading": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:19:15.112Z"
+            },
+            {
+              "attributesChanged": {
+                "text": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:19:19.456Z"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "guid": "b63c23fe-14af-4447-8007-f259adc7abc9",
+          "heading": "Business Problem or Opportunity ",
+          "history": [
+            {
+              "affectedNodeId": "2",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:19:25.666Z",
+              "docId": "Vision and Scope2",
+              "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "heading": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:19:28.450Z"
+            }
+          ],
+          "children": [
+            {
+              "id": "5",
+              "guid": "1d44859e-07ac-4354-84f1-3b2826c2d16f",
+              "heading": "Situation",
+              "text": "<p><span style=\"text-decoration:none;vertical-align:baseline;\">City waste management currently relies on static collection schedules and manual monitoring. Trucks follow fixed routes regardless of demand, and recycling participation is low due to limited incentives. Administrators lack real-time insights into waste levels, recycling rates, and contractor performance, making it difficult to optimize operations. This environment results in inefficient resource use, higher costs, and environmental strain.</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "4",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:19:30.920Z",
+                  "docId": "Vision and Scope2",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null,
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:19:33.019Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><span style=\"text-decoration:none;vertical-align:baseline;\">Situation</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:19:41.246Z"
+                }
+              ]
+            },
+            {
+              "id": "6",
+              "guid": "26b69d54-2534-4929-a9cf-33c811ba3de9",
+              "heading": "Problem",
+              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Inefficient Waste Collection</span><span style=\"text-decoration:none;vertical-align:baseline;\">: Fixed schedules lead to wasted fuel, labor, and missed or overflowing bins.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Low Recycling Participation</span><span style=\"text-decoration:none;vertical-align:baseline;\">: Citizens lack motivation or clear incentives to recycle, leading to higher landfill usage.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">High Operational Costs</span><span style=\"text-decoration:none;vertical-align:baseline;\">: Manual monitoring increases overtime, fuel consumption, and budget overruns.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Environmental Impact</span><span style=\"text-decoration:none;vertical-align:baseline;\">: Poor route optimization increases CO₂ emissions and encourages illegal dumping.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li><span style=\"text-decoration:none;vertical-align:baseline;\">Limited Transparency</span><span style=\"text-decoration:none;vertical-align:baseline;\">: Administrators lack real-time data, hindering timely decision-making.</span></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "4",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:19:44.975Z",
+                  "docId": "Vision and Scope2",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:19:47.306Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:20:56.474Z"
+                }
+              ]
+            },
+            {
+              "id": "7",
+              "guid": "52219b88-68d6-4a55-92d3-0414bd46281f",
+              "heading": "Implication",
+              "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">If these problems remain unresolved:</span></p><ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Waste collection will continue to be inefficient and costly.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Recycling rates will stagnate or decline, increasing landfill use and harming the environment.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Operational budgets will continue to overshoot, straining municipal finances.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">CO₂ emissions and illegal dumping incidents will rise, impacting public health and citizen satisfaction.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Administrators will lack the necessary tools to improve service delivery and waste management strategies.</span></p></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "4",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:19:49.466Z",
+                  "docId": "Vision and Scope2",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:19:56.948Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:21:08.035Z"
+                }
+              ]
+            },
+            {
+              "id": "8",
+              "guid": "611ee43b-2149-49b5-8cea-ac88e1f67d4c",
+              "heading": "Benefit",
+              "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Solving these problems will:</span></p><ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Optimize waste collection routes and schedules, reducing fuel consumption and labor costs.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Increase recycling rates through incentive programs, reducing landfill use and environmental impact.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Improve cost efficiency and budget predictability.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Reduce CO₂ emissions and illegal dumping incidents.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Provide administrators with real-time data for faster, more effective decision-making.</span></p></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "4",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:19:51.319Z",
+                  "docId": "Vision and Scope2",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:20:00.412Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:21:24.356Z"
+                }
+              ]
+            },
+            {
+              "id": "9",
+              "guid": "435486e6-5664-4f81-b1fd-229e17b7eaac",
+              "heading": "Vision",
+              "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">A smart, demand-driven waste management system where trucks follow optimized, dynamic routes based on real-time bin capacity and location data; citizens actively participate in recycling through incentives; administrators have full visibility into waste collection operations, enabling proactive management. This leads to cleaner cities, reduced environmental impact, efficient resource use, and improved citizen satisfaction.</span></p>",
+              "history": [
+                {
+                  "affectedNodeId": "4",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:21:26.436Z",
+                  "docId": "Vision and Scope2",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:21:31.127Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:21:37.591Z"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10",
+          "guid": "8d0f7bd3-3cae-4f61-aeaf-4c45d382bf4d",
+          "heading": "Business Objectives ",
+          "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The SWMRS has the following measurable objectives:</span></p><ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Reduce waste collection costs by&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">20% within the first year</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;by optimizing truck routes and reducing unnecessary pickups.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Increase recycling participation by&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">15% across residents within the first year</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;through a reward-based incentive program.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Reduce missed pickups by&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">25%</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;by enabling real-time monitoring of waste bin levels.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Lower fuel consumption and CO₂ emissions by&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">10%</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;by minimizing redundant trips and optimizing collection schedules.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Provide city administrators with real-time dashboards to monitor operational performance, budget usage, and recycling participation.</span></p></li></ul>",
+          "history": [
+            {
+              "affectedNodeId": "2",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:21:38.716Z",
+              "docId": "Vision and Scope2",
+              "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "heading": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:21:44.461Z"
+            },
+            {
+              "attributesChanged": {
+                "text": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:21:54.600Z"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "guid": "9dca4c46-a28f-4cda-90f5-331450b17166",
+          "heading": "Success Metrics ",
+          "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The success of SWMRS will be evaluated using the following criteria:</span></p><ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Percentage reduction in missed pickups</span><span style=\"text-decoration:none;vertical-align:baseline;\">, measured monthly.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Increase in recycling participation</span><span style=\"text-decoration:none;vertical-align:baseline;\">, tracked through resident activity and recycling center data.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Cost savings in waste collection operations</span><span style=\"text-decoration:none;vertical-align:baseline;\">, measured by comparing pre- and post-implementation budgets.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Reduction in carbon footprint</span><span style=\"text-decoration:none;vertical-align:baseline;\">, measured by tracking fuel usage and route efficiency.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Stakeholder satisfaction ratings</span><span style=\"text-decoration:none;vertical-align:baseline;\">, gathered from residents, contractors, and city officials after implementation.</span></p></li></ul>",
+          "history": [
+            {
+              "affectedNodeId": "2",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:21:57.895Z",
+              "docId": "Vision and Scope2",
+              "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "heading": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:22:04.966Z"
+            },
+            {
+              "attributesChanged": {
+                "text": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:22:15.317Z"
+            }
+          ]
+        },
+        {
+          "id": "12",
+          "guid": "a407faa0-45e5-4b65-9ea2-f8ea98e4c1c3",
+          "heading": "Vision Statement ",
+          "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">For city residents, waste collection contractors, and municipal administrators</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">who struggle with inefficient collection processes, low recycling participation, high costs, and limited real-time visibility,</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">the Smart Waste Management &amp; Recycling System (SWMRS)</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">is an integrated smart-city waste management platform</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">that uses IoT-enabled monitoring, route optimization, and recycling incentives to improve efficiency, reduce costs, and promote sustainability.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Unlike traditional waste management systems that rely on static schedules, manual tracking, and limited recycling programs,</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">our product provides real-time data, optimized collection, and a citizen reward system, ensuring a cleaner city and more cost-effective operations.</span></p>",
+          "history": [
+            {
+              "affectedNodeId": "2",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:22:19.755Z",
+              "docId": "Vision and Scope2",
+              "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "heading": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:22:26.840Z"
+            },
+            {
+              "attributesChanged": {
+                "text": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:22:32.096Z"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "guid": "6cb2041f-c7ce-40b8-bafa-b4da3a761b7f",
+          "heading": "Business Risks",
+          "text": "<p><span style=\"text-decoration:none;vertical-align:baseline;\">The development of the Smart Waste Management &amp; Recycling System (SWMRS) faces several business risks that could impact project success.</span></p>",
+          "history": [
+            {
+              "affectedNodeId": "2",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:22:35.794Z",
+              "docId": "Vision and Scope2",
+              "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "heading": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:22:41.293Z"
+            },
+            {
+              "attributesChanged": {
+                "text": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:23:06.284Z"
+            }
+          ],
+          "children": [
+            {
+              "id": "14",
+              "guid": "5c54cd8b-0400-4af6-aed1-60eac1a72cfd",
+              "heading": "Implementation Risks",
+              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">There is a risk that IoT sensor failures, connectivity issues, or integration problems with municipal systems could delay rollout or reduce system effectiveness.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Severity:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Medium</span></p></li><li><span style=\"text-decoration:none;vertical-align:baseline;\">Mitigation:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Conduct thorough pilot testing, deploy redundant sensors, and establish clear integration protocols with municipal IT systems.</span></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "13",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:22:42.876Z",
+                  "docId": "Vision and Scope2",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:22:50.601Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:23:01.524Z"
+                }
+              ]
+            },
+            {
+              "id": "15",
+              "guid": "edf779e0-aabd-48c8-a46f-e0da1b9b059c",
+              "heading": "User Acceptance Risks",
+              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Residents and contractors may be hesitant to adopt the system due to unfamiliarity with the technology, privacy concerns, or resistance to new workflows. Low adoption could undermine the system’s effectiveness.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Severity:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;High</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Mitigation:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Launch targeted awareness campaigns, implement strong privacy safeguards, provide clear value propositions, and offer training and incentives for contractors.</span></p></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "13",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:23:09.005Z",
+                  "docId": "Vision and Scope2",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:23:14.804Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:23:36.915Z"
+                }
+              ]
+            },
+            {
+              "id": "16",
+              "guid": "2fbeff5e-cf0b-4b2a-ab30-d721551376a0",
+              "heading": "Timing and Scheduling Risks",
+              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Delays in hardware procurement, IoT sensor installation, or system integration could push back deployment timelines, impacting project milestones.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Severity:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Medium</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Mitigation:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Develop a phased rollout plan with contingency buffers, ensure vendor agreements are secured early, and monitor progress closely.</span></p></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "13",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:23:41.542Z",
+                  "docId": "Vision and Scope2",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:23:43.879Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:23:49.201Z"
+                }
+              ]
+            },
+            {
+              "id": "17",
+              "guid": "ef72e8f9-91ea-4811-92c8-23e1bec15f2f",
+              "heading": "Market and External Risks",
+              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Competitive solutions or changes in municipal regulations may affect the relevance or adoption of SWMRS. Additionally, budgetary constraints could limit scalability.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Severity:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Medium</span></p></li><li><span style=\"text-decoration:none;vertical-align:baseline;\">Mitigation:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Monitor the market and regulatory landscape, secure funding in phases, and design the system to be modular for flexible expansion.</span></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "13",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:23:52.524Z",
+                  "docId": "Vision and Scope2",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:23:53.820Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:24:10.961Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": "s"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:24:16.922Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Competitive solutions or changes in municipal regulations may affect the relevance or adoption of SWMRS. Additionally, budgetary constraints could limit scalability.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Severity:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Medium</span></p></li></ul><p><span style=\"text-decoration:none;vertical-align:baseline;\">Mitigation:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Monitor the market and regulatory landscape, secure funding in phases, and design the system to be modular for flexible expansion.</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:24:24.544Z"
+                }
+              ]
+            },
+            {
+              "id": "18",
+              "guid": "9b0fa803-2ef4-453b-8875-eabc26575314",
+              "heading": "Negative Business Impact Risks",
+              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">If the system fails to deliver promised benefits — such as cost reduction, improved recycling rates, and environmental impact — it could lead to reputational damage and reduced stakeholder support.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Severity:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;High</span></p></li><li><span style=\"text-decoration:none;vertical-align:baseline;\">Mitigation:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Define clear success metrics, track them continuously, and implement iterative improvements based on feedback.</span></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "13",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:23:56.264Z",
+                  "docId": "Vision and Scope2",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:24:02.556Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:24:07.056Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">If the system fails to deliver promised benefits — such as cost reduction, improved recycling rates, and environmental impact — it could lead to reputational damage and reduced stakeholder support.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Severity:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;High</span></p></li></ul><p><span style=\"text-decoration:none;vertical-align:baseline;\">Mitigation:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Define clear success metrics, track them continuously, and implement iterative improvements based on feedback.</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:24:20.366Z"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "guid": "384612b4-a0e8-48f0-a8f0-b77066c3b933",
+          "heading": "Business Assumptions & Dependencies ",
+          "history": [
+            {
+              "affectedNodeId": "2",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:24:29.151Z",
+              "docId": "Vision and Scope2",
+              "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "heading": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:24:36.035Z"
+            }
+          ],
+          "children": [
+            {
+              "id": "20",
+              "guid": "e86c7637-c33c-4d66-810e-325194406e7d",
+              "heading": "Assumptions",
+              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Residents own smartphones with internet access and can interact with the system through a mobile application.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">IoT sensors are available and reliable for integration with waste bins.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Stable internet connectivity is present across the city.</span></p></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "19",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:24:43.867Z",
+                  "docId": "Vision and Scope2",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:24:46.251Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:24:59.314Z"
+                }
+              ]
+            },
+            {
+              "id": "21",
+              "guid": "b3a67076-2a4c-421e-8da8-b32e6bab4985",
+              "heading": "Dependencies",
+              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Integration with municipal financial and waste management systems.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Availability of IoT infrastructure for data collection and monitoring.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Partnerships with recycling centers and reward program vendors.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Contractor compliance with optimized collection schedules.</span></p></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "19",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:25:03.246Z",
+                  "docId": "Vision and Scope2",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:25:06.018Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:25:18.636Z"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "guid": "674c1c98-fccd-48e3-8049-4e9bf5362b02",
+      "heading": " Scope and Limitations",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00786182@mytru.ca",
+            "name": "T00786182"
+          },
+          "changedOn": "2025-10-02T00:25:23.943Z",
+          "docId": "Vision and Scope2",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00786182@mytru.ca",
+            "name": "T00786182"
+          },
+          "changedOn": "2025-10-02T00:25:29.303Z"
+        }
+      ],
+      "children": [
+        {
+          "id": "23",
+          "guid": "e10f6b68-4f54-474d-b319-b1df80068cd2",
+          "heading": "Major Features",
+          "text": "<p><span style=\"text-decoration:none;vertical-align:baseline;\">The Smart Waste Management &amp; Recycling System (SWMRS) will deliver the following major features, designed to improve waste collection efficiency, increase recycling participation, and reduce environmental impact.</span></p>",
+          "history": [
+            {
+              "affectedNodeId": "22",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:25:34.654Z",
+              "docId": "Vision and Scope2",
+              "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "heading": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:25:45.494Z"
+            },
+            {
+              "attributesChanged": {
+                "text": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:25:52.069Z"
+            }
+          ],
+          "children": [
+            {
+              "id": "24",
+              "guid": "5d3cf223-b878-4aad-b26b-d6378eff3d5d",
+              "heading": "IoT Bin Monitoring",
+              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Real-time monitoring of bin fill levels using IoT sensors.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Enables dynamic collection scheduling and reduces missed pickups.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Distinguishing Value: Provides actionable, real-time data not available in traditional fixed-schedule systems.</span></p></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "23",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:25:55.062Z",
+                  "docId": "Vision and Scope2",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:26:01.786Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:26:06.698Z"
+                }
+              ]
+            },
+            {
+              "id": "25",
+              "guid": "49b0514e-5a18-403e-a8d3-f884d6053d56",
+              "heading": "Dynamic Route Optimization",
+              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">AI-assisted route planning based on real-time bin data, traffic conditions, and contractor availability.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Reduces fuel consumption and operational costs.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Distinguishing Value: Transforms waste collection from static schedules to demand-driven routes.</span></p></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "23",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:26:12.579Z",
+                  "docId": "Vision and Scope2",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:26:15.222Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:26:30.042Z"
+                }
+              ]
+            },
+            {
+              "id": "26",
+              "guid": "ed214be5-a80f-4d67-a67b-6811818c9f36",
+              "heading": "Recycling Incentive System",
+              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Mobile app feature that rewards residents for recycling participation.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Tracks and credits recycling behavior with points or rewards.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Distinguishing Value: Directly incentivizes sustainable behavior, addressing a key gap in current waste management systems.</span></p></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "23",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:26:33.990Z",
+                  "docId": "Vision and Scope2",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:26:36.133Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:26:58.042Z"
+                }
+              ]
+            },
+            {
+              "id": "27",
+              "guid": "ddd60349-f58e-4405-81b6-e00cfd626877",
+              "heading": "Administrator Dashboard",
+              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Centralized interface for waste collection monitoring, performance tracking, and operational reporting.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Provides real-time insights for informed decision-making.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Distinguishing Value: Improves transparency and control for city administrators.</span></p></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "23",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:26:39.085Z",
+                  "docId": "Vision and Scope2",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:26:41.990Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:26:50.845Z"
+                }
+              ]
+            },
+            {
+              "id": "28",
+              "guid": "761a1d40-e4e5-4dc5-b928-aa986ee96eea",
+              "heading": " Missed Pickup Alerts",
+              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Automatic alerts when bins remain full past scheduled pickups or when service anomalies occur.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Enables quick resolution of service issues.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Distinguishing Value: Proactively addresses service gaps before they escalate.</span></p></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "23",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:27:06.303Z",
+                  "docId": "Vision and Scope2",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:27:08.555Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:27:47.977Z"
+                }
+              ]
+            },
+            {
+              "id": "29",
+              "guid": "7479a2c8-9056-4e6a-a586-bff117b83b90",
+              "heading": "Resident Mobile Application",
+              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">User-friendly mobile app for reporting issues, viewing pickup schedules, and tracking recycling participation.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Supports engagement and awareness campaigns.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Distinguishing Value: Empowers residents to actively participate in waste management and recycling.</span></p></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "23",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:27:11.250Z",
+                  "docId": "Vision and Scope2",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:27:13.967Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:27:35.826Z"
+                }
+              ]
+            },
+            {
+              "id": "30",
+              "guid": "4ff1b5c9-d02d-49b1-b908-160468313f01",
+              "heading": "Real-Time Reporting and Analytics",
+              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Automated generation of operational, recycling, and sustainability reports.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Supports monthly and quarterly performance evaluations.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Distinguishing Value: Provides actionable insights for continuous improvement and stakeholder reporting.</span></p></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "23",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:27:16.140Z",
+                  "docId": "Vision and Scope2",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:27:17.855Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:27:25.225Z"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "guid": "9d7acb4b-c729-48ae-ae99-18129b14caf2",
+          "heading": "Scope of Initial Release",
+          "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The initial release of the Smart Waste Management &amp; Recycling System (SWMRS) will deliver a focused set of high-value features to establish a strong foundation for smart waste management while maximizing benefits for residents, administrators, contractors, and recycling partners. These features have been prioritized for their immediate impact, feasibility, and scalability.</span></p><p dir=\"ltr\"><br></p><table><tbody><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Feature</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Description</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Benefits to Stakeholders</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">1. IoT Bin Monitoring</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Installation of sensors in waste bins to monitor fill levels in real time.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Residents: fewer overflowing bins.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Administrators: accurate, real-time operational data.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Contractors: optimized task planning.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">2. Dynamic Route Optimization (Basic)</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Route optimization engine that schedules collections based on real-time bin fill levels and available truck capacity.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Reduces fuel costs.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Improves collection efficiency.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Minimizes missed pickups.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">3. Recycling Incentive System (Core)</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Basic reward system allowing residents to log recycling activity via the mobile app and earn points.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Increases recycling participation.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Encourages sustainable behavior.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Engages residents directly.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">4. Administrator Dashboard (Core)</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Web-based dashboard providing real-time data on bin status, pickup schedules, contractor performance, and recycling rates.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Improves operational transparency.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Supports decision-making.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Enables performance monitoring.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">5. Missed Pickup Alerts</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Automated notifications to administrators and contractors when bins remain full past scheduled pickup times.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Improves service reliability.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Reduces public complaints.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Enables proactive issue resolution.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">6. Resident Mobile Application (Basic)</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Mobile app for residents to report issues, view schedules, and track recycling participation.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Improves citizen engagement.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Enables two-way communication between residents and administrators.</span></p></td></tr></tbody></table><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Scope Boundaries for Initial Release:</span></p><ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Deployment will be limited to a&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">pilot district</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;to validate functionality, collect feedback, and ensure operational stability.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Advanced predictive analytics for waste generation and AI-based dynamic routing will be deferred to later releases.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Incentive system will start with core functionality; gamification and expanded reward partnerships will be part of future phases.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Integration with third-party incentive vendors beyond the initial partners will be deferred.</span></p></li></ul>",
+          "history": [
+            {
+              "affectedNodeId": "22",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:27:49.275Z",
+              "docId": "Vision and Scope2",
+              "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "heading": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:27:55.905Z"
+            },
+            {
+              "attributesChanged": {
+                "text": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:28:10.719Z"
+            }
+          ]
+        },
+        {
+          "id": "32",
+          "guid": "7ff495a0-2302-4d40-b992-bdfd3a55ce20",
+          "heading": "Scope of Subsequent Releases",
+          "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The Smart Waste Management &amp; Recycling System (SWMRS) will evolve through staged releases to gradually expand functionality, enhance system intelligence, and broaden the benefits delivered to stakeholders. Features deferred from the initial release will be implemented in later phases according to priorities, feasibility, and user feedback.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The Smart Waste Management &amp; Recycling System (SWMRS) will evolve in stages, with each release expanding on the core foundation established in the initial release. Future phases will enhance intelligence, expand coverage, and deepen integration to maximize value for all stakeholders.</span></p><p dir=\"ltr\"><br></p><table><tbody><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Release Phase</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Features Planned</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Description</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Benefits</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Scope Boundaries / Dependencies</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Phase 2</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Enhanced Route Optimization</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Advanced route engine integrating traffic conditions, weather, and vehicle constraints.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Further reduces fuel costs.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Improves pickup reliability.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Adapts to real-world conditions.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Requires integration with city traffic data and contractor scheduling systems.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><br></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Expanded Recycling Incentives</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Gamified recycling programs with leaderboards, tiered rewards, and broader vendor partnerships.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Boosts resident engagement.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Encourages higher recycling participation.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Strengthens community involvement.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Dependent on partnerships with local businesses and high resident adoption.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><br></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Advanced Administrator Dashboard</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">KPI tracking, predictive analytics, and custom reporting features.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Provides deeper insights.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Supports proactive planning.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Improves accountability.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Requires data consolidation and advanced analytics modules.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Phase 3</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">City-Wide IoT Sensor Deployment</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Expansion of bin monitoring to cover all districts city-wide.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Provides complete visibility.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Maximizes efficiency at scale.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Reduces overflow incidents city-wide.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Requires investment in hardware and city-wide IoT infrastructure.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><br></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Predictive Waste Generation Analytics</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">AI-driven models to forecast waste trends based on historical data and seasonal patterns.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Anticipates demand.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Improves long-term planning.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Reduces emergency pickups.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Dependent on historical data availability and system maturity.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><br></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Resident App Expansion</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">New app features: recycling tips, neighborhood comparisons, and loyalty rewards integration.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Increases citizen awareness.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Strengthens behavioral change.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Builds long-term sustainability habits.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Requires user feedback, UI/UX updates, and vendor partnerships.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Phase 4</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Integration with Smart City Platforms</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Connect SWMRS with traffic, energy, and environmental systems.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Supports broader sustainability efforts.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Provides holistic urban management data.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Aligns with smart city strategy.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Dependent on municipal IT readiness and cross-agency cooperation.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><br></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Comprehensive Sustainability Reporting</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Automated environmental impact reports aligned with city carbon reduction targets.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Enhances transparency.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Improves compliance.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Supports city’s green initiatives.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Requires standardized reporting frameworks and verified emissions data.</span></p></td></tr></tbody></table>",
+          "history": [
+            {
+              "affectedNodeId": "22",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:28:16.229Z",
+              "docId": "Vision and Scope2",
+              "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "heading": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:28:18.596Z"
+            },
+            {
+              "attributesChanged": {
+                "text": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:28:29.577Z"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "guid": "4280a3fc-6265-416d-b392-a7a840e289e5",
+          "heading": "Limitations and Exclusions",
+          "text": "<p><span style=\"text-decoration:none;vertical-align:baseline;\">While the Smart Waste Management &amp; Recycling System (SWMRS) will deliver core capabilities to improve efficiency, increase recycling participation, and reduce environmental impact, certain features and characteristics will not be included in the product within the scope of the initial or planned releases. These limitations and exclusions ensure that development focuses on delivering the highest value features efficiently while allowing for staged growth.</span></p>",
+          "history": [
+            {
+              "affectedNodeId": "22",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:28:36.270Z",
+              "docId": "Vision and Scope2",
+              "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "heading": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:28:44.187Z"
+            },
+            {
+              "attributesChanged": {
+                "text": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:28:48.389Z"
+            }
+          ],
+          "children": [
+            {
+              "id": "34",
+              "guid": "e10524bc-d9f9-40b5-99a9-a6a5095e6f14",
+              "heading": "Limitations",
+              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Pilot-Only Deployment in Initial Release:&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">The first release will be deployed only in a selected pilot district to validate functionality, collect user feedback, and refine system performance before city-wide rollout.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Basic Mobile Application Features:&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">The resident mobile app will deliver core functionality for reporting issues, viewing schedules, and tracking recycling participation. Advanced personalization, gamification, and expanded incentive integration will be deferred to later releases.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Limited Third-Party Integration:&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Initial integration will be limited to core municipal systems and selected recycling partners. Broader integration with other smart city platforms and additional third-party systems will be addressed in future phases.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Manual Waste Processing:&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">SWMRS will focus solely on collection optimization, monitoring, and incentives. Actual waste processing, recycling operations, and disposal will remain under the responsibility of contracted waste management providers.</span></p></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "33",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:28:50.306Z",
+                  "docId": "Vision and Scope2",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:29:07.050Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:29:21.205Z"
+                }
+              ]
+            },
+            {
+              "id": "35",
+              "guid": "087fa635-6c52-4417-ae59-5eb57b97681f",
+              "heading": "Exclusions",
+              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Full City-Wide IoT Deployment</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;in the initial release; expansion to all districts will occur in later phases.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">AI-Driven Predictive Waste Collection</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;in the first release; reserved for future releases.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Autonomous Waste Collection Vehicles</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;— integration with autonomous waste collection systems will not be included in initial or early releases.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">International Deployment</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;— the system is designed for deployment in the pilot city only; adaptations for other municipalities or international deployment are out of scope.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Full Advanced Analytics and Reporting</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;— only basic dashboards will be provided in the initial release; advanced analytics will be deferred to later phases.</span></p></li></ul>",
+              "history": [
+                {
+                  "affectedNodeId": "33",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:29:11.411Z",
+                  "docId": "Vision and Scope2",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:29:13.348Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:29:32.923Z"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "36",
+          "guid": "c373c04b-f29a-412d-8c55-dbc0538695c4",
+          "heading": "Diagrams",
+          "history": [
+            {
+              "affectedNodeId": "22",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:29:38.597Z",
+              "docId": "Vision and Scope2",
+              "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "heading": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:29:43.192Z"
+            }
+          ],
+          "children": [
+            {
+              "id": "37",
+              "guid": "dc93aeea-2a87-46bb-af38-9826ce279a7a",
+              "heading": "Context Diagram ",
+              "attachments": [
+                "Vision and Scope2-37_1_Context Diagram.png"
+              ],
+              "history": [
+                {
+                  "affectedNodeId": "36",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:29:46.101Z",
+                  "docId": "Vision and Scope2",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:29:48.259Z"
+                },
+                {
+                  "addedAttachment": "Vision and Scope2-37_1_Screenshot 2025-10-01 173410.png",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:34:32.246Z"
+                },
+                {
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:34:50.200Z",
+                  "removedAttachment": "Vision and Scope2-37_1_Screenshot 2025-10-01 173410.png"
+                },
+                {
+                  "addedAttachment": "Vision and Scope2-37_1_Context Diagram.png",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:35:25.608Z"
+                }
+              ]
+            },
+            {
+              "id": "38",
+              "guid": "1c289b52-ee40-485f-a9a5-c9b81eea7be8",
+              "heading": "Ecosystem Map ",
+              "history": [
+                {
+                  "affectedNodeId": "36",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:30:09.080Z",
+                  "docId": "Vision and Scope2",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:30:11.119Z"
+                }
+              ]
+            },
+            {
+              "id": "39",
+              "guid": "fca8852e-dcc2-41a8-9463-506c7e64effb",
+              "heading": "Feature Tree ",
+              "history": [
+                {
+                  "affectedNodeId": "36",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:30:13.723Z",
+                  "docId": "Vision and Scope2",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T00:30:15.298Z"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "guid": "fd9f9168-3d3c-438d-a8b1-9b7144aac9de",
+      "heading": "Business Context",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00786182@mytru.ca",
+            "name": "T00786182"
+          },
+          "changedOn": "2025-10-02T00:30:43.944Z",
+          "docId": "Vision and Scope2",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00786182@mytru.ca",
+            "name": "T00786182"
+          },
+          "changedOn": "2025-10-02T00:30:51.349Z"
+        }
+      ],
+      "children": [
+        {
+          "id": "41",
+          "guid": "317c62b6-e107-4999-ac5f-6eb9554658b6",
+          "heading": "Stakeholder Profiles",
+          "text": "<p dir=\"ltr\"><br></p><table><tbody><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Stakeholder</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Roles</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Interests</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Influence</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Needs</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Concerns</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Residents</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Primary users of waste collection and recycling services.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Reliable collection, clean neighborhoods, incentives for recycling.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Medium – can influence adoption rates.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Easy-to-use mobile app, timely notifications, transparency in rewards.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Privacy of personal data, app usability, fairness in reward distribution.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Collection Workers / Contractors</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Operational users who collect waste and recycling.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Efficient routes, reduced workload, fewer missed pickups, safety in operations.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Medium – critical to daily system operations.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Optimized route planning, clear scheduling, real-time issue reporting.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Overly complex technology, disruption of existing workflows.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">City Administrators / Officials</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Oversight and decision-making authority for city waste management.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Cost savings, environmental compliance, performance visibility, citizen satisfaction.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">High – control budget and policy direction.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Real-time dashboards, supplier performance reports, accurate recycling and cost metrics.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">System integration with municipal systems, political accountability.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Recycling Centers / Partners</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">External partners processing recyclable materials.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Consistent volume of recyclables, efficient coordination, accurate reporting.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Low to Medium – limited direct control.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Reliable data on recyclable quantities, integration with city logistics.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Data accuracy, timely transport of recyclables.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Technology Providers (IoT Vendors, Reward Program Partners)</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Suppliers of IoT sensors, connectivity, and incentive platforms.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Reliable system integration, market adoption of their services.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Low – provide enabling infrastructure.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Seamless integration with SWMRS, compliance with standards.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Technical failures, contractual obligations, long-term sustainability.</span></p></td></tr></tbody></table>",
+          "history": [
+            {
+              "affectedNodeId": "40",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:30:55.710Z",
+              "docId": "Vision and Scope2",
+              "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "heading": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:31:00.953Z"
+            },
+            {
+              "attributesChanged": {
+                "text": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:31:14.449Z"
+            }
+          ]
+        },
+        {
+          "id": "42",
+          "guid": "2b6571be-69b5-42bd-90b3-f58b221144a7",
+          "heading": "Project Priorities",
+          "text": "<p dir=\"ltr\"><br></p><table><tbody><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Dimension</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Driver</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Constraint</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Degree of Freedom</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Features</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The primary driver of this project is functionality. Deliver core capabilities: IoT bin monitoring, route optimization, recycling rewards, and real time dashboards, These are non-negotiable success factors.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Core features must be included for success and can not be compromised</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Ability to extend additional features in later releases</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Quality</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">System reliability, accuracy of sensor data, security of user information</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">High reliability and accuracy required for adoption</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Slight flexibility in rollout phases if quality is preserved</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Schedule</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Timely delivery of the system to start improving operations within the first year</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Core features needed in release 1.0</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Phased implementation acceptable for non-core features</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Cost</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Operate within municipal budget and deliver long-term cost savings</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Budget overruns not acceptable beyond 15% without approval</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Staffing adjustments possible to optimize schedule and quality</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Staff</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Efficient team allocation for delivery</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Maximum team size: 1 PO, 1 BA, 6 developers, 3 testers</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Adjust team composition to balance speed and quality</span></p></td></tr></tbody></table>",
+          "history": [
+            {
+              "affectedNodeId": "40",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:31:18.575Z",
+              "docId": "Vision and Scope2",
+              "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "heading": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:31:37.318Z"
+            },
+            {
+              "attributesChanged": {
+                "text": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:32:02.037Z"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "guid": "7788b510-79aa-498a-8b4f-f01f5212cdbc",
+          "heading": "Deployment Considerations",
+          "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Deployment of SWMRS will require coordinated planning across multiple areas:</span></p><ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Infrastructure</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;– City-wide installation of IoT sensors, integration with municipal IT systems, and maintenance plans.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Training</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;– Contractor and administrator training for using dashboards, route optimization tools, and issue reporting systems.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Mobile App Deployment</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;– Distribution via major app stores, ensuring compatibility with iOS and Android.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Data Management</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;– Secure storage of waste collection data, recycling participation, and incentive records in compliance with privacy regulations.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Pilot District</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;– Initial rollout in a selected district to validate performance before city-wide deployment.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Stakeholder Communication</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;– Continuous updates to stakeholders to ensure alignment, encourage adoption, and address concerns during deployment.</span></p></li></ul>",
+          "history": [
+            {
+              "affectedNodeId": "40",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:32:05.456Z",
+              "docId": "Vision and Scope2",
+              "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "heading": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:32:11.811Z"
+            },
+            {
+              "attributesChanged": {
+                "text": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T00:32:25.924Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "guid": "5e49370c-a98e-4de5-998a-6da5eaff70b5",
+      "heading": "Event List",
+      "text": "<p dir=\"ltr\"><br></p><table><tbody><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Event Type</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Description</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">System Response</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Signal Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">IoT sensor detects a waste bin is 90% full.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system automatically schedules a waste pickup, recalculates and updates truck routes to optimize collection efficiency, and notifies the relevant contractor.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Signal Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">IoT sensor detects a bin is over capacity (100%).</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system generates a high-priority alert, schedules an immediate pickup, and updates contractor notifications and route plans.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">User Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Resident reports an overflowing bin via the mobile app.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system logs the issue, notifies the responsible contractor, prioritizes the pickup in the routing system, and sends the resident a confirmation notification.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">User Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Resident submits a recycling participation update through the app.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system logs participation data, updates the resident’s reward balance, and notifies the resident of their new recycling score and rewards earned.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Temporal Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Weekly recycling performance report is due.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system automatically generates a detailed recycling report for administrators and residents, summarizing recycling rates, participation trends, and environmental impact metrics.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Temporal Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Monthly route efficiency report is due.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system generates an operations report showing route optimization performance, cost savings, fuel consumption reduction, and missed pickup statistics.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">User Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">City administrator requests budget status.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system displays a real-time spending dashboard showing current expenditures, budget utilization, and cost-saving performance metrics.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Signal Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">IoT sensor fails or stops transmitting data.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system logs the failure, notifies maintenance personnel, and switches to fallback monitoring mode to prevent missed pickups.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">User Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Resident requests pickup schedule via the mobile app.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system retrieves and displays the updated pickup schedule for the resident’s location, including recycling days and special pickups.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">User Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Contractor logs completion of a pickup.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system updates the route progress, marks the bin as serviced, and adjusts the route for remaining pickups.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Signal Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Sudden change in traffic conditions (from integration with traffic data).</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system dynamically recalculates truck routes to maintain optimal efficiency and notify drivers of changes.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Temporal Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Quarterly sustainability report is due.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system generates a report including CO₂ emissions reductions, recycling rates, cost savings, and citizen participation metrics for presentation to stakeholders.</span></p></td></tr></tbody></table>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00786182@mytru.ca",
+            "name": "T00786182"
+          },
+          "changedOn": "2025-10-02T00:32:28.847Z",
+          "docId": "Vision and Scope2",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00786182@mytru.ca",
+            "name": "T00786182"
+          },
+          "changedOn": "2025-10-02T00:32:39.243Z"
+        },
+        {
+          "attributesChanged": {
+            "text": null
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00786182@mytru.ca",
+            "name": "T00786182"
+          },
+          "changedOn": "2025-10-02T00:32:44.588Z"
+        }
+      ]
+    }
+  ],
   "attributes": {
   },
   "templateColumns": {
