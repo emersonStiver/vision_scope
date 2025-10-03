@@ -9,7 +9,7 @@
     "email": "t00786182@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2025-10-03T01:07:12.771Z",
+  "lastChangedOn": "2025-10-03T01:33:30.846Z",
   "lastChangedBy": {
     "name": "Salamudin Abdullahi, Emerson Tavera, Diana Pokhilko",
     "email": "t00786182@mytru.ca",
@@ -1829,6 +1829,42 @@
                 "name": "Salamudin Abdullahi, Emerson Tavera, Diana Pokhilko"
               },
               "changedOn": "2025-10-03T01:01:48.941Z"
+            },
+            {
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "Salamudin Abdullahi, Emerson Tavera, Diana Pokhilko"
+              },
+              "changedOn": "2025-10-03T01:30:53.660Z",
+              "updatedAttachment": {
+                "newAttachmentId": "Vision and Scope2-31_1_Phase_1 (2).png",
+                "oldAttachmentId": "Vision and Scope2-31_1_Phase_1 (2).png"
+              }
+            },
+            {
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "Salamudin Abdullahi, Emerson Tavera, Diana Pokhilko"
+              },
+              "changedOn": "2025-10-03T01:32:18.650Z",
+              "updatedAttachment": {
+                "newAttachmentId": "Vision and Scope2-31_1_Phase_1 (2).png",
+                "oldAttachmentId": "Vision and Scope2-31_1_Phase_1 (2).png"
+              }
+            },
+            {
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "Salamudin Abdullahi, Emerson Tavera, Diana Pokhilko"
+              },
+              "changedOn": "2025-10-03T01:33:30.846Z",
+              "updatedAttachment": {
+                "newAttachmentId": "Vision and Scope2-31_1_Phase_1 (2).png",
+                "oldAttachmentId": "Vision and Scope2-31_1_Phase_1 (2).png"
+              }
             }
           ]
         },
