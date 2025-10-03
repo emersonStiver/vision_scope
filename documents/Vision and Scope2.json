@@ -1,6 +1,7 @@
 {
   "id": "Vision and Scope2",
   "guid": "d5fb73d6-5804-49b7-a2b2-c35062f5ce56",
+  "name": "Vision and Scope",
   "lastId": 44,
   "createdOn": "2025-10-02T00:18:50.506Z",
   "createdBy": {
@@ -8,7 +9,7 @@
     "email": "t00786182@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2025-10-03T00:16:55.316Z",
+  "lastChangedOn": "2025-10-03T00:44:14.769Z",
   "lastChangedBy": {
     "name": "T00786182",
     "email": "t00786182@mytru.ca",
@@ -630,7 +631,7 @@
               "id": "14",
               "guid": "5c54cd8b-0400-4af6-aed1-60eac1a72cfd",
               "heading": "Implementation Risks",
-              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">There is a risk that IoT sensor failures, connectivity issues, or integration problems with municipal systems could delay rollout or reduce system effectiveness.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Severity:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Medium</span></p></li><li><span style=\"text-decoration:none;vertical-align:baseline;\">Mitigation:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Conduct thorough pilot testing, deploy redundant sensors, and establish clear integration protocols with municipal IT systems.</span></li></ul>",
+              "text": "<table><tbody><tr><td><p><strong>Risk:</strong> There is a risk that IoT sensor failures, connectivity issues, or integration problems with municipal systems could delay rollout or reduce system effectiveness.</p></td><td><p><strong>Severity:</strong> Medium</p></td><td><p><strong>Mitigation:</strong> Conduct thorough pilot testing, deploy redundant sensors, and establish clear integration protocols with municipal IT systems.</p></td></tr></tbody></table>",
               "history": [
                 {
                   "affectedNodeId": "13",
@@ -664,6 +665,50 @@
                     "name": "T00786182"
                   },
                   "changedOn": "2025-10-02T00:23:01.524Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">There is a risk that IoT sensor failures, connectivity issues, or integration problems with municipal systems could delay rollout or reduce system effectiveness.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Severity:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Medium</span></p></li><li><span style=\"text-decoration:none;vertical-align:baseline;\">Mitigation:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Conduct thorough pilot testing, deploy redundant sensors, and establish clear integration protocols with municipal IT systems.</span></li></ul>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-03T00:29:37.822Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<table><thead><tr><th><strong>Risk</strong></th><th><strong>Severity</strong></th><th><strong>Mitigation</strong></th></tr></thead></table><table><tbody><tr><td>There is a risk that IoT sensor failures, connectivity issues, or integration problems with municipal systems could delay rollout or reduce system effectiveness.</td><td>Medium</td><td>Conduct thorough pilot testing, deploy redundant sensors, and establish clear integration protocols with municipal IT systems.</td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-03T00:30:07.072Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<table><thead><tr><th><strong>Risk</strong></th><th><strong>Severity</strong></th><th><strong>Mitigation</strong></th></tr></thead><tbody><tr><td>There is a risk that IoT sensor failures, connectivity issues, or integration problems with municipal systems could delay rollout or reduce system effectiveness.</td><td>Medium</td><td>Conduct thorough pilot testing, deploy redundant sensors, and establish clear integration protocols with municipal IT systems.</td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-03T00:33:09.627Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<table><tbody><tr><td><p><strong>Risk:</strong> There is a risk that IoT sensor failures, connectivity issues, or integration problems with municipal systems could delay rollout or reduce system effectiveness.</p><p>&nbsp;</p></td><td><p><strong>Severity:</strong> Medium</p></td><td><p><strong>Mitigation:</strong> Conduct thorough pilot testing, deploy redundant sensors, and establish clear integration protocols with municipal IT systems.</p><p>&nbsp;</p><p>&nbsp;</p></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-03T00:34:20.564Z"
                 }
               ]
             },
@@ -671,7 +716,7 @@
               "id": "15",
               "guid": "edf779e0-aabd-48c8-a46f-e0da1b9b059c",
               "heading": "User Acceptance Risks",
-              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Residents and contractors might be reluctant to use the system because they are not familiar with the technology, have privacy concerns, or resist new workflows. If adoption is low, the system may not work well.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Severity:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;High</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Mitigation:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Launch targeted awareness campaigns, implement strong privacy safeguards, provide clear value propositions, and offer training and incentives for contractors.</span></p></li></ul>",
+              "text": "<table><tbody><tr><td><p><strong>Risk:</strong> Residents and contractors might be reluctant to use the system because they are not familiar with the technology, have privacy concerns, or resist new workflows. If adoption is low, the system may not work well.</p></td><td><p><strong>Severity:</strong> High</p></td><td><p><strong>Mitigation:</strong> Launch targeted awareness campaigns, implement strong privacy safeguards, provide clear value propositions, and offer training and incentives for contractors.</p></td></tr></tbody></table>",
               "history": [
                 {
                   "affectedNodeId": "13",
@@ -716,6 +761,50 @@
                     "name": "T00786182"
                   },
                   "changedOn": "2025-10-03T00:14:08.378Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Residents and contractors might be reluctant to use the system because they are not familiar with the technology, have privacy concerns, or resist new workflows. If adoption is low, the system may not work well.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Severity:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;High</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Mitigation:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Launch targeted awareness campaigns, implement strong privacy safeguards, provide clear value propositions, and offer training and incentives for contractors.</span></p></li></ul>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-03T00:31:07.670Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<table><thead><tr><th><strong>Risk</strong></th><th><strong>Severity</strong></th><th><strong>Mitigation</strong></th></tr></thead><tbody><tr><td>Residents and contractors might be reluctant to use the system because they are not familiar with the technology, have privacy concerns, or resist new workflows. If adoption is low, the system may not work well.</td><td>High</td><td>Launch targeted awareness campaigns, implement strong privacy safeguards, provide clear value propositions, and offer training and incentives for contractors.</td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-03T00:33:48.604Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<table><thead><tr><th><br></th><th><br></th><th><br></th></tr></thead><tbody><tr><td>Residents and contractors might be reluctant to use the system because they are not familiar with the technology, have privacy concerns, or resist new workflows. If adoption is low, the system may not work well.</td><td>High</td><td>Launch targeted awareness campaigns, implement strong privacy safeguards, provide clear value propositions, and offer training and incentives for contractors.</td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-03T00:34:15.629Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<table><tbody><tr><td><p><strong>Risk:</strong> Residents and contractors might be reluctant to use the system because they are not familiar with the technology, have privacy concerns, or resist new workflows. If adoption is low, the system may not work well.</p></td><td><p><strong>Severity:</strong> Medium</p></td><td><p><strong>Mitigation:</strong> Launch targeted awareness campaigns, implement strong privacy safeguards, provide clear value propositions, and offer training and incentives for contractors.</p></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-03T00:34:38.989Z"
                 }
               ]
             },
@@ -723,7 +812,7 @@
               "id": "16",
               "guid": "2fbeff5e-cf0b-4b2a-ab30-d721551376a0",
               "heading": "Timing and Scheduling Risks",
-              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Delays in hardware procurement, IoT sensor installation, or system integration could push back deployment timelines, impacting project milestones.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Severity:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Medium</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Mitigation:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Develop a phased rollout plan with contingency buffers, ensure vendor agreements are secured early, and monitor progress closely.</span></p></li></ul>",
+              "text": "<table><tbody><tr><td><p><strong>Risk:</strong> Delays in hardware procurement, IoT sensor installation, or system integration could push back deployment timelines, impacting project milestones</p></td><td><p><strong>Severity:</strong> Medium</p></td><td><p><strong>Mitigation:</strong> Develop a phased rollout plan with contingency buffers, ensure vendor agreements are secured early, and monitor progress closely.</p></td></tr></tbody></table>",
               "history": [
                 {
                   "affectedNodeId": "13",
@@ -757,6 +846,17 @@
                     "name": "T00786182"
                   },
                   "changedOn": "2025-10-02T00:23:49.201Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Delays in hardware procurement, IoT sensor installation, or system integration could push back deployment timelines, impacting project milestones.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Severity:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Medium</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Mitigation:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Develop a phased rollout plan with contingency buffers, ensure vendor agreements are secured early, and monitor progress closely.</span></p></li></ul>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-03T00:35:03.044Z"
                 }
               ]
             },
@@ -764,7 +864,7 @@
               "id": "17",
               "guid": "ef72e8f9-91ea-4811-92c8-23e1bec15f2f",
               "heading": "Market and External Risks",
-              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Competitive solutions or changes in municipal regulations may affect the relevance or adoption of SWMRS. Additionally, budgetary constraints could limit scalability.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Severity:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Medium</span></p></li><li><span style=\"text-decoration:none;vertical-align:baseline;\">Mitigation:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Monitor the market and regulatory landscape, secure funding in phases, and design the system to be modular for flexible expansion.</span></li></ul>",
+              "text": "<table><tbody><tr><td><p><strong>Risk:</strong> Competitive solutions or changes in municipal regulations may affect the relevance or adoption of SWMRS. Additionally, budgetary constraints could limit scalability.</p></td><td><p><strong>Severity:</strong> Medium</p></td><td><p><strong>Mitigation:</strong> Monitor the market and regulatory landscape, secure funding in phases, and design the system to be modular for flexible expansion.</p></td></tr></tbody></table>",
               "history": [
                 {
                   "affectedNodeId": "13",
@@ -820,6 +920,17 @@
                     "name": "T00786182"
                   },
                   "changedOn": "2025-10-02T00:24:24.544Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Competitive solutions or changes in municipal regulations may affect the relevance or adoption of SWMRS. Additionally, budgetary constraints could limit scalability.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Severity:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Medium</span></p></li><li><span style=\"text-decoration:none;vertical-align:baseline;\">Mitigation:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Monitor the market and regulatory landscape, secure funding in phases, and design the system to be modular for flexible expansion.</span></li></ul>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-03T00:35:32.804Z"
                 }
               ]
             },
@@ -827,7 +938,7 @@
               "id": "18",
               "guid": "9b0fa803-2ef4-453b-8875-eabc26575314",
               "heading": "Negative Business Impact Risks",
-              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">If the system fails to deliver promised benefits — such as cost reduction, improved recycling rates, and environmental impact — it could lead to reputational damage and reduced stakeholder support.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Severity:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;High</span></p></li><li><span style=\"text-decoration:none;vertical-align:baseline;\">Mitigation:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Define clear success metrics, track them continuously, and implement iterative improvements based on feedback.</span></li></ul>",
+              "text": "<table><tbody><tr><td><p><strong>Risk:</strong> If the system fails to deliver promised benefits — such as cost reduction, improved recycling rates, and environmental impact — it could lead to reputational damage and reduced stakeholder support.</p></td><td><p><strong>Severity:</strong> High</p></td><td><p><strong>Mitigation:</strong> Define clear success metrics, track them continuously, and implement iterative improvements based on feedback.</p></td></tr></tbody></table>",
               "history": [
                 {
                   "affectedNodeId": "13",
@@ -872,6 +983,17 @@
                     "name": "T00786182"
                   },
                   "changedOn": "2025-10-02T00:24:20.366Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">If the system fails to deliver promised benefits — such as cost reduction, improved recycling rates, and environmental impact — it could lead to reputational damage and reduced stakeholder support.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Severity:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;High</span></p></li><li><span style=\"text-decoration:none;vertical-align:baseline;\">Mitigation:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Define clear success metrics, track them continuously, and implement iterative improvements based on feedback.</span></li></ul>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-03T00:36:03.691Z"
                 }
               ]
             }
@@ -1088,7 +1210,7 @@
               "id": "24",
               "guid": "5d3cf223-b878-4aad-b26b-d6378eff3d5d",
               "heading": "IoT Bin Monitoring",
-              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Real-time monitoring of bin fill levels using IoT sensors.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Enables dynamic collection scheduling and reduces missed pickups.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Distinguishing Value: Provides actionable, real-time data not available in traditional fixed-schedule systems.</span></p></li></ul>",
+              "text": "<p>We will do real-time monitoring of bin fill levels using IoT sensors enables dynamic collection scheduling, reducing missed pickups and improving efficiency. Its distinguishing value lies in providing actionable, real-time data that traditional fixed-schedule systems cannot offer.</p>",
               "history": [
                 {
                   "affectedNodeId": "23",
@@ -1122,6 +1244,17 @@
                     "name": "T00786182"
                   },
                   "changedOn": "2025-10-02T00:26:06.698Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Real-time monitoring of bin fill levels using IoT sensors.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Enables dynamic collection scheduling and reduces missed pickups.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Distinguishing Value: Provides actionable, real-time data not available in traditional fixed-schedule systems.</span></p></li></ul>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-03T00:39:27.331Z"
                 }
               ]
             },
@@ -1129,7 +1262,7 @@
               "id": "25",
               "guid": "49b0514e-5a18-403e-a8d3-f884d6053d56",
               "heading": "Dynamic Route Optimization",
-              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">AI-assisted route planning based on real-time bin data, traffic conditions, and contractor availability.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Reduces fuel consumption and operational costs.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Distinguishing Value: Transforms waste collection from static schedules to demand-driven routes.</span></p></li></ul>",
+              "text": "<p>We will implement AI-assisted route planning that uses real-time bin data, traffic conditions, and contractor availability to optimize the collection routes. &nbsp;In this way. we will reduce fuel consumption and operational costs, transforming waste collection from static schedules into efficient, demand-driven operations.</p>",
               "history": [
                 {
                   "affectedNodeId": "23",
@@ -1163,6 +1296,28 @@
                     "name": "T00786182"
                   },
                   "changedOn": "2025-10-02T00:26:30.042Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">AI-assisted route planning based on real-time bin data, traffic conditions, and contractor availability.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Reduces fuel consumption and operational costs.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Distinguishing Value: Transforms waste collection from static schedules to demand-driven routes.</span></p></li></ul>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-03T00:40:11.873Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>We will implement an AI-assisted route planning that uses real-time bin data, traffic conditions, and contractor availability to optimize collection routes. This approach reduces fuel consumption and operational costs, transforming waste collection from static schedules to efficient, demand-driven routes.</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-03T00:40:47.260Z"
                 }
               ]
             },
@@ -1170,7 +1325,7 @@
               "id": "26",
               "guid": "ed214be5-a80f-4d67-a67b-6811818c9f36",
               "heading": "Recycling Incentive System",
-              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Mobile app feature that rewards residents for recycling participation.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Tracks and credits recycling behavior with points or rewards.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Distinguishing Value: Directly incentivizes sustainable behavior, addressing a key gap in current waste management systems.</span></p></li></ul>",
+              "text": "<p>We will deploy a mobile app feature that rewards residents for recycling by tracking and crediting their participation with points or rewards. By doing this, it will directly promote a sustainable behavior, addressing a key gap in current waste management systems.</p>",
               "history": [
                 {
                   "affectedNodeId": "23",
@@ -1204,6 +1359,28 @@
                     "name": "T00786182"
                   },
                   "changedOn": "2025-10-02T00:26:58.042Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Mobile app feature that rewards residents for recycling participation.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Tracks and credits recycling behavior with points or rewards.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Distinguishing Value: Directly incentivizes sustainable behavior, addressing a key gap in current waste management systems.</span></p></li></ul>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-03T00:41:27.901Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>We will deploy a mobile app feature that will reward residents for their recycling participation by tracking and crediting their recycling behavior with points or rewards. This directly incentivizes sustainable behavior, addressing a key gap in current waste management systems.</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-03T00:42:31.674Z"
                 }
               ]
             },
@@ -1211,7 +1388,7 @@
               "id": "27",
               "guid": "ddd60349-f58e-4405-81b6-e00cfd626877",
               "heading": "Administrator Dashboard",
-              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Centralized interface for waste collection monitoring, performance tracking, and operational reporting.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Provides real-time insights for informed decision-making.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Distinguishing Value: Improves transparency and control for city administrators.</span></p></li></ul>",
+              "text": "<p>We will create a centralized interface for waste collection monitoring, performance tracking, and operational reporting, providing real-time insights to support informed decision-making. This will improve transparency and give city administrators greater control over operations.</p>",
               "history": [
                 {
                   "affectedNodeId": "23",
@@ -1245,6 +1422,17 @@
                     "name": "T00786182"
                   },
                   "changedOn": "2025-10-02T00:26:50.845Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Centralized interface for waste collection monitoring, performance tracking, and operational reporting.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Provides real-time insights for informed decision-making.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Distinguishing Value: Improves transparency and control for city administrators.</span></p></li></ul>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-03T00:43:02.687Z"
                 }
               ]
             },
@@ -1252,7 +1440,7 @@
               "id": "28",
               "guid": "761a1d40-e4e5-4dc5-b928-aa986ee96eea",
               "heading": " Missed Pickup Alerts",
-              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Automatic alerts when bins remain full past scheduled pickups or when service anomalies occur.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Enables quick resolution of service issues.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Distinguishing Value: Proactively addresses service gaps before they escalate.</span></p></li></ul>",
+              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\">We will implement automatic alerts that notify relevant teams when bins remain full past scheduled pickups or when service anomalies occur. This will enable quick resolution of issues and proactively address service gaps before they escalate.</p></li></ul>",
               "history": [
                 {
                   "affectedNodeId": "23",
@@ -1286,6 +1474,17 @@
                     "name": "T00786182"
                   },
                   "changedOn": "2025-10-02T00:27:47.977Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Automatic alerts when bins remain full past scheduled pickups or when service anomalies occur.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Enables quick resolution of service issues.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Distinguishing Value: Proactively addresses service gaps before they escalate.</span></p></li></ul>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-03T00:43:19.170Z"
                 }
               ]
             },
@@ -1293,7 +1492,7 @@
               "id": "29",
               "guid": "7479a2c8-9056-4e6a-a586-bff117b83b90",
               "heading": "Resident Mobile Application",
-              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">User-friendly mobile app for reporting issues, viewing pickup schedules, and tracking recycling participation.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Supports engagement and awareness campaigns.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Distinguishing Value: Empowers residents to actively participate in waste management and recycling.</span></p></li></ul>",
+              "text": "<p>We will develop a user-friendly mobile app that allows residents to report issues, view pickup schedules, and track their recycling participation. This will support engagement and awareness campaigns, empowering residents to actively participate in waste management and recycling.</p>",
               "history": [
                 {
                   "affectedNodeId": "23",
@@ -1327,6 +1526,28 @@
                     "name": "T00786182"
                   },
                   "changedOn": "2025-10-02T00:27:35.826Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">User-friendly mobile app for reporting issues, viewing pickup schedules, and tracking recycling participation.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Supports engagement and awareness campaigns.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Distinguishing Value: Empowers residents to actively participate in waste management and recycling.</span></p></li></ul>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-03T00:43:31.150Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\">ChatGPT said:<p dir=\"ltr\"><br></p><p>We will develop a user-friendly mobile app that allows residents to report issues, view pickup schedules, and track their recycling participation. This will support engagement and awareness campaigns, empowering residents to actively participate in waste management and recycling.</p></li></ul>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-03T00:44:14.769Z"
                 }
               ]
             },
@@ -1334,7 +1555,7 @@
               "id": "30",
               "guid": "4ff1b5c9-d02d-49b1-b908-160468313f01",
               "heading": "Real-Time Reporting and Analytics",
-              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Automated generation of operational, recycling, and sustainability reports.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Supports monthly and quarterly performance evaluations.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Distinguishing Value: Provides actionable insights for continuous improvement and stakeholder reporting.</span></p></li></ul>",
+              "text": "<p>We will implement automated generation of operational, recycling, and sustainability reports to support monthly and quarterly performance evaluations. In this way. we will provide insights for continuous improvement and enhance stakeholder reporting.</p>",
               "history": [
                 {
                   "affectedNodeId": "23",
@@ -1368,6 +1589,17 @@
                     "name": "T00786182"
                   },
                   "changedOn": "2025-10-02T00:27:25.225Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Automated generation of operational, recycling, and sustainability reports.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Supports monthly and quarterly performance evaluations.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Distinguishing Value: Provides actionable insights for continuous improvement and stakeholder reporting.</span></p></li></ul>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-03T00:44:05.306Z"
                 }
               ]
             }
@@ -1881,7 +2113,7 @@
               "id": "34",
               "guid": "e10524bc-d9f9-40b5-99a9-a6a5095e6f14",
               "heading": "Limitations",
-              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Pilot-Only Deployment in Initial Release:&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">The first release will be deployed only in a selected pilot district to validate functionality, collect user feedback, and refine system performance before city-wide rollout.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Basic Mobile Application Features:&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">The resident mobile app will deliver core functionality for reporting issues, viewing schedules, and tracking recycling participation. Advanced personalization, gamification, and expanded incentive integration will be deferred to later releases.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Limited Third-Party Integration:&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Initial integration will be limited to core municipal systems and selected recycling partners. Broader integration with other smart city platforms and additional third-party systems will be addressed in future phases.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Manual Waste Processing:&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">SWMRS will focus solely on collection optimization, monitoring, and incentives. Actual waste processing, recycling operations, and disposal will remain under the responsibility of contracted waste management providers.</span></p></li></ul>",
+              "text": "<ul><li>Pilot-Only Deployment<strong>:</strong> The first rollout will be limited to a pilot district to test, get feedback, and adjust before city-wide expansion.</li><li>Basic Mobile Features: Resident app will start with issue reporting and pickup schedule panel; advanced features come later.</li><li>Basic Admin Dashboard: Initial web app offers core features like bin status, schedules, and alerts, with advanced analytics and automation deferred to later phases.</li></ul><p><br></p>",
               "history": [
                 {
                   "affectedNodeId": "33",
@@ -1915,6 +2147,50 @@
                     "name": "T00786182"
                   },
                   "changedOn": "2025-10-02T00:29:21.205Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Pilot-Only Deployment in Initial Release:&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">The first release will be deployed only in a selected pilot district to validate functionality, collect user feedback, and refine system performance before city-wide rollout.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Basic Mobile Application Features:&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">The resident mobile app will deliver core functionality for reporting issues, viewing schedules, and tracking recycling participation. Advanced personalization, gamification, and expanded incentive integration will be deferred to later releases.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Limited Third-Party Integration:&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Initial integration will be limited to core municipal systems and selected recycling partners. Broader integration with other smart city platforms and additional third-party systems will be addressed in future phases.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Manual Waste Processing:&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">SWMRS will focus solely on collection optimization, monitoring, and incentives. Actual waste processing, recycling operations, and disposal will remain under the responsibility of contracted waste management providers.</span></p></li></ul>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-03T00:18:58.963Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<ul><li><p><strong>Pilot-Only Deployment in Initial Release:</strong> The first rollout will be limited to a pilot district to test the system, gather feedback, and fine-tune performance before expanding city-wide.</p><p><strong>Basic Mobile Application Features:</strong> The resident app will start with essentials like issue reporting, schedule viewing, and recycling tracking. More advanced features such as personalization, gamification, and incentive programs will come in later phases.</p><p><strong>Limited Third-Party Integration:</strong> Early releases will connect only with key municipal systems and selected recycling partners. Broader smart city and third-party integrations will be added over time.</p><p><strong>Manual Waste Processing:</strong> SWMRS will focus on optimizing collection, monitoring, and incentives. Actual waste processing and recycling operations will continue to be handled by existing waste management providers.</p></li></ul>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-03T00:21:06.321Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong>Pilot-Only Deployment:</strong> The first rollout will be limited to a pilot district to test, get feedback, and adjust before city-wide expansion.</p><p><strong>Basic Mobile Features:</strong> Resident app will start with issue reporting and pickup schedule panel; advanced features come later.</p><p><br></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-03T00:21:38.077Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><strong>Pilot-Only Deployment:</strong> The first rollout will be limited to a pilot district to test, get feedback, and adjust before city-wide expansion.</p><p><strong>Basic Mobile Features:</strong> Resident app will start with issue reporting and pickup schedule panel; advanced features come later.</p><p><strong>Basic Admin Dashboard:</strong> Initial web app offers core features like bin status, schedules, and alerts, with advanced analytics and automation deferred to later phases.</p><p><br></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-03T00:38:41.268Z"
                 }
               ]
             },
@@ -1922,7 +2198,7 @@
               "id": "35",
               "guid": "087fa635-6c52-4417-ae59-5eb57b97681f",
               "heading": "Exclusions",
-              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Full City-Wide IoT Deployment</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;in the initial release; expansion to all districts will occur in later phases.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">AI-Driven Predictive Waste Collection</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;in the first release; reserved for future releases.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Autonomous Waste Collection Vehicles</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;— integration with autonomous waste collection systems will not be included in initial or early releases.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">International Deployment</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;— the system is designed for deployment in the pilot city only; adaptations for other municipalities or international deployment are out of scope.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Full Advanced Analytics and Reporting</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;— only basic dashboards will be provided in the initial release; advanced analytics will be deferred to later phases.</span></p></li></ul>",
+              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Full City-Wide IoT Deployment</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;in the initial release; expansion to all districts will occur in later phases.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">AI-Driven Predictive Waste Collection</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;in the first release; reserved for future releases.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system is designed for deployment in the pilot city only; adaptations for other municipalities or international deployment are out of scope.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Only basic dashboards will be provided in the initial release; advanced analytics will be deferred to later phases.</span></p></li></ul>",
               "history": [
                 {
                   "affectedNodeId": "33",
@@ -1956,6 +2232,17 @@
                     "name": "T00786182"
                   },
                   "changedOn": "2025-10-02T00:29:32.923Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Full City-Wide IoT Deployment</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;in the initial release; expansion to all districts will occur in later phases.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">AI-Driven Predictive Waste Collection</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;in the first release; reserved for future releases.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Autonomous Waste Collection Vehicles</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;— integration with autonomous waste collection systems will not be included in initial or early releases.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">International Deployment</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;— the system is designed for deployment in the pilot city only; adaptations for other municipalities or international deployment are out of scope.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Full Advanced Analytics and Reporting</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;— only basic dashboards will be provided in the initial release; advanced analytics will be deferred to later phases.</span></p></li></ul>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-03T00:23:34.055Z"
                 }
               ]
             }
@@ -2127,7 +2414,7 @@
           "id": "41",
           "guid": "317c62b6-e107-4999-ac5f-6eb9554658b6",
           "heading": "Stakeholder Profiles",
-          "text": "<p dir=\"ltr\"><br></p><table><tbody><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Stakeholder</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Roles</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Interests</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Influence</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Needs</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Concerns</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Residents</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Primary users of waste collection and recycling services.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Reliable collection, clean neighborhoods, incentives for recycling.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Medium – can influence adoption rates.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Easy-to-use mobile app, timely notifications, transparency in rewards.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Privacy of personal data, app usability, fairness in reward distribution.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Collection Workers / Contractors</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Operational users who collect waste and recycling.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Efficient routes, reduced workload, fewer missed pickups, safety in operations.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Medium – critical to daily system operations.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Optimized route planning, clear scheduling, real-time issue reporting.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Overly complex technology, disruption of existing workflows.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">City Administrators / Officials</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Oversight and decision-making authority for city waste management.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Cost savings, environmental compliance, performance visibility, citizen satisfaction.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">High – control budget and policy direction.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Real-time dashboards, supplier performance reports, accurate recycling and cost metrics.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">System integration with municipal systems, political accountability.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Recycling Centers / Partners</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">External partners processing recyclable materials.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Consistent volume of recyclables, efficient coordination, accurate reporting.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Low to Medium – limited direct control.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Reliable data on recyclable quantities, integration with city logistics.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Data accuracy, timely transport of recyclables.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Technology Providers (IoT Vendors, Reward Program Partners)</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Suppliers of IoT sensors, connectivity, and incentive platforms.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Reliable system integration, market adoption of their services.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Low – provide enabling infrastructure.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Seamless integration with SWMRS, compliance with standards.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Technical failures, contractual obligations, long-term sustainability.</span></p></td></tr></tbody></table>",
+          "text": "<p dir=\"ltr\"><br></p><table><tbody><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>Stakeholder</strong></span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>Roles</strong></span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>Interests</strong></span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>Influence</strong></span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>Needs</strong></span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>Concerns</strong></span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Residents</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Primary users of waste collection and recycling services.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Reliable collection, clean neighborhoods, incentives for recycling.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Medium – can influence adoption rates.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Easy-to-use mobile app, timely notifications, transparency in rewards.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Privacy of personal data, app usability, fairness in reward distribution.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Collection Workers / Contractors</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Operational users who collect waste and recycling.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Efficient routes, reduced workload, fewer missed pickups, safety in operations.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Medium – critical to daily system operations.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Optimized route planning, clear scheduling, real-time issue reporting.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Overly complex technology, disruption of existing workflows.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">City Administrators / Officials</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Oversight and decision-making authority for city waste management.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Cost savings, environmental compliance, performance visibility, citizen satisfaction.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">High – control budget and policy direction.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Real-time dashboards, supplier performance reports, accurate recycling and cost metrics.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">System integration with municipal systems, political accountability.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Recycling Centers / Partners</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">External partners processing recyclable materials.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Consistent volume of recyclables, efficient coordination, accurate reporting.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Low to Medium – limited direct control.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Reliable data on recyclable quantities, integration with city logistics.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Data accuracy, timely transport of recyclables.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Technology Providers (IoT Vendors, Reward Program Partners)</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Suppliers of IoT sensors, connectivity, and incentive platforms.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Reliable system integration, market adoption of their services.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Low – provide enabling infrastructure.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Seamless integration with SWMRS, compliance with standards.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Technical failures, contractual obligations, long-term sustainability.</span></p></td></tr></tbody></table>",
           "history": [
             {
               "affectedNodeId": "40",
@@ -2161,6 +2448,17 @@
                 "name": "T00786182"
               },
               "changedOn": "2025-10-02T00:31:14.449Z"
+            },
+            {
+              "attributesChanged": {
+                "text": "<p dir=\"ltr\"><br></p><table><tbody><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Stakeholder</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Roles</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Interests</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Influence</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Needs</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Concerns</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Residents</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Primary users of waste collection and recycling services.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Reliable collection, clean neighborhoods, incentives for recycling.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Medium – can influence adoption rates.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Easy-to-use mobile app, timely notifications, transparency in rewards.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Privacy of personal data, app usability, fairness in reward distribution.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Collection Workers / Contractors</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Operational users who collect waste and recycling.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Efficient routes, reduced workload, fewer missed pickups, safety in operations.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Medium – critical to daily system operations.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Optimized route planning, clear scheduling, real-time issue reporting.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Overly complex technology, disruption of existing workflows.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">City Administrators / Officials</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Oversight and decision-making authority for city waste management.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Cost savings, environmental compliance, performance visibility, citizen satisfaction.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">High – control budget and policy direction.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Real-time dashboards, supplier performance reports, accurate recycling and cost metrics.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">System integration with municipal systems, political accountability.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Recycling Centers / Partners</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">External partners processing recyclable materials.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Consistent volume of recyclables, efficient coordination, accurate reporting.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Low to Medium – limited direct control.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Reliable data on recyclable quantities, integration with city logistics.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Data accuracy, timely transport of recyclables.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Technology Providers (IoT Vendors, Reward Program Partners)</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Suppliers of IoT sensors, connectivity, and incentive platforms.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Reliable system integration, market adoption of their services.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Low – provide enabling infrastructure.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Seamless integration with SWMRS, compliance with standards.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Technical failures, contractual obligations, long-term sustainability.</span></p></td></tr></tbody></table>"
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-03T00:37:11.654Z"
             }
           ]
         },
@@ -2168,7 +2466,7 @@
           "id": "42",
           "guid": "2b6571be-69b5-42bd-90b3-f58b221144a7",
           "heading": "Project Priorities",
-          "text": "<p dir=\"ltr\"><br></p><table><tbody><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Dimension</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Driver</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Constraint</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Degree of Freedom</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Features</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The primary driver of this project is functionality. Deliver core capabilities: IoT bin monitoring, route optimization, recycling rewards, and real time dashboards, These are non-negotiable success factors.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Core features must be included for success and can not be compromised</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Ability to extend additional features in later releases</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Quality</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">System reliability, accuracy of sensor data, security of user information</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">High reliability and accuracy required for adoption</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Slight flexibility in rollout phases if quality is preserved</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Schedule</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Timely delivery of the system to start improving operations within the first year</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Core features needed in release 1.0</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Phased implementation acceptable for non-core features</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Cost</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Operate within municipal budget and deliver long-term cost savings</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Budget overruns not acceptable beyond 15% without approval</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Staffing adjustments possible to optimize schedule and quality</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Staff</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Efficient team allocation for delivery</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Maximum team size: 1 PO, 1 BA, 6 developers, 3 testers</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Adjust team composition to balance speed and quality</span></p></td></tr></tbody></table>",
+          "text": "<p dir=\"ltr\"><br></p><table><tbody><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>Dimension</strong></span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>Driver</strong></span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>Constraint</strong></span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>Degree of Freedom</strong></span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>Features</strong></span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The primary driver of this project is functionality. Deliver core capabilities: IoT bin monitoring, route optimization, recycling rewards, and real time dashboards, These are non-negotiable success factors.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Core features must be included for success and can not be compromised</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Ability to extend additional features in later releases</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>Quality</strong></span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">System reliability, accuracy of sensor data, security of user information</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">High reliability and accuracy required for adoption</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Slight flexibility in rollout phases if quality is preserved</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>Schedule</strong></span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Timely delivery of the system to start improving operations within the first year</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Core features needed in release 1.0</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Phased implementation acceptable for non-core features</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>Cost</strong></span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Operate within municipal budget and deliver long-term cost savings</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Budget overruns not acceptable beyond 15% without approval</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Staffing adjustments possible to optimize schedule and quality</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>Staff</strong></span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Efficient team allocation for delivery</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Maximum team size: 1 PO, 1 BA, 6 developers, 3 testers</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Adjust team composition to balance speed and quality</span></p></td></tr></tbody></table>",
           "history": [
             {
               "affectedNodeId": "40",
@@ -2202,6 +2500,17 @@
                 "name": "T00786182"
               },
               "changedOn": "2025-10-02T00:32:02.037Z"
+            },
+            {
+              "attributesChanged": {
+                "text": "<p dir=\"ltr\"><br></p><table><tbody><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Dimension</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Driver</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Constraint</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Degree of Freedom</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Features</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The primary driver of this project is functionality. Deliver core capabilities: IoT bin monitoring, route optimization, recycling rewards, and real time dashboards, These are non-negotiable success factors.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Core features must be included for success and can not be compromised</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Ability to extend additional features in later releases</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Quality</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">System reliability, accuracy of sensor data, security of user information</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">High reliability and accuracy required for adoption</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Slight flexibility in rollout phases if quality is preserved</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Schedule</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Timely delivery of the system to start improving operations within the first year</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Core features needed in release 1.0</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Phased implementation acceptable for non-core features</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Cost</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Operate within municipal budget and deliver long-term cost savings</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Budget overruns not acceptable beyond 15% without approval</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Staffing adjustments possible to optimize schedule and quality</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Staff</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Efficient team allocation for delivery</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Maximum team size: 1 PO, 1 BA, 6 developers, 3 testers</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Adjust team composition to balance speed and quality</span></p></td></tr></tbody></table>"
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-03T00:37:02.559Z"
             }
           ]
         },
@@ -2263,7 +2572,7 @@
       "id": "44",
       "guid": "5e49370c-a98e-4de5-998a-6da5eaff70b5",
       "heading": "Event List",
-      "text": "<p dir=\"ltr\"><br></p><table><tbody><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Event Type</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Description</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">System Response</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Signal Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">IoT sensor detects a waste bin is 90% full.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system automatically schedules a waste pickup, recalculates and updates truck routes to optimize collection efficiency, and notifies the relevant contractor.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Signal Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">IoT sensor detects a bin is over capacity (100%).</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system generates a high-priority alert, schedules an immediate pickup, and updates contractor notifications and route plans.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">User Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Resident reports an overflowing bin via the mobile app.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system logs the issue, notifies the responsible contractor, prioritizes the pickup in the routing system, and sends the resident a confirmation notification.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">User Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Resident submits a recycling participation update through the app.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system logs participation data, updates the resident’s reward balance, and notifies the resident of their new recycling score and rewards earned.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Temporal Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Weekly recycling performance report is due.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system automatically generates a detailed recycling report for administrators and residents, summarizing recycling rates, participation trends, and environmental impact metrics.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Temporal Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Monthly route efficiency report is due.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system generates an operations report showing route optimization performance, cost savings, fuel consumption reduction, and missed pickup statistics.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">User Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">City administrator requests budget status.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system displays a real-time spending dashboard showing current expenditures, budget utilization, and cost-saving performance metrics.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Signal Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">IoT sensor fails or stops transmitting data.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system logs the failure, notifies maintenance personnel, and switches to fallback monitoring mode to prevent missed pickups.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">User Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Resident requests pickup schedule via the mobile app.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system retrieves and displays the updated pickup schedule for the resident’s location, including recycling days and special pickups.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">User Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Contractor logs completion of a pickup.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system updates the route progress, marks the bin as serviced, and adjusts the route for remaining pickups.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Signal Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Sudden change in traffic conditions (from integration with traffic data).</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system dynamically recalculates truck routes to maintain optimal efficiency and notify drivers of changes.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Temporal Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Quarterly sustainability report is due.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system generates a report including CO₂ emissions reductions, recycling rates, cost savings, and citizen participation metrics for presentation to stakeholders.</span></p></td></tr></tbody></table>",
+      "text": "<p dir=\"ltr\"><br></p><table><tbody><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>Event Type</strong></span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>Description</strong></span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>System Response</strong></span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Signal Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">IoT sensor detects a waste bin is 90% full.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system automatically schedules a waste pickup, recalculates and updates truck routes to optimize collection efficiency, and notifies the relevant contractor.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Signal Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">IoT sensor detects a bin is over capacity (100%).</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system generates a high-priority alert, schedules an immediate pickup, and updates contractor notifications and route plans.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">User Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Resident reports an overflowing bin via the mobile app.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system logs the issue, notifies the responsible contractor, prioritizes the pickup in the routing system, and sends the resident a confirmation notification.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">User Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Resident submits a recycling participation update through the app.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system logs participation data, updates the resident’s reward balance, and notifies the resident of their new recycling score and rewards earned.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Temporal Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Weekly recycling performance report is due.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system automatically generates a detailed recycling report for administrators and residents, summarizing recycling rates, participation trends, and environmental impact metrics.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Temporal Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Monthly route efficiency report is due.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system generates an operations report showing route optimization performance, cost savings, fuel consumption reduction, and missed pickup statistics.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">User Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">City administrator requests budget status.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system displays a real-time spending dashboard showing current expenditures, budget utilization, and cost-saving performance metrics.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Signal Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">IoT sensor fails or stops transmitting data.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system logs the failure, notifies maintenance personnel, and switches to fallback monitoring mode to prevent missed pickups.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">User Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Resident requests pickup schedule via the mobile app.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system retrieves and displays the updated pickup schedule for the resident’s location, including recycling days and special pickups.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">User Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Contractor logs completion of a pickup.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system updates the route progress, marks the bin as serviced, and adjusts the route for remaining pickups.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Signal Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Sudden change in traffic conditions (from integration with traffic data).</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system dynamically recalculates truck routes to maintain optimal efficiency and notify drivers of changes.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Temporal Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Quarterly sustainability report is due.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system generates a report including CO₂ emissions reductions, recycling rates, cost savings, and citizen participation metrics for presentation to stakeholders.</span></p></td></tr></tbody></table>",
       "history": [
         {
           "affectedNodeId": "#",
@@ -2297,6 +2606,17 @@
             "name": "T00786182"
           },
           "changedOn": "2025-10-02T00:32:44.588Z"
+        },
+        {
+          "attributesChanged": {
+            "text": "<p dir=\"ltr\"><br></p><table><tbody><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Event Type</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Description</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">System Response</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Signal Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">IoT sensor detects a waste bin is 90% full.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system automatically schedules a waste pickup, recalculates and updates truck routes to optimize collection efficiency, and notifies the relevant contractor.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Signal Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">IoT sensor detects a bin is over capacity (100%).</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system generates a high-priority alert, schedules an immediate pickup, and updates contractor notifications and route plans.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">User Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Resident reports an overflowing bin via the mobile app.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system logs the issue, notifies the responsible contractor, prioritizes the pickup in the routing system, and sends the resident a confirmation notification.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">User Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Resident submits a recycling participation update through the app.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system logs participation data, updates the resident’s reward balance, and notifies the resident of their new recycling score and rewards earned.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Temporal Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Weekly recycling performance report is due.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system automatically generates a detailed recycling report for administrators and residents, summarizing recycling rates, participation trends, and environmental impact metrics.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Temporal Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Monthly route efficiency report is due.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system generates an operations report showing route optimization performance, cost savings, fuel consumption reduction, and missed pickup statistics.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">User Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">City administrator requests budget status.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system displays a real-time spending dashboard showing current expenditures, budget utilization, and cost-saving performance metrics.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Signal Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">IoT sensor fails or stops transmitting data.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system logs the failure, notifies maintenance personnel, and switches to fallback monitoring mode to prevent missed pickups.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">User Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Resident requests pickup schedule via the mobile app.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system retrieves and displays the updated pickup schedule for the resident’s location, including recycling days and special pickups.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">User Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Contractor logs completion of a pickup.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system updates the route progress, marks the bin as serviced, and adjusts the route for remaining pickups.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Signal Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Sudden change in traffic conditions (from integration with traffic data).</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system dynamically recalculates truck routes to maintain optimal efficiency and notify drivers of changes.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Temporal Event</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Quarterly sustainability report is due.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system generates a report including CO₂ emissions reductions, recycling rates, cost savings, and citizen participation metrics for presentation to stakeholders.</span></p></td></tr></tbody></table>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00786182@mytru.ca",
+            "name": "T00786182"
+          },
+          "changedOn": "2025-10-03T00:37:22.838Z"
         }
       ]
     }
