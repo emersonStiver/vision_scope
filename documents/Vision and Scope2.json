@@ -8,7 +8,7 @@
     "email": "t00786182@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2025-10-02T19:52:59.765Z",
+  "lastChangedOn": "2025-10-03T00:16:55.316Z",
   "lastChangedBy": {
     "name": "T00786182",
     "email": "t00786182@mytru.ca",
@@ -89,7 +89,7 @@
           "id": "3",
           "guid": "1b62c5b7-c312-473d-b800-f696317d6733",
           "heading": "Background",
-          "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Urban centers worldwide face mounting challenges in waste management. Traditional collection methods rely on fixed schedules that fail to adapt to actual waste accumulation levels. This leads to operational inefficiencies, increased labor costs, excessive fuel consumption, and public dissatisfaction. Simultaneously, recycling participation rates remain low due to lack of awareness, convenience, and incentives. These challenges, coupled with the global push for sustainability, underscore the need for smarter, data-driven waste management solutions.</span></p>",
+          "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Urban centers worldwide face huge challenges in waste management. Traditional collection methods rely on fixed schedules that fail to adapt to actual waste accumulation levels. This leads to operational inefficiencies, increased labor costs, excessive fuel consumption, and public dissatisfaction. Also, recycling participation rates remain low due to lack of awareness, convenience, and incentives. These challenges, coupled with the global push for sustainability, shows the need for smarter, data-driven waste management solutions.</span></p>",
           "history": [
             {
               "affectedNodeId": "2",
@@ -123,6 +123,17 @@
                 "name": "T00786182"
               },
               "changedOn": "2025-10-02T00:19:19.456Z"
+            },
+            {
+              "attributesChanged": {
+                "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Urban centers worldwide face mounting challenges in waste management. Traditional collection methods rely on fixed schedules that fail to adapt to actual waste accumulation levels. This leads to operational inefficiencies, increased labor costs, excessive fuel consumption, and public dissatisfaction. Simultaneously, recycling participation rates remain low due to lack of awareness, convenience, and incentives. These challenges, coupled with the global push for sustainability, underscore the need for smarter, data-driven waste management solutions.</span></p>"
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T23:55:18.590Z"
             }
           ]
         },
@@ -159,7 +170,7 @@
               "id": "5",
               "guid": "1d44859e-07ac-4354-84f1-3b2826c2d16f",
               "heading": "Situation",
-              "text": "<p><span style=\"text-decoration:none;vertical-align:baseline;\">City waste management currently relies on static collection schedules and manual monitoring. Trucks follow fixed routes regardless of demand, and recycling participation is low due to limited incentives. Administrators lack real-time insights into waste levels, recycling rates, and contractor performance, making it difficult to optimize operations. This environment results in inefficient resource use, higher costs, and environmental strain.</span></p>",
+              "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">City waste management currently relies on fixed collection schedules and manual monitoring . Trucks follow fixed routes regardless of demand, and recycling participation is low because of limited incentives. Administrators lack real-time insights into waste levels, recycling rates, and contractor performance, making it difficult to smoothen operations. This environment leads to inefficient resource use, higher costs, and environmental problems.</span></p>",
               "history": [
                 {
                   "affectedNodeId": "4",
@@ -194,6 +205,17 @@
                     "name": "T00786182"
                   },
                   "changedOn": "2025-10-02T00:19:41.246Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><span style=\"text-decoration:none;vertical-align:baseline;\">City waste management currently relies on static collection schedules and manual monitoring. Trucks follow fixed routes regardless of demand, and recycling participation is low due to limited incentives. Administrators lack real-time insights into waste levels, recycling rates, and contractor performance, making it difficult to optimize operations. This environment results in inefficient resource use, higher costs, and environmental strain.</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T23:55:26.600Z"
                 }
               ]
             },
@@ -242,7 +264,7 @@
               "id": "7",
               "guid": "52219b88-68d6-4a55-92d3-0414bd46281f",
               "heading": "Implication",
-              "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">If these problems remain unresolved:</span></p><ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Waste collection will continue to be inefficient and costly.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Recycling rates will stagnate or decline, increasing landfill use and harming the environment.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Operational budgets will continue to overshoot, straining municipal finances.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">CO₂ emissions and illegal dumping incidents will rise, impacting public health and citizen satisfaction.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Administrators will lack the necessary tools to improve service delivery and waste management strategies.</span></p></li></ul>",
+              "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">If these problems remain unresolved:</span></p><ul><li><span style=\"text-decoration:none;vertical-align:baseline;\">Waste collection will continue to be inefficient and costly for the city.</span></li><li><span style=\"text-decoration:none;vertical-align:baseline;\">Recycling rates will be stagnant or even decline, increasing landfill use and harming the environment.</span></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Operational budgets will continue to overshoot, straining municipal finances.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">CO₂ emissions and illegal dumping incidents will rise, impacting public health and citizen satisfaction.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Administrators will lack the necessary tools to improve service delivery and waste management strategies.</span></p></li></ul>",
               "history": [
                 {
                   "affectedNodeId": "4",
@@ -276,6 +298,17 @@
                     "name": "T00786182"
                   },
                   "changedOn": "2025-10-02T00:21:08.035Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">If these problems remain unresolved:</span></p><ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Waste collection will continue to be inefficient and costly.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Recycling rates will stagnate or decline, increasing landfill use and harming the environment.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Operational budgets will continue to overshoot, straining municipal finances.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">CO₂ emissions and illegal dumping incidents will rise, impacting public health and citizen satisfaction.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Administrators will lack the necessary tools to improve service delivery and waste management strategies.</span></p></li></ul>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T23:55:57.516Z"
                 }
               ]
             },
@@ -283,7 +316,7 @@
               "id": "8",
               "guid": "611ee43b-2149-49b5-8cea-ac88e1f67d4c",
               "heading": "Benefit",
-              "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Solving these problems will:</span></p><ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Optimize waste collection routes and schedules, reducing fuel consumption and labor costs.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Increase recycling rates through incentive programs, reducing landfill use and environmental impact.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Improve cost efficiency and budget predictability.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Reduce CO₂ emissions and illegal dumping incidents.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Provide administrators with real-time data for faster, more effective decision-making.</span></p></li></ul>",
+              "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Solving these problems will:</span></p><ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Improve waste collection routes and schedules, reducing fuel consumption and labor costs.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Increase recycling rates through motivating programs, reducing landfill use and environmental impact.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Improve cost efficiency and budget predictability.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Reduce CO₂ emissions and illegal dumping incidents.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Provide administrators with real-time data for faster, more effective decision-making.</span></p></li></ul>",
               "history": [
                 {
                   "affectedNodeId": "4",
@@ -317,6 +350,28 @@
                     "name": "T00786182"
                   },
                   "changedOn": "2025-10-02T00:21:24.356Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Solving these problems will:</span></p><ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Optimize waste collection routes and schedules, reducing fuel consumption and labor costs.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Increase recycling rates through incentive programs, reducing landfill use and environmental impact.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Improve cost efficiency and budget predictability.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Reduce CO₂ emissions and illegal dumping incidents.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Provide administrators with real-time data for faster, more effective decision-making.</span></p></li></ul>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T23:56:07.177Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Solving these problems will:</span></p><ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Improve waste collection routes and schedules, reducing fuel consumption and labor costs.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Increase recycling rates through incentive programs, reducing landfill use and environmental impact.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Improve cost efficiency and budget predictability.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Reduce CO₂ emissions and illegal dumping incidents.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Provide administrators with real-time data for faster, more effective decision-making.</span></p></li></ul>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-02T23:56:16.511Z"
                 }
               ]
             },
@@ -324,7 +379,7 @@
               "id": "9",
               "guid": "435486e6-5664-4f81-b1fd-229e17b7eaac",
               "heading": "Vision",
-              "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">A smart, demand-driven waste management system where trucks follow optimized, dynamic routes based on real-time bin capacity and location data; citizens actively participate in recycling through incentives; administrators have full visibility into waste collection operations, enabling proactive management. This leads to cleaner cities, reduced environmental impact, efficient resource use, and improved citizen satisfaction.</span></p>",
+              "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">A smart demand-based waste management system involves trucks that operate on optimized dynamic routing based on data from bins about capacity and location; citizens are actively incentivized in the recycling process; administrators are given full visibility into waste collection operations so they can act proactively. This results in cleaner cities, less environmental impact, the efficient utility of resources, and happy residents.</span></p>",
               "history": [
                 {
                   "affectedNodeId": "4",
@@ -358,6 +413,17 @@
                     "name": "T00786182"
                   },
                   "changedOn": "2025-10-02T00:21:37.591Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">A smart, demand-driven waste management system where trucks follow optimized, dynamic routes based on real-time bin capacity and location data; citizens actively participate in recycling through incentives; administrators have full visibility into waste collection operations, enabling proactive management. This leads to cleaner cities, reduced environmental impact, efficient resource use, and improved citizen satisfaction.</span></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-03T00:13:57.466Z"
                 }
               ]
             }
@@ -449,7 +515,7 @@
           "id": "12",
           "guid": "a407faa0-45e5-4b65-9ea2-f8ea98e4c1c3",
           "heading": "Vision Statement ",
-          "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">For city residents, waste collection contractors, and municipal administrators</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">who struggle with inefficient collection processes, low recycling participation, high costs, and limited real-time visibility,</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">the Smart Waste Management &amp; Recycling System (SWMRS)</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">is an integrated smart-city waste management platform</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">that uses IoT-enabled monitoring, route optimization, and recycling incentives to improve efficiency, reduce costs, and promote sustainability.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Unlike traditional waste management systems that rely on static schedules, manual tracking, and limited recycling programs,</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">our product provides real-time data, optimized collection, and a citizen reward system, ensuring a cleaner city and more cost-effective operations.</span></p>",
+          "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">For city residents, waste collection contractors, and municipal administrators&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">who struggle with inefficient collection processes, low recycling participation, high costs, and limited real-time visibility,&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">the Smart Waste Management and Recycling System (SWMRS)&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">is an integrated smart-city waste management platform&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">that uses IoT-enabled monitoring, route optimization, and recycling incentives to improve efficiency, reduce costs, and promote sustainability.&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Unlike traditional waste management systems that rely on static schedules, manual tracking, and limited recycling programs,&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">our product provides real-time data, optimized collection, and a citizen reward system, ensuring a cleaner city and more cost-effective operations.</span></p>",
           "history": [
             {
               "affectedNodeId": "2",
@@ -483,6 +549,28 @@
                 "name": "T00786182"
               },
               "changedOn": "2025-10-02T00:22:32.096Z"
+            },
+            {
+              "attributesChanged": {
+                "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">For city residents, waste collection contractors, and municipal administrators</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">who struggle with inefficient collection processes, low recycling participation, high costs, and limited real-time visibility,</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">the Smart Waste Management &amp; Recycling System (SWMRS)</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">is an integrated smart-city waste management platform</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">that uses IoT-enabled monitoring, route optimization, and recycling incentives to improve efficiency, reduce costs, and promote sustainability.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Unlike traditional waste management systems that rely on static schedules, manual tracking, and limited recycling programs,</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">our product provides real-time data, optimized collection, and a citizen reward system, ensuring a cleaner city and more cost-effective operations.</span></p>"
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-03T00:12:57.258Z"
+            },
+            {
+              "attributesChanged": {
+                "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">For city residents, waste collection contractors, and municipal administrators&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">who struggle with inefficient collection processes, low recycling participation, high costs, and limited real-time visibility,&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">the Smart Waste Management &amp; Recycling System (SWMRS)&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">is an integrated smart-city waste management platform&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">that uses IoT-enabled monitoring, route optimization, and recycling incentives to improve efficiency, reduce costs, and promote sustainability.&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Unlike traditional waste management systems that rely on static schedules, manual tracking, and limited recycling programs,&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">our product provides real-time data, optimized collection, and a citizen reward system, ensuring a cleaner city and more cost-effective operations.</span></p>"
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-03T00:13:11.701Z"
             }
           ]
         },
@@ -490,7 +578,7 @@
           "id": "13",
           "guid": "6cb2041f-c7ce-40b8-bafa-b4da3a761b7f",
           "heading": "Business Risks",
-          "text": "<p><span style=\"text-decoration:none;vertical-align:baseline;\">The development of the Smart Waste Management &amp; Recycling System (SWMRS) faces several business risks that could impact project success.</span></p>",
+          "text": "<p><span style=\"text-decoration:none;vertical-align:baseline;\">The development of the Smart Waste Management and Recycling System (SWMRS) faces several business risks that could impact project success.</span></p>",
           "history": [
             {
               "affectedNodeId": "2",
@@ -524,6 +612,17 @@
                 "name": "T00786182"
               },
               "changedOn": "2025-10-02T00:23:06.284Z"
+            },
+            {
+              "attributesChanged": {
+                "text": "<p><span style=\"text-decoration:none;vertical-align:baseline;\">The development of the Smart Waste Management &amp; Recycling System (SWMRS) faces several business risks that could impact project success.</span></p>"
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-03T00:13:27.104Z"
             }
           ],
           "children": [
@@ -572,7 +671,7 @@
               "id": "15",
               "guid": "edf779e0-aabd-48c8-a46f-e0da1b9b059c",
               "heading": "User Acceptance Risks",
-              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Residents and contractors may be hesitant to adopt the system due to unfamiliarity with the technology, privacy concerns, or resistance to new workflows. Low adoption could undermine the system’s effectiveness.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Severity:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;High</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Mitigation:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Launch targeted awareness campaigns, implement strong privacy safeguards, provide clear value propositions, and offer training and incentives for contractors.</span></p></li></ul>",
+              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Residents and contractors might be reluctant to use the system because they are not familiar with the technology, have privacy concerns, or resist new workflows. If adoption is low, the system may not work well.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Severity:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;High</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Mitigation:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Launch targeted awareness campaigns, implement strong privacy safeguards, provide clear value propositions, and offer training and incentives for contractors.</span></p></li></ul>",
               "history": [
                 {
                   "affectedNodeId": "13",
@@ -606,6 +705,17 @@
                     "name": "T00786182"
                   },
                   "changedOn": "2025-10-02T00:23:36.915Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Residents and contractors may be hesitant to adopt the system due to unfamiliarity with the technology, privacy concerns, or resistance to new workflows. Low adoption could undermine the system’s effectiveness.</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Severity:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;High</span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Mitigation:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Launch targeted awareness campaigns, implement strong privacy safeguards, provide clear value propositions, and offer training and incentives for contractors.</span></p></li></ul>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-03T00:14:08.378Z"
                 }
               ]
             },
@@ -800,7 +910,7 @@
               "id": "20",
               "guid": "e86c7637-c33c-4d66-810e-325194406e7d",
               "heading": "Assumptions",
-              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Residents own smartphones with internet access and can interact with the system through a mobile application.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">IoT sensors are available and reliable for integration with waste bins.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Stable internet connectivity is present across the city.</span></p></li></ul>",
+              "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system is based on the assumption that residents own smartphones with internet access and can interact with the platform through a mobile application. It also assumes that IoT sensors are available and reliable for integration with waste bins, and that stable internet connectivity is consistently present across the city.</span></p>",
               "history": [
                 {
                   "affectedNodeId": "19",
@@ -834,6 +944,17 @@
                     "name": "T00786182"
                   },
                   "changedOn": "2025-10-02T00:24:59.314Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Residents own smartphones with internet access and can interact with the system through a mobile application.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">IoT sensors are available and reliable for integration with waste bins.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Stable internet connectivity is present across the city.</span></p></li></ul>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-03T00:14:25.044Z"
                 }
               ]
             },
@@ -841,7 +962,7 @@
               "id": "21",
               "guid": "b3a67076-2a4c-421e-8da8-b32e6bab4985",
               "heading": "Dependencies",
-              "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Integration with municipal financial and waste management systems.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Availability of IoT infrastructure for data collection and monitoring.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Partnerships with recycling centers and reward program vendors.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Contractor compliance with optimized collection schedules.</span></p></li></ul>",
+              "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The system depends on successful integration with municipal financial and waste management systems, as well as the availability of IoT infrastructure for data collection and monitoring. It also requires partnerships with recycling centers and reward program vendors, along with contractor compliance to the optimized collection schedules.</span></p>",
               "history": [
                 {
                   "affectedNodeId": "19",
@@ -875,6 +996,17 @@
                     "name": "T00786182"
                   },
                   "changedOn": "2025-10-02T00:25:18.636Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Integration with municipal financial and waste management systems.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Availability of IoT infrastructure for data collection and monitoring.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Partnerships with recycling centers and reward program vendors.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Contractor compliance with optimized collection schedules.</span></p></li></ul>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-03T00:14:31.365Z"
                 }
               ]
             }
@@ -1245,9 +1377,9 @@
           "id": "31",
           "guid": "9d7acb4b-c729-48ae-ae99-18129b14caf2",
           "heading": "Scope of Initial Release",
-          "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The initial release of the Smart Waste Management &amp; Recycling System (SWMRS) will deliver a focused set of high-value features to establish a strong foundation for smart waste management while maximizing benefits for residents, administrators, contractors, and recycling partners. These features have been prioritized for their immediate impact, feasibility, and scalability.</span></p>",
+          "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The solution will be developed in four phases, with progress categorized into three main areas: Foundation (backend systems and IoT infrastructure), Web App (for administrators), and Mobile App (for residents). Each phase will include development across all three categories to ensure balanced growth of the platform.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The first release of the Smart Waste Management &amp; Recycling System (SWMRS) will provide a focused set of valuable features. This will create a solid foundation for smart waste management and maximize benefits for residents, administrators, contractors, and recycling partners. These features have been chosen for their immediate impact, practicality, and ability to:</span></p>",
           "attachments": [
-            "Vision and Scope2-31_1_Scope of the initial release.drawio.png"
+            "Vision and Scope2-31_1_Phase_1 (2).png"
           ],
           "history": [
             {
@@ -1375,6 +1507,104 @@
                 "name": "T00786182"
               },
               "changedOn": "2025-10-02T19:10:23.127Z"
+            },
+            {
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-03T00:01:41.032Z",
+              "removedAttachment": "Vision and Scope2-31_1_Scope of the initial release.drawio.png"
+            },
+            {
+              "addedAttachment": "Vision and Scope2-31_1_Phase_1.png",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-03T00:01:47.252Z"
+            },
+            {
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-03T00:04:06.830Z",
+              "removedAttachment": "Vision and Scope2-31_1_Phase_1.png"
+            },
+            {
+              "addedAttachment": "Vision and Scope2-31_1_Phase_1 (1).png",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-03T00:04:13.229Z"
+            },
+            {
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-03T00:07:46.475Z",
+              "removedAttachment": "Vision and Scope2-31_1_Phase_1 (1).png"
+            },
+            {
+              "addedAttachment": "Vision and Scope2-31_1_Phase_1 (2).png",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-03T00:07:52.606Z"
+            },
+            {
+              "attributesChanged": {
+                "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The initial release of the Smart Waste Management &amp; Recycling System (SWMRS) will deliver a focused set of high-value features to establish a strong foundation for smart waste management while maximizing benefits for residents, administrators, contractors, and recycling partners. These features have been prioritized for their immediate impact, feasibility, and scalability.</span></p>"
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-03T00:11:09.675Z"
+            },
+            {
+              "attributesChanged": {
+                "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The initial release of the Smart Waste Management &amp; Recycling System (SWMRS) will deliver a focused set of high-value features to establish a strong foundation for smart waste management while maximizing benefits for residents, administrators, contractors, and recycling partners. These features have been prioritized for their immediate impact, feasibility, and scalability.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The solution will be developed in four phases, with progress categorized into three main areas: Foundation (backend systems and IoT infrastructure), Web App (for administrators), and Mobile App (for residents). Each phase will include development across all three categories to ensure balanced growth of the platform.</span></p>"
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-03T00:11:26.554Z"
+            },
+            {
+              "attributesChanged": {
+                "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The initial release of the Smart Waste Management &amp; Recycling System (SWMRS) will deliver a focused set of high-value features to establish a strong foundation for smart waste management while maximizing benefits for residents, administrators, contractors, and recycling partners. These features have been prioritized for their immediate impact, feasibility, and scalability.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The solution will be developed in four phases, with progress categorized into three main areas: Foundation (backend systems and IoT infrastructure), Web App (for administrators), and Mobile App (for residents). Each phase will include development across all three categories to ensure balanced growth of the platform.</span></p><p dir=\"ltr\"><br></p><p dir=\"ltr\"><br></p><p dir=\"ltr\"><br></p>"
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-03T00:12:02.449Z"
+            },
+            {
+              "attributesChanged": {
+                "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The initial release of the Smart Waste Management &amp; Recycling System (SWMRS) will deliver a focused set of high-value features to establish a strong foundation for smart waste management while maximizing benefits for residents, administrators, contractors, and recycling partners. These features have been prioritized for their immediate impact, feasibility, and scalability.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The solution will be developed in four phases, with progress categorized into three main areas: Foundation (backend systems and IoT infrastructure), Web App (for administrators), and Mobile App (for residents). Each phase will include development across all three categories to ensure balanced growth of the platform.</span></p>"
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-03T00:15:46.735Z"
             }
           ]
         },
@@ -1382,7 +1612,10 @@
           "id": "32",
           "guid": "7ff495a0-2302-4d40-b992-bdfd3a55ce20",
           "heading": "Scope of Subsequent Releases",
-          "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The Smart Waste Management &amp; Recycling System (SWMRS) will evolve through staged releases to gradually expand functionality, enhance system intelligence, and broaden the benefits delivered to stakeholders. Features deferred from the initial release will be implemented in later phases according to priorities, feasibility, and user feedback.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The Smart Waste Management &amp; Recycling System (SWMRS) will evolve in stages, with each release expanding on the core foundation established in the initial release. Future phases will enhance intelligence, expand coverage, and deepen integration to maximize value for all stakeholders.</span></p><p dir=\"ltr\"><br></p><p><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>Phase 2</strong></span></p><table><tbody><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>Features Planned</strong></span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>Feature Statement</strong></span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>Benefits</strong></span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Enhanced Route Optimization</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Upgrade the routing engine to integrate live traffic conditions, weather data, and vehicle constraints to improve collection route planning.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Further reduces fuel costs.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Improves pickup reliability.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Adapts dynamically to real-world conditions.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\">Gamified Recycling Dashboard</p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\">Launch a resident-facing dashboard that displays neighborhood recycling performance, leaderboards, and community challenges to encourage participation and foster healthy competition.</p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Boosts resident engagement.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Increases recycling participation.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Strengthens community involvement.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Advanced Administrator Dashboard</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Extend the admin dashboard with KPI tracking, predictive analytics, and custom reporting capabilities.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Provides deeper operational insights.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Supports proactive planning.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Improves accountability.</span></p></td></tr></tbody></table><p><br></p><p><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>Phase 3</strong></span></p><table><tbody><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Features Planned</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Feature Statement</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Benefits</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">City-Wide IoT Sensor Deployment</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Expand bin monitoring to all districts with a fully city-wide deployment of IoT sensors.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Provides complete operational visibility.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Maximizes efficiency at scale.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Reduces overflow incidents city-wide.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Predictive Waste Generation Analytics</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Deploy AI-driven models to forecast waste generation patterns based on historical sensor data and seasonal trends.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Anticipates demand.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Improves long-term planning.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Reduces emergency pickups.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Resident Mobile App Expansion</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Enhance the resident mobile app to include personalized recycling tips, recycling activity history and impact tracking, push notifications for pickups and challenges, and a community engagement feed to encourage sustainable behavior.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Increases resident awareness and knowledge of sustainable recycling practices.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Empowers residents with personalized insights to improve recycling behavior.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Encourages sustained participation through visibility of personal impact.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Provides a channel for residents to give feedback and propose improvements.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Recycling Incentive Rewards Program</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Implement a loyalty rewards system that awards residents points and benefits based on their recycling activity and leaderboard standings, integrated into the resident mobile app.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Increases resident participation in recycling programs.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Motivates sustained recycling behavior through tangible rewards.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Strengthens community engagement via gamified competition.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Encourages friendly competition and social involvement through leaderboard standings.</span></p></td></tr></tbody></table><p><br></p><p><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>Phase 4</strong></span></p><table><tbody><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>Features Planned</strong></span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>Feature Statement</strong></span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>Benefits</strong></span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Integration with Smart City Platforms</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Integrate SWMRS with other smart city systems such as traffic, energy, and environmental platforms for holistic urban management.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Supports broader sustainability initiatives.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Provides comprehensive city operational data.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Enables cross-platform optimization.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Comprehensive Sustainability Reporting</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Deploy automated reporting tools that measure and report environmental impacts aligned with city carbon reduction targets.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Enhances transparency.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Improves compliance.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Supports city sustainability goals.</span></p></td></tr></tbody></table><p><br></p>",
+          "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The Smart Waste Management &amp; Recycling System (SWMRS) will evolve through staged releases to gradually expand functionality, enhance system intelligence, and broaden the benefits delivered to stakeholders. Features deferred from the initial release will be implemented in later phases according to priorities, feasibility, and user feedback.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The Smart Waste Management &amp; Recycling System (SWMRS) will evolve in stages, with each release expanding on the core foundation established in the initial release. Future phases will enhance intelligence, expand coverage, and deepen integration to maximize value for all stakeholders.</span></p>",
+          "attachments": [
+            "Vision and Scope2-32_1_Phase_2_3_4 (1).png"
+          ],
           "history": [
             {
               "affectedNodeId": "22",
@@ -1515,6 +1748,91 @@
                 "name": "T00786182"
               },
               "changedOn": "2025-10-02T19:52:59.765Z"
+            },
+            {
+              "addedAttachment": "Vision and Scope2-32_1_Diagrama sin título.drawio.png",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T22:50:04.497Z"
+            },
+            {
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T23:04:19.204Z",
+              "removedAttachment": "Vision and Scope2-32_1_Diagrama sin título.drawio.png"
+            },
+            {
+              "addedAttachment": "Vision and Scope2-32_1_Phases_2_3_4.png",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T23:04:58.461Z"
+            },
+            {
+              "attributesChanged": {
+                "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The Smart Waste Management &amp; Recycling System (SWMRS) will evolve through staged releases to gradually expand functionality, enhance system intelligence, and broaden the benefits delivered to stakeholders. Features deferred from the initial release will be implemented in later phases according to priorities, feasibility, and user feedback.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The Smart Waste Management &amp; Recycling System (SWMRS) will evolve in stages, with each release expanding on the core foundation established in the initial release. Future phases will enhance intelligence, expand coverage, and deepen integration to maximize value for all stakeholders.</span></p><p dir=\"ltr\"><br></p><p><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>Phase 2</strong></span></p><table><tbody><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>Features Planned</strong></span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>Feature Statement</strong></span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>Benefits</strong></span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Enhanced Route Optimization</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Upgrade the routing engine to integrate live traffic conditions, weather data, and vehicle constraints to improve collection route planning.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Further reduces fuel costs.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Improves pickup reliability.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Adapts dynamically to real-world conditions.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\">Gamified Recycling Dashboard</p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\">Launch a resident-facing dashboard that displays neighborhood recycling performance, leaderboards, and community challenges to encourage participation and foster healthy competition.</p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Boosts resident engagement.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Increases recycling participation.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Strengthens community involvement.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Advanced Administrator Dashboard</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Extend the admin dashboard with KPI tracking, predictive analytics, and custom reporting capabilities.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Provides deeper operational insights.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Supports proactive planning.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Improves accountability.</span></p></td></tr></tbody></table><p><br></p><p><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>Phase 3</strong></span></p><table><tbody><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Features Planned</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Feature Statement</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Benefits</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">City-Wide IoT Sensor Deployment</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Expand bin monitoring to all districts with a fully city-wide deployment of IoT sensors.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Provides complete operational visibility.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Maximizes efficiency at scale.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Reduces overflow incidents city-wide.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Predictive Waste Generation Analytics</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Deploy AI-driven models to forecast waste generation patterns based on historical sensor data and seasonal trends.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Anticipates demand.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Improves long-term planning.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Reduces emergency pickups.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Resident Mobile App Expansion</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Enhance the resident mobile app to include personalized recycling tips, recycling activity history and impact tracking, push notifications for pickups and challenges, and a community engagement feed to encourage sustainable behavior.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Increases resident awareness and knowledge of sustainable recycling practices.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Empowers residents with personalized insights to improve recycling behavior.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Encourages sustained participation through visibility of personal impact.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Provides a channel for residents to give feedback and propose improvements.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Recycling Incentive Rewards Program</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Implement a loyalty rewards system that awards residents points and benefits based on their recycling activity and leaderboard standings, integrated into the resident mobile app.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Increases resident participation in recycling programs.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Motivates sustained recycling behavior through tangible rewards.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Strengthens community engagement via gamified competition.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Encourages friendly competition and social involvement through leaderboard standings.</span></p></td></tr></tbody></table><p><br></p><p><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>Phase 4</strong></span></p><table><tbody><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>Features Planned</strong></span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>Feature Statement</strong></span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: center;\"><span style=\"text-decoration:none;vertical-align:baseline;\"><strong>Benefits</strong></span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Integration with Smart City Platforms</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Integrate SWMRS with other smart city systems such as traffic, energy, and environmental platforms for holistic urban management.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Supports broader sustainability initiatives.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Provides comprehensive city operational data.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Enables cross-platform optimization.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Comprehensive Sustainability Reporting</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Deploy automated reporting tools that measure and report environmental impacts aligned with city carbon reduction targets.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Enhances transparency.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Improves compliance.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">- Supports city sustainability goals.</span></p></td></tr></tbody></table><p><br></p>"
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T23:05:14.073Z"
+            },
+            {
+              "attributesChanged": {
+                "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The Smart Waste Management &amp; Recycling System (SWMRS) will evolve through staged releases to gradually expand functionality, enhance system intelligence, and broaden the benefits delivered to stakeholders. Features deferred from the initial release will be implemented in later phases according to priorities, feasibility, and user feedback.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The Smart Waste Management &amp; Recycling System (SWMRS) will evolve in stages, with each release expanding on the core foundation established in the initial release. Future phases will enhance intelligence, expand coverage, and deepen integration to maximize value for all stakeholders.</span></p><p dir=\"ltr\"><br></p><p><br></p><table><tbody><tr><td style=\"vertical-align:top;\"><br></td><td style=\"vertical-align:top;\"><br></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><br></p></td></tr></tbody></table><p><br></p>"
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T23:05:37.527Z"
+            },
+            {
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T23:25:04.304Z",
+              "removedAttachment": "Vision and Scope2-32_1_Phases_2_3_4.png"
+            },
+            {
+              "addedAttachment": "Vision and Scope2-32_1_Phase_2_3_4.png",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T23:25:11.506Z"
+            },
+            {
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T23:49:40.939Z",
+              "removedAttachment": "Vision and Scope2-32_1_Phase_2_3_4.png"
+            },
+            {
+              "addedAttachment": "Vision and Scope2-32_1_Phase_2_3_4 (1).png",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-02T23:49:48.474Z"
             }
           ]
         },
@@ -1732,35 +2050,6 @@
               ]
             },
             {
-              "id": "38",
-              "guid": "1c289b52-ee40-485f-a9a5-c9b81eea7be8",
-              "heading": "Ecosystem Map ",
-              "history": [
-                {
-                  "affectedNodeId": "36",
-                  "changedBy": {
-                    "company": "Thompson Rivers University",
-                    "email": "t00786182@mytru.ca",
-                    "name": "T00786182"
-                  },
-                  "changedOn": "2025-10-02T00:30:09.080Z",
-                  "docId": "Vision and Scope2",
-                  "structureAction": "Create"
-                },
-                {
-                  "attributesChanged": {
-                    "heading": null
-                  },
-                  "changedBy": {
-                    "company": "Thompson Rivers University",
-                    "email": "t00786182@mytru.ca",
-                    "name": "T00786182"
-                  },
-                  "changedOn": "2025-10-02T00:30:11.119Z"
-                }
-              ]
-            },
-            {
               "id": "39",
               "guid": "fca8852e-dcc2-41a8-9463-506c7e64effb",
               "heading": "Feature Tree ",
@@ -1920,7 +2209,7 @@
           "id": "43",
           "guid": "7788b510-79aa-498a-8b4f-f01f5212cdbc",
           "heading": "Deployment Considerations",
-          "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Deployment of SWMRS will require coordinated planning across multiple areas:</span></p><ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Infrastructure</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;– City-wide installation of IoT sensors, integration with municipal IT systems, and maintenance plans.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Training</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;– Contractor and administrator training for using dashboards, route optimization tools, and issue reporting systems.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Mobile App Deployment</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;– Distribution via major app stores, ensuring compatibility with iOS and Android.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Data Management</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;– Secure storage of waste collection data, recycling participation, and incentive records in compliance with privacy regulations.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Pilot District</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;– Initial rollout in a selected district to validate performance before city-wide deployment.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Stakeholder Communication</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;– Continuous updates to stakeholders to ensure alignment, encourage adoption, and address concerns during deployment.</span></p></li></ul>",
+          "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Deployment of SWMRS will require coordinated planning across multiple areas:</span></p><ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Infrastructure:&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">City-wide installation of IoT sensors, integration with municipal IT systems, and maintenance plans.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Training:&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Contractor and administrator training for using dashboards, route optimization tools, and issue reporting systems.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Mobile App Deployment:&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Distribution via major app stores, ensuring compatibility with iOS and Android.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Data Management:&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Secure storage of waste collection data, recycling participation, and incentive records in compliance with privacy regulations.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Pilot District:&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Initial rollout in a selected district to validate performance before city-wide deployment.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Stakeholder Communication:&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">Continuous updates to stakeholders to ensure alignment, encourage adoption, and address concerns during deployment.</span></p></li></ul>",
           "history": [
             {
               "affectedNodeId": "40",
@@ -1954,6 +2243,17 @@
                 "name": "T00786182"
               },
               "changedOn": "2025-10-02T00:32:25.924Z"
+            },
+            {
+              "attributesChanged": {
+                "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Deployment of SWMRS will require coordinated planning across multiple areas:</span></p><ul><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Infrastructure</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;– City-wide installation of IoT sensors, integration with municipal IT systems, and maintenance plans.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Training</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;– Contractor and administrator training for using dashboards, route optimization tools, and issue reporting systems.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Mobile App Deployment</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;– Distribution via major app stores, ensuring compatibility with iOS and Android.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Data Management</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;– Secure storage of waste collection data, recycling participation, and incentive records in compliance with privacy regulations.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Pilot District</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;– Initial rollout in a selected district to validate performance before city-wide deployment.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span></p></li><li dir=\"ltr\" style=\"text-decoration:none;vertical-align:baseline;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Stakeholder Communication</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;– Continuous updates to stakeholders to ensure alignment, encourage adoption, and address concerns during deployment.</span></p></li></ul>"
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-03T00:16:55.316Z"
             }
           ]
         }
