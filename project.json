@@ -1,13 +1,110 @@
 {
   "id": "Smart Waste Management and Recycling System",
   "documents": [
-    "Vision and Scope2.json"
+    "Vision and Scope2.json",
+    "User Requirements.json"
   ],
   "traceability": {
     "reference": {
       "name": "Reference",
       "source": "References",
       "target": "Referenced by"
+    }
+  },
+  "integrations": {
+    "reqif": {
+      "datatypes": {
+        "_30ae23d6-226e-45d1-8368-b6662b597722": {
+          "lastChange": "2022-03-01T00:00:00.000Z",
+          "longName": "XHTMLString",
+          "type": "XHTML"
+        },
+        "_48089e6a-1be3-4273-80f9-90b9d0ebcc22": {
+          "lastChange": "2022-03-01T00:00:00.000Z",
+          "longName": "String",
+          "type": "STRING"
+        },
+        "_b435ffdb-114d-41b6-80b6-0d6db202e682": {
+          "lastChange": "2022-03-01T00:00:00.000Z",
+          "longName": "DateTime",
+          "type": "DATE"
+        }
+      },
+      "specTypes": {
+        "_07b5786d-253c-47a4-839e-6bebbfa02c2f": {
+          "lastChange": "2025-10-23T20:11:20.896Z",
+          "longName": "User Requirements Type",
+          "specAttributes": {
+            "_09b23e7e-eab4-4c25-bd39-a6a5abc2a3d6": {
+              "datatypeRef": "_48089e6a-1be3-4273-80f9-90b9d0ebcc22",
+              "isEditable": false,
+              "lastChange": "2022-03-01T00:00:00.000Z",
+              "longName": "ReqIF.ForeignModifiedBy",
+              "type": "STRING"
+            },
+            "_55f5a86e-0274-4b40-a7c3-12da1b14bb94": {
+              "datatypeRef": "_48089e6a-1be3-4273-80f9-90b9d0ebcc22",
+              "isEditable": false,
+              "lastChange": "2022-03-01T00:00:00.000Z",
+              "longName": "ReqIF.ForeignID",
+              "type": "STRING"
+            },
+            "_a136e4be-cb82-4459-a4f5-2b5545a2102e": {
+              "datatypeRef": "_48089e6a-1be3-4273-80f9-90b9d0ebcc22",
+              "isEditable": false,
+              "lastChange": "2022-03-01T00:00:00.000Z",
+              "longName": "ReqIF.ForeignCreatedBy",
+              "type": "STRING"
+            },
+            "_eec5306c-0749-4fca-bccc-09d808c4ff16": {
+              "datatypeRef": "_30ae23d6-226e-45d1-8368-b6662b597722",
+              "isEditable": false,
+              "lastChange": "2022-03-01T00:00:00.000Z",
+              "longName": "ReqIF.Description",
+              "type": "XHTML"
+            },
+            "_f6377ebf-1b1b-4110-930c-ffe5228c77e4": {
+              "datatypeRef": "_b435ffdb-114d-41b6-80b6-0d6db202e682",
+              "isEditable": false,
+              "lastChange": "2022-03-01T00:00:00.000Z",
+              "longName": "ReqIF.ForeignCreatedOn",
+              "type": "DATE"
+            }
+          },
+          "type": "SPECIFICATION-TYPE"
+        },
+        "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3": {
+          "lastChange": "2025-10-23T20:11:20.896Z",
+          "longName": "User Requirements Object Type",
+          "specAttributes": {
+            "_61b1cfb5-6f30-48b6-bce9-71bd2077319b": {
+              "datatypeRef": "_48089e6a-1be3-4273-80f9-90b9d0ebcc22",
+              "isEditable": false,
+              "lastChange": "2022-03-01T00:00:00.000Z",
+              "longName": "ReqIF.ChapterName",
+              "reqviewAttrId": "heading",
+              "type": "STRING"
+            },
+            "_7223c4a3-8558-475a-8b6b-2e3fbc58a73b": {
+              "datatypeRef": "_48089e6a-1be3-4273-80f9-90b9d0ebcc22",
+              "isEditable": false,
+              "lastChange": "2022-03-01T00:00:00.000Z",
+              "longName": "ReqIF.ForeignID",
+              "reqviewAttrId": "ForeignID",
+              "type": "STRING"
+            },
+            "_7cb7da98-65e5-4eb1-97f3-d7a57b3d3aa9": {
+              "datatypeRef": "_30ae23d6-226e-45d1-8368-b6662b597722",
+              "isEditable": false,
+              "lastChange": "2022-03-01T00:00:00.000Z",
+              "longName": "ReqIF.Text",
+              "reqviewAttrId": "text",
+              "type": "XHTML"
+            }
+          },
+          "type": "SPEC-OBJECT-TYPE"
+        }
+      }
     }
   },
   "metadata": {

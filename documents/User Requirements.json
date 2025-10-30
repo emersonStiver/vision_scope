@@ -1,0 +1,1881 @@
+{
+  "id": "User Requirements",
+  "guid": "4200d0b8-fbe1-447c-bf93-8e1b83dca526",
+  "name": "User Requirements",
+  "lastId": 56,
+  "createdOn": "2025-10-30T17:14:28.899Z",
+  "createdBy": {
+    "name": "T00786182",
+    "email": "t00786182@mytru.ca",
+    "company": "Thompson Rivers University"
+  },
+  "lastChangedOn": "2025-10-30T17:14:28.899Z",
+  "lastChangedBy": {
+    "name": "T00786182",
+    "email": "t00786182@mytru.ca",
+    "company": "Thompson Rivers University"
+  },
+  "data": [
+    {
+      "id": "1",
+      "guid": "7c8f6483-a85c-46f1-8d92-a7741147520d",
+      "heading": "Revision History",
+      "text": "<p dir=\"ltr\">User Requirements v1.2</p><table><tbody><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Name</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Date</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Reason For Changes</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Version</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Team SES</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;10/18/2025</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Initial Draft Created</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;v1.0</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Team SES</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;10/21/2025</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Changes to the Initial Draft</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;v1.1</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Team SES</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;10/23/2025</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Final Review and Submission</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;v1.2</span></p></td></tr></tbody></table>",
+      "ForeignID": "User Requirements-1",
+      "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00786182@mytru.ca",
+            "name": "T00786182"
+          },
+          "changedOn": "2025-10-30T17:14:28.899Z",
+          "docId": "User Requirements",
+          "structureAction": "Create"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "guid": "d82b4c95-67d4-46ac-8d8a-d65fc037d613",
+      "heading": "Introduction",
+      "text": "<p>The Smart Waste Management &amp; Recycling System (SWMRS) is designed to modernize municipal waste collection, recycling tracking, and environmental awareness. Building on the Vision &amp; Scope document from Assignment 1, this User Requirements Document captures the system’s functional and non-functional requirements based on structured elicitation interviews with key stakeholders: Collection Workers, City Administrators, and Residents.</p><p>The SWMRS aims to optimize collection routes, improve reporting efficiency, enhance citizen engagement through mobile applications, and introduce data-driven recycling incentives. This document consolidates insights gathered from simulated interviews into structured system requirements.</p>",
+      "ForeignID": "User Requirements-2",
+      "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00786182@mytru.ca",
+            "name": "T00786182"
+          },
+          "changedOn": "2025-10-30T17:14:28.899Z",
+          "docId": "User Requirements",
+          "structureAction": "Create"
+        }
+      ],
+      "children": [
+        {
+          "id": "3",
+          "guid": "faa67d31-0f01-4aa5-9ee2-88db6b7df1c8",
+          "heading": "Document Purpose",
+          "text": "<p>The purpose of this document is to specify the user requirements for the <em>Smart Waste Management and Recycling System (SWMRS)</em>. It defines the system’s objectives, user interactions, functional and non-functional requirements, and key use cases. The document serves as a communication bridge between stakeholders, developers, and project sponsors to ensure a shared understanding of system expectations prior to implementation.</p>",
+          "ForeignID": "User Requirements-7",
+          "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+          "history": [
+            {
+              "affectedNodeId": "2",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-30T17:14:28.899Z",
+              "docId": "User Requirements",
+              "structureAction": "Create"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "guid": "58c8453f-0d70-48f0-b694-4df41a2ed509",
+          "heading": "Project Scope",
+          "text": "<p>The SWMRS is designed to improve urban waste management efficiency by integrating Internet of Things (IoT) technologies, mobile systems, and data analytics. The system monitors waste bin levels in real time, optimizes collection routes, allows users to report missed pickups or illegal dumping, and rewards citizens for recycling participation. The goal is to reduce operational costs, minimize missed collections, and promote environmental sustainability.<br>The system will include three main interfaces:</p>",
+          "ForeignID": "User Requirements-3",
+          "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+          "history": [
+            {
+              "affectedNodeId": "2",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-30T17:14:28.899Z",
+              "docId": "User Requirements",
+              "structureAction": "Create"
+            }
+          ],
+          "children": [
+            {
+              "id": "5",
+              "guid": "6a0ae8c8-71b4-44f8-889a-6a74a303bf5d",
+              "heading": "Mobile App (App for citizens)",
+              "text": "<p>The mobile application provides an intuitive interface that allows residents to actively participate in the waste management process. Users can view the real-time status of nearby bins (such as fill levels and collection schedules), report issues like missed pickups or illegal dumping, and track their recycling activities. The app also features a reward system that encourages sustainable behavior by awarding points or incentives for consistent recycling efforts. Through this platform, citizens stay informed, engaged, and empowered to contribute to a cleaner urban environment.</p>",
+              "ForeignID": "User Requirements-8",
+              "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+              "history": [
+                {
+                  "affectedNodeId": "4",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-30T17:14:28.899Z",
+                  "docId": "User Requirements",
+                  "structureAction": "Create"
+                }
+              ]
+            },
+            {
+              "id": "6",
+              "guid": "c80f03cd-49cd-4e34-b56c-44e21606b6dd",
+              "heading": "Web Dashboard (for waste management staff)",
+              "text": "<p>The web-based dashboard serves as the central control and monitoring platform for municipal waste management staff. It displays real-time data collected from IoT-enabled bins, including fill levels, location tracking, and maintenance alerts. Staff can analyze data trends, assign optimized collection routes, and respond promptly to reported issues from citizens. The dashboard also provides tools for generating performance reports, managing operational schedules, and improving decision-making through data analytics. This interface ensures efficient coordination and resource utilization across the waste management process.</p>",
+              "ForeignID": "User Requirements-9",
+              "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+              "history": [
+                {
+                  "affectedNodeId": "4",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-30T17:14:28.899Z",
+                  "docId": "User Requirements",
+                  "structureAction": "Create"
+                }
+              ]
+            },
+            {
+              "id": "7",
+              "guid": "aa10946a-bd2b-4968-bb8c-4f7f08333093",
+              "heading": "IoT Sensors (for bins)",
+              "text": "<p>Each waste bin is equipped with IoT sensors capable of measuring fill levels, detecting overflow conditions, and tracking bin location via GPS. These sensors continuously transmit data to the central system through wireless communication networks. The collected information enables predictive maintenance, route optimization, and early detection of collection issues. By integrating IoT technology, the system minimizes manual monitoring, reduces operational costs, and ensures timely waste collection for improved urban cleanliness and sustainability.</p>",
+              "ForeignID": "User Requirements-10",
+              "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+              "history": [
+                {
+                  "affectedNodeId": "4",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-30T17:14:28.899Z",
+                  "docId": "User Requirements",
+                  "structureAction": "Create"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8",
+          "guid": "da9cc981-1e3c-421d-841f-c31e1d457f8c",
+          "heading": "Definitions, Acronyms, and Abbreviations",
+          "text": "<p>This section provides clear explanations of the key terms, acronyms, and abbreviations used throughout the Smart Waste Management and Recycling System (SWMRS) documentation. Understanding these terms ensures consistency and clarity in communication among developers, administrators, and users. (Table: User Requirement 7)</p><p><br></p><table><thead><tr><th>Term</th><th>Description</th></tr></thead><tbody><tr><td>SWMRS</td><td>Smart Waste Management and Recycling System</td></tr><tr><td>IoT</td><td>Internet of Things</td></tr><tr><td>GPS</td><td>Global Positioning System</td></tr><tr><td>API</td><td>Application Programming Interface</td></tr><tr><td>Admin</td><td>Authorized system manager</td></tr><tr><td>Citizen</td><td>Registered public user of the mobile app</td></tr></tbody></table>",
+          "ForeignID": "User Requirements-4",
+          "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+          "history": [
+            {
+              "affectedNodeId": "2",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-30T17:14:28.899Z",
+              "docId": "User Requirements",
+              "structureAction": "Create"
+            }
+          ]
+        },
+        {
+          "id": "9",
+          "guid": "1bb45c9f-23bb-4e3d-a44e-34fe8a663b86",
+          "heading": "Overview",
+          "text": "<p>The remainder of this document provides a detailed description of the system’s functionalities, user classes, system features, and analysis models. It also includes use case diagrams and specifications based on stakeholder needs identified in the Vision and Scope document.</p>",
+          "ForeignID": "User Requirements-5",
+          "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+          "history": [
+            {
+              "affectedNodeId": "2",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-30T17:14:28.899Z",
+              "docId": "User Requirements",
+              "structureAction": "Create"
+            }
+          ]
+        },
+        {
+          "id": "10",
+          "guid": "7528cb42-80a2-4084-a7e9-be72e6c36e05",
+          "heading": "References",
+          "text": "<p>IEEE Std 830-1998: Recommended Practice for Software Requirements Specifications</p><p>City of Kamloops Waste Collection Guidelines (2024)</p><p>TRU SENG 3130 Assignment 2 Template (Fall 2025)</p>",
+          "ForeignID": "User Requirements-6",
+          "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+          "history": [
+            {
+              "affectedNodeId": "2",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-30T17:14:28.899Z",
+              "docId": "User Requirements",
+              "structureAction": "Create"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "guid": "08a35ff3-301c-4eee-b2e5-d084c3982d0b",
+      "heading": "Overall Description",
+      "text": "<p>This section provides a high-level overview of the <strong>Smart Waste Management &amp; Recycling System (SWMRS)</strong> and the environment in which it will operate. It describes the system’s context, user community, and major interactions with external components such as IoT bin sensors and mobile devices. It also outlines the intended operating environment, design constraints, and underlying assumptions that shape the system’s development. The goal of this section is to help readers understand how the SWMRS fits into the broader municipal waste management ecosystem and the general capabilities it will deliver before detailing specific system features and functional requirements.</p>",
+      "ForeignID": "User Requirements-11",
+      "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00786182@mytru.ca",
+            "name": "T00786182"
+          },
+          "changedOn": "2025-10-30T17:14:28.899Z",
+          "docId": "User Requirements",
+          "structureAction": "Create"
+        }
+      ],
+      "children": [
+        {
+          "id": "12",
+          "guid": "2e0a6e98-4d24-4bb4-be86-3e13c0c13647",
+          "heading": "Product Perspective",
+          "text": "<p>SWMRS is a new, integrated system combining existing waste management operations with new IoT and mobile technologies. It will collect bin sensor data, process it in the backend, and present actionable insights to waste management teams through an interactive dashboard. The citizen-facing the system will act as the main communication channel for public users.</p>",
+          "ForeignID": "User Requirements-12",
+          "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+          "history": [
+            {
+              "affectedNodeId": "11",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-30T17:14:28.899Z",
+              "docId": "User Requirements",
+              "structureAction": "Create"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "guid": "2fd1f6c3-bb6b-4659-9f41-5a55aa6cdb59",
+          "heading": "Product Functions",
+          "text": "<p>The <strong>Smart Waste Management &amp; Recycling System (SWMRS)</strong> provides an integrated platform that automates and optimizes the waste collection and recycling process through real-time data and user interaction. Its main functions ensure efficiency, transparency, and sustainability in municipal waste management operations.</p>",
+          "ForeignID": "User Requirements-13",
+          "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+          "history": [
+            {
+              "affectedNodeId": "11",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-30T17:14:28.899Z",
+              "docId": "User Requirements",
+              "structureAction": "Create"
+            }
+          ],
+          "children": [
+            {
+              "id": "14",
+              "guid": "88e8b948-ca92-4674-b92f-7fc0999c07f9",
+              "heading": "Real-Time Monitoring of Waste Bins",
+              "text": "<p>IoT sensors installed in waste and recycling bins continuously measure fill levels, temperature, and location, transmitting data to the central server for live status tracking.</p>",
+              "ForeignID": "User Requirements-14",
+              "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+              "history": [
+                {
+                  "affectedNodeId": "13",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-30T17:14:28.899Z",
+                  "docId": "User Requirements",
+                  "structureAction": "Create"
+                }
+              ]
+            },
+            {
+              "id": "15",
+              "guid": "74d46503-a078-44aa-9250-bea07331adb0",
+              "heading": "Predictive Analysis of Collection Schedules",
+              "text": "<p>The system uses historical and sensor data to forecast when bins will reach capacity, allowing proactive scheduling to prevent overflow and optimize resource use.</p>",
+              "ForeignID": "User Requirements-15",
+              "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+              "history": [
+                {
+                  "affectedNodeId": "13",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-30T17:14:28.899Z",
+                  "docId": "User Requirements",
+                  "structureAction": "Create"
+                }
+              ]
+            },
+            {
+              "id": "16",
+              "guid": "ff2a3e90-f597-46db-bad5-47f64c6dac8b",
+              "heading": "Automatic Route Optimization for Waste Trucks",
+              "text": "<p>Dynamic algorithms generate the most efficient collection routes based on bin fill data, vehicle location, and traffic conditions, reducing fuel consumption and time.</p>",
+              "ForeignID": "User Requirements-16",
+              "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+              "history": [
+                {
+                  "affectedNodeId": "13",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-30T17:14:28.899Z",
+                  "docId": "User Requirements",
+                  "structureAction": "Create"
+                }
+              ]
+            },
+            {
+              "id": "17",
+              "guid": "31460b65-c140-4b8e-a119-8f3bb537236f",
+              "heading": "Citizen Issue Reporting and Missed Collection Alerts",
+              "text": "<p>Residents can report issues such as missed pickups, contamination, or obstructed bins via the mobile app, and receive real-time notifications about collection status.</p>",
+              "ForeignID": "User Requirements-17",
+              "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+              "history": [
+                {
+                  "affectedNodeId": "13",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-30T17:14:28.899Z",
+                  "docId": "User Requirements",
+                  "structureAction": "Create"
+                }
+              ]
+            },
+            {
+              "id": "18",
+              "guid": "222ac545-a84a-4e7e-880c-9d1f0aa708e4",
+              "heading": "Recycling Reward Tracking and Redemption",
+              "text": "<p>A resident-facing rewards module tracks individual recycling activity, awards points for participation, and enables users to view and redeem rewards through their app dashboard.</p>",
+              "ForeignID": "User Requirements-18",
+              "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+              "history": [
+                {
+                  "affectedNodeId": "13",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-30T17:14:28.899Z",
+                  "docId": "User Requirements",
+                  "structureAction": "Create"
+                }
+              ]
+            },
+            {
+              "id": "19",
+              "guid": "4fcedbd3-3023-40af-97dd-6d976f712180",
+              "heading": "Administrative Control and Data Analytics Dashboard",
+              "text": "<p>City administrators can monitor fleet operations, sensor health, and collection performance through a secure web dashboard, generating customized analytical and compliance reports.</p>",
+              "ForeignID": "User Requirements-19",
+              "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+              "history": [
+                {
+                  "affectedNodeId": "13",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-30T17:14:28.899Z",
+                  "docId": "User Requirements",
+                  "structureAction": "Create"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "20",
+          "guid": "11dc9f1f-e49f-476d-96bb-d299e1361b85",
+          "heading": "User Classes and Characteristics",
+          "text": "<p>he <strong>Smart Waste Management &amp; Recycling System (SWMRS)</strong> serves multiple user groups across municipal operations, residents, and external partners. Each user class interacts with the system through specific interfaces and privileges suited to their role. Direct users access the system’s operational and citizen-facing functions, while indirect users engage through integration or support activities. Disfavored users represent potential misuse or threats that the system must protect against through authentication and security controls.</p>",
+          "ForeignID": "User Requirements-20",
+          "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+          "history": [
+            {
+              "affectedNodeId": "11",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-30T17:14:28.899Z",
+              "docId": "User Requirements",
+              "structureAction": "Create"
+            }
+          ],
+          "children": [
+            {
+              "id": "21",
+              "guid": "66105d2f-3d41-4634-9355-ecd10c139b63",
+              "heading": "User Classes and Profiles",
+              "text": "<table><thead><tr><th><strong>User Class</strong></th><th><strong>Type</strong></th><th><strong>Role / Description</strong></th></tr></thead><tbody><tr><td><strong>Collection Worker (Driver)</strong></td><td>Direct / Favored</td><td>Operates collection vehicles, follows assigned optimized routes, confirms pickups (timestamp, GPS, photo), completes pre-trip checklist, and reports skipped or problematic pickups.</td></tr><tr><td><strong>Route Supervisor</strong></td><td>Direct / Favored</td><td>Monitors routes and driver performance, approves or investigates skipped pickups, reassigns tasks, and reviews incident reports and communications with residents.</td></tr><tr><td><strong>City Administrator / Fleet Manager</strong></td><td>Direct / Favored</td><td>Configures route optimization and policy rules, manages user roles and fleets, monitors KPIs via dashboards, and runs compliance and audit reports.</td></tr><tr><td><strong>Resident (Citizen App User)</strong></td><td>Direct / Favored</td><td>Reports missed pickups, receives collection notifications, tracks recycling progress, earns and redeems reward points through the mobile app.</td></tr><tr><td><strong>Maintenance Technician</strong></td><td>Indirect / Favored</td><td>Receives IoT sensor health alerts, manages maintenance tickets, and performs repairs or replacements of sensors and communication devices.</td></tr><tr><td><strong>Rewards Partner (Local Business / Vendor)</strong></td><td>Indirect / Favored</td><td>Provides discounts or vouchers for the rewards program, validates redemptions, and reconciles offers with the city or system operator.</td></tr><tr><td><strong>Unauthorized Public User / Malicious Actor</strong></td><td>Indirect / Disfavored</td><td>Attempts unauthorized access or data tampering; system must detect, block, and log such activities for audit and security monitoring.</td></tr><tr><td><strong>Illegal Dumpers / Scavengers</strong></td><td>Indirect / Disfavored</td><td>Individuals attempting to dump waste illegally or tamper with bins; system flags repeated incidents using sensor or CCTV data for administrative action.</td></tr></tbody></table>",
+              "ForeignID": "User Requirements-21",
+              "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+              "history": [
+                {
+                  "affectedNodeId": "20",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-30T17:14:28.899Z",
+                  "docId": "User Requirements",
+                  "structureAction": "Create"
+                }
+              ]
+            },
+            {
+              "id": "22",
+              "guid": "69ef9106-c04e-4605-9bcb-d0cd8c98d68e",
+              "heading": "System Actors",
+              "text": "<p>The <strong>Smart Waste Management &amp; Recycling System (SWMRS)</strong> interacts with both human and non-human actors. Human actors directly operate or manage system functions, while non-human actors include integrated devices, APIs, and automated services that provide essential data and automation.</p>",
+              "ForeignID": "User Requirements-22",
+              "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+              "history": [
+                {
+                  "affectedNodeId": "20",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-30T17:14:28.899Z",
+                  "docId": "User Requirements",
+                  "structureAction": "Create"
+                }
+              ],
+              "children": [
+                {
+                  "id": "23",
+                  "guid": "d65f60a8-cf81-4ece-b7db-c0da79082a29",
+                  "heading": "Human Actors",
+                  "text": "<table><thead><tr><th><strong>Actor</strong></th><th><strong>Description</strong></th></tr></thead><tbody><tr><td><strong>Driver (Collection Worker)</strong></td><td>Primary actor responsible for executing waste pickups, confirming bin collection, and reporting route incidents through the driver interface.</td></tr><tr><td><strong>Route Supervisor</strong></td><td>Oversees daily operations, reviews driver activity, handles exceptions such as missed pickups, and manages route adjustments.</td></tr><tr><td><strong>City Administrator / Fleet Manager</strong></td><td>Configures system parameters, manages user roles, monitors fleet performance, and generates analytical or compliance reports.</td></tr><tr><td><strong>Resident</strong></td><td>Engages with the citizen app to report missed pickups or contamination, track recycling rewards, and receive real-time notifications.</td></tr></tbody></table>",
+                  "ForeignID": "User Requirements-24",
+                  "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+                  "history": [
+                    {
+                      "affectedNodeId": "22",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00786182@mytru.ca",
+                        "name": "T00786182"
+                      },
+                      "changedOn": "2025-10-30T17:14:28.899Z",
+                      "docId": "User Requirements",
+                      "structureAction": "Create"
+                    }
+                  ]
+                },
+                {
+                  "id": "24",
+                  "guid": "687a33c7-b8e9-4132-a42b-24474ed68752",
+                  "heading": "Non-Human Actors",
+                  "text": "<table><thead><tr><th><strong>Actor</strong></th><th><strong>Description</strong></th></tr></thead><tbody><tr><td><strong>IoT Bin Sensor</strong></td><td>Sends real-time fill-level, location, and health data to the central server, triggering collection or maintenance events as needed.</td></tr><tr><td><strong>Vehicle Telematics / GPS Service</strong></td><td>Streams truck position, route progress, speed, and vehicle telemetry data to the system for live monitoring and analytics.</td></tr><tr><td><strong>Traffic Data API</strong></td><td>External data provider that supplies live and historical traffic information used by the route optimization engine.</td></tr><tr><td><strong>Scheduled Trigger / Cron Job</strong></td><td>Automated temporal actor that performs periodic system tasks such as nightly data aggregation, re-optimization, and report generation.</td></tr><tr><td><strong>Rewards Payment / Voucher Gateway</strong></td><td>External payment or vendor system that validates and processes reward redemptions and returns confirmation data.</td></tr><tr><td><strong>Ticketing / Maintenance System</strong></td><td>Integrated system that manages maintenance tickets and records sensor repairs or replacements, either internally or through third-party services.</td></tr></tbody></table>",
+                  "ForeignID": "User Requirements-25",
+                  "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+                  "history": [
+                    {
+                      "affectedNodeId": "22",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00786182@mytru.ca",
+                        "name": "T00786182"
+                      },
+                      "changedOn": "2025-10-30T17:14:28.899Z",
+                      "docId": "User Requirements",
+                      "structureAction": "Create"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "25",
+              "guid": "991abe58-b154-401c-a307-70b7f9c808d6",
+              "heading": "Main Use Cases",
+              "text": "<p dir=\"ltr\"><br></p><table><tbody><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Use Case</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Description</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Primary Actor</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Secondary Actors</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">UC-01 – Optimize Collection Route</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Compute efficient collection routes using bin fill-levels, vehicle capacities, and traffic; generate driver assignments.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Route Optimization Service or City Administrator</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">IoT Bin Sensor, Vehicle Telematics, Traffic Data API, Driver</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">UC-02 – View Live Map &amp; Assets</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Show real-time map of trucks, routes, and monitored bins with status overlays.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">City Administrator or Fleet Manager</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Vehicle Telematics, IoT Bin Sensor, Driver</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">UC-03 – Complete Pickup / Confirm Collection</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Driver confirms pickup; system records GPS, timestamp, and optional photo as proof of service.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Driver</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Resident (if they reported/are notified), Vehicle Telematics, Backend Audit Service</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">UC-04 – Report Missed Pickup / Issue</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Resident or Driver files a location-specific complaint (missed pickup, contamination) with optional photo and priority.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Resident or Driver</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Route Supervisor, Admin (for escalations), Ticketing System</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">UC-05 – Offline Route Access &amp; Sync</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Driver loads last assigned route offline, works without connectivity, then syncs completed pickups and notes when online.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Driver</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Backend Sync Service, Admin</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">UC-06 – Pre-Trip Vehicle Checklist</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Driver completes mandatory safety and equipment checklist before route start; checklist is logged and audited.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Driver</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Fleet Manager, Audit Log Service</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">UC-07 – Sensor Health Monitoring</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">System monitors telemetry for sensor anomalies such as no data transmission, battery low, unrealistic fill levels, and raises maintenance tickets.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Monitoring Service (system)</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Maintenance Technician, Ticketing System, Admin</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">UC-08 – Track &amp; Redeem Recycling Rewards</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Resident views points/score, redeems rewards or vouchers, and sees redemption history.</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Resident</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Rewards Gateway, Rewards Partner, Admin</span></p></td></tr></tbody></table>",
+              "ForeignID": "User Requirements-23",
+              "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+              "history": [
+                {
+                  "affectedNodeId": "20",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-30T17:14:28.899Z",
+                  "docId": "User Requirements",
+                  "structureAction": "Create"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "26",
+          "guid": "c3be8f00-63bb-4567-93f3-fbcdc4940bc8",
+          "heading": "Use Cases and Models",
+          "text": "<p>This section defines the key interactions between system actors and the <strong>Smart Waste Management &amp; Recycling System (SWMRS)</strong>. Each use case represents a goal-oriented activity performed by a user or external system to achieve a specific function. Use cases help clarify system boundaries, actor responsibilities, and the flow of data within the waste management ecosystem. (Figure: <a href=\"#\" style=\"text-align: start;\">User Requirements-28_1_UserCaseDiagram</a>)</p>",
+          "ForeignID": "User Requirements-27",
+          "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+          "history": [
+            {
+              "affectedNodeId": "11",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-30T17:14:28.899Z",
+              "docId": "User Requirements",
+              "structureAction": "Create"
+            }
+          ],
+          "children": [
+            {
+              "id": "27",
+              "guid": "9a4d2fc8-3f4e-4e1f-9884-01bb387611b8",
+              "heading": "Use Case Diagram",
+              "ForeignID": "User Requirements-28",
+              "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+              "attachments": [
+                "User Requirements-27_1_UserCaseDiagram.png"
+              ],
+              "history": [
+                {
+                  "affectedNodeId": "26",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-30T17:14:28.899Z",
+                  "docId": "User Requirements",
+                  "structureAction": "Create"
+                }
+              ]
+            },
+            {
+              "id": "28",
+              "guid": "1d8ee00d-2bd7-4a23-b2d1-4a9769e49781",
+              "heading": "UC-001 — Optimize Collection Route",
+              "text": "<p dir=\"ltr\"><br></p><table><tbody><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Use Case ID and Name</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">UC-001 — Optimize Collection Route</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Author and Date Created</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Emerson Tavera — 2025-10-19</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Primary Actor</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Route Optimization Service (automated)&nbsp;</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">City Administrator (manual trigger)</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Secondary Actors</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Collection Worker (Driver)</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;IoT Bin Sensor</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Vehicle Telematics Service</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Traffic Data API</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Scheduled Trigger</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Description</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Generate optimized collection routes for available trucks using bin fill-levels, vehicle capacity, traffic, and priority zones. Outcome: route assignments stored, pushed to drivers, and recorded with audit entries.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Trigger</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Scheduled periodic trigger (e.g., hourly or nightly full-reoptimize).</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Event-driven trigger (bin fill-level ≥ configured threshold).</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Manual admin request (on-demand re-run).</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Preconditions</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Latest bin telemetry (fill-level + timestamp) is available for considered bins.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Vehicle availability and capacities are known (fleet registry up-to-date).</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Optimization parameters are defined (min-fill threshold, priority zones, time windows, max route duration, cost function).</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Sensor health check has run and unhealthy sensors are flagged/excluded or marked for conservative handling.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Postconditions</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Success</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Store updated routes with audit metadata (actor, timestamp, data source, reason).</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Deliver updated routes to assigned drivers — pushed immediately or queued for offline sync.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Record optimization metrics (distance, ETA, fuel/time estimate) to improve route efficiency over time.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Notify supervisors per configuration.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">If failed, the system generates provisional routes with a confidence score and notes on any data issues, then logs an audit record and notifies the admin or supervisor.</span></p></td></tr></tbody></table>",
+              "ForeignID": "User Requirements-29",
+              "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+              "history": [
+                {
+                  "affectedNodeId": "26",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-30T17:14:28.899Z",
+                  "docId": "User Requirements",
+                  "structureAction": "Create"
+                }
+              ],
+              "children": [
+                {
+                  "id": "29",
+                  "guid": "5170253e-fca8-4cc1-85df-1b7c73d0d184",
+                  "heading": "Normal Flow",
+                  "ForeignID": "User Requirements-30",
+                  "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+                  "attachments": [
+                    "User Requirements-29_1_OptimizeCollectionRoute_NormalFlow.png"
+                  ],
+                  "history": [
+                    {
+                      "affectedNodeId": "28",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00786182@mytru.ca",
+                        "name": "T00786182"
+                      },
+                      "changedOn": "2025-10-30T17:14:28.899Z",
+                      "docId": "User Requirements",
+                      "structureAction": "Create"
+                    }
+                  ]
+                },
+                {
+                  "id": "30",
+                  "guid": "54c4b2d2-4161-45f7-9240-4e4c995a5ff6",
+                  "heading": "Alternative Flow 1",
+                  "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">This flow handles cases where the system cannot access live traffic data. Cached, historical, or default travel times are used instead, and the optimization run is marked as degraded. (Figure:<span style=\"text-align: start;\">&nbsp;</span><a href=\"#\" style=\"text-align: start;\">User Requirements-31_1_OptimizeCollectionRoute_AlternativeFlow1</a>)</span></p>",
+                  "ForeignID": "User Requirements-31",
+                  "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+                  "attachments": [
+                    "User Requirements-30_1_OptimizeCollectionRoute_AlternativeFlow1.png"
+                  ],
+                  "history": [
+                    {
+                      "affectedNodeId": "28",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00786182@mytru.ca",
+                        "name": "T00786182"
+                      },
+                      "changedOn": "2025-10-30T17:14:28.899Z",
+                      "docId": "User Requirements",
+                      "structureAction": "Create"
+                    }
+                  ]
+                },
+                {
+                  "id": "31",
+                  "guid": "89627aff-c89c-4e6d-9bf1-c45fe00ce442",
+                  "heading": "Alternative Flow 2",
+                  "text": "<p><span style=\"text-decoration:none;vertical-align:baseline;\">This flow occurs when the system is configured to require supervisor review before finalizing routes. Proposed routes are sent for approval, and optimization resumes after feedback or confirmation.</span></p><p>(Figure:&nbsp;<a href=\"#\" style=\"text-align: start;\">User Requirements-32_1_OptimizeCollectionRoute_AlternativeFlow2</a>)</p>",
+                  "ForeignID": "User Requirements-32",
+                  "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+                  "attachments": [
+                    "User Requirements-31_1_OptimizeCollectionRoute_AlternativeFlow2.png"
+                  ],
+                  "history": [
+                    {
+                      "affectedNodeId": "28",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00786182@mytru.ca",
+                        "name": "T00786182"
+                      },
+                      "changedOn": "2025-10-30T17:14:28.899Z",
+                      "docId": "User Requirements",
+                      "structureAction": "Create"
+                    }
+                  ]
+                },
+                {
+                  "id": "32",
+                  "guid": "a0f2a74d-cc42-4769-af25-2cdc08bea8b1",
+                  "heading": "Alternative Flow 3",
+                  "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">If the optimizer finds no feasible routes, generate split routes, flag the capacity shortage to the supervisor, and (optionally) relax thresholds and re-run per admin policy. (Figure: <a href=\"#\" style=\"text-align: start;\">User Requirements-33_1</a><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;</span>OptimizeCollectionRoute_AlternativeFlow3)</span></p>",
+                  "ForeignID": "User Requirements-33",
+                  "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+                  "attachments": [
+                    "User Requirements-32_1_OptimizeCollectionRoute_AlternativeFlow3.png"
+                  ],
+                  "history": [
+                    {
+                      "affectedNodeId": "28",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00786182@mytru.ca",
+                        "name": "T00786182"
+                      },
+                      "changedOn": "2025-10-30T17:14:28.899Z",
+                      "docId": "User Requirements",
+                      "structureAction": "Create"
+                    }
+                  ]
+                },
+                {
+                  "id": "33",
+                  "guid": "1e3bf6e2-7e1e-4a6c-ac18-64b83cb9a44a",
+                  "heading": "Exceptions, Priority and Assumptions",
+                  "text": "<p dir=\"ltr\"><br></p><table><tbody><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Exceptions</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Sensor data stale/missing: If required sensor data older than 24 hours, exclude those bins and log warning (continue optimization).</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Optimization engine or DB failure: Abort route update, retain prior routes, alert admins, and log failure.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Push to device fails: If driver device offline, mark route pending and schedule retry at next sync; if critical, notify supervisor.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Priority</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">High</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Business Rules</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">BR-001, BR-002, BR-003, BR-004</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Assumptions</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Sensors and telematics send accurate timestamps and identifiers.</span></p><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Drivers carry compatible devices and will sync when connectivity restored</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Other information</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Quality: Target route calculation latency to be defined in NFRs (example: &lt; 60s for a city sub-region).</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span><span style=\"text-decoration:none;vertical-align:baseline;\">Failure policy: On optimization engine failure, no partial route updates are pushed. Prior routes remain active until replacement routes are verified and audited.&nbsp;</span></p></td></tr></tbody></table>",
+                  "ForeignID": "User Requirements-34",
+                  "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+                  "history": [
+                    {
+                      "affectedNodeId": "28",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00786182@mytru.ca",
+                        "name": "T00786182"
+                      },
+                      "changedOn": "2025-10-30T17:14:28.899Z",
+                      "docId": "User Requirements",
+                      "structureAction": "Create"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "34",
+              "guid": "c2a87393-9b61-4c14-9ed0-f988967624d7",
+              "heading": "UC-002 — Report Missed Pickup / Issue (Resident)",
+              "text": "<p dir=\"ltr\"><br></p><table><tbody><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Use Case ID and Name</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">UC-002 — Report Missed Pickup / Issue (Resident)</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Author and Date Created</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">E</span><span style=\"text-decoration:none;vertical-align:baseline;\">merson Tavera — 2025-10-19</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Primary Actor</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">R</span><span style=\"text-decoration:none;vertical-align:baseline;\">esident (via mobile app)</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Secondary Actors</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Route Supervisor (human), City Administrator (for escalations), Vehicle Telematics Service (for presence verification), Maintenance/Ticketing System (for hardware issues), Notification Service</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Description</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">A resident uses the SWMRS mobile app to report an issue for a specific address (e.g., missed pickup, obstruction, contamination, or damaged bin). The system collects structured details (issue type, address/bin ID, description), optional media (photos/videos), and automatic metadata (GPS, timestamp, reporter ID). It stores the report, notifies the appropriate supervisor queue, and triggers follow-up actions such as acknowledgment, investigation, rerouting, or maintenance according to business rules and SLAs.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Trigger</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">The resident opens the SWMRS mobile app and selects&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">“Report Issue”</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;for their address, or taps a&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">“Report”</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;button from a missed-pickup notification.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Preconditions</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">PRE-1.</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Resident is authenticated in the app (unless anonymous reporting is allowed by policy).</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span><span style=\"text-decoration:none;vertical-align:baseline;\">PRE-2.</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Resident account is linked to an address and bin ID (or can be selected manually).</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span><span style=\"text-decoration:none;vertical-align:baseline;\">PRE-3.</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Device has enough storage for optional media and can capture or input location data (GPS or manual address).</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span><span style=\"text-decoration:none;vertical-align:baseline;\">PRE-4.</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Supervisor queue service is available to accept new reports (if not, system will queue locally).</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Postconditions</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">POST-1.</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Report is stored with a unique Report ID, reporter ID (or anonymous flag), timestamp, GPS/address, issue type, description, and any media or references.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span><span style=\"text-decoration:none;vertical-align:baseline;\">POST-2.</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Report is placed in the appropriate supervisor queue, and an acknowledgment is sent to the resident within the defined SLA.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span><span style=\"text-decoration:none;vertical-align:baseline;\">POST-3.</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;If immediate action is needed, a follow-up task (reroute, return pickup, maintenance) is created and linked to the report.</span></p></td></tr></tbody></table>",
+              "ForeignID": "User Requirements-35",
+              "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+              "history": [
+                {
+                  "affectedNodeId": "26",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-30T17:14:28.899Z",
+                  "docId": "User Requirements",
+                  "structureAction": "Create"
+                }
+              ],
+              "children": [
+                {
+                  "id": "35",
+                  "guid": "dfc04530-2fc0-46ff-9caf-156112c70c17",
+                  "heading": "Normal Flow",
+                  "ForeignID": "User Requirements-36",
+                  "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+                  "attachments": [
+                    "User Requirements-35_1_ReportMissedPickup_NormalFlow.png"
+                  ],
+                  "history": [
+                    {
+                      "affectedNodeId": "34",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00786182@mytru.ca",
+                        "name": "T00786182"
+                      },
+                      "changedOn": "2025-10-30T17:14:28.899Z",
+                      "docId": "User Requirements",
+                      "structureAction": "Create"
+                    }
+                  ]
+                },
+                {
+                  "id": "36",
+                  "guid": "18758bfa-f256-4694-a896-495a70b1f976",
+                  "heading": "Alternative Flow 1",
+                  "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Anonymous Report Allowed:&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">If local policy allows, the resident can submit a report without signing in. The system collects minimal contact information (optional), stores the report as anonymous, and limits communication to public status updates. (Figure <span style=\"text-decoration:none;vertical-align:baseline;\">Figure <a href=\"#\" style=\"text-align: start;\">User Requirements-37_1</a><span style=\"text-decoration:none;vertical-align:baseline;\">:&nbsp;</span></span> ReportMissedPickup_AlternativeFlow1)</span></p><p dir=\"ltr\"><br></p>",
+                  "ForeignID": "User Requirements-37",
+                  "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+                  "attachments": [
+                    "User Requirements-36_1_ReportMissedPickup_AlternativeFlow1.png"
+                  ],
+                  "history": [
+                    {
+                      "affectedNodeId": "34",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00786182@mytru.ca",
+                        "name": "T00786182"
+                      },
+                      "changedOn": "2025-10-30T17:14:28.899Z",
+                      "docId": "User Requirements",
+                      "structureAction": "Create"
+                    }
+                  ]
+                },
+                {
+                  "id": "37",
+                  "guid": "1844cb20-540b-42fc-9fd3-a93327a07adb",
+                  "heading": "Alternative Flow 2",
+                  "text": "<p><span style=\"text-decoration:none;vertical-align:baseline;\">Report from Missed-Pickup Notification:&nbsp;</span><span style=\"text-decoration:none;vertical-align:baseline;\">The resident taps “Report” from a missed-pickup alert. The issue type and timestamp are prefilled, and the system may check vehicle telemetry for presence verification before submission. (Figure:&nbsp;<span style=\"text-align: start;\">&nbsp;</span><a href=\"#\" style=\"text-align: start;\">User Requirements-38_1_ReportMissedPickup_AlternativeFlow2</a>)</span></p>",
+                  "ForeignID": "User Requirements-38",
+                  "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+                  "attachments": [
+                    "User Requirements-37_1_ReportMissedPickup_AlternativeFlow2.png"
+                  ],
+                  "history": [
+                    {
+                      "affectedNodeId": "34",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00786182@mytru.ca",
+                        "name": "T00786182"
+                      },
+                      "changedOn": "2025-10-30T17:14:28.899Z",
+                      "docId": "User Requirements",
+                      "structureAction": "Create"
+                    }
+                  ]
+                },
+                {
+                  "id": "38",
+                  "guid": "0f14cae0-e311-4bc9-b383-5393ad51e88d",
+                  "heading": "Alternative Flow 3",
+                  "text": "<p><span style=\"text-decoration:none;vertical-align:baseline;\">Resident Selects Different Address/Bin:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;If the suggested address or bin is incorrect, the resident can select or manually enter another address. The system validates the mapping and continues with the selected location. (Figure: <span style=\"text-align: start;\">&nbsp;</span><a href=\"#\" style=\"text-align: start;\">User Requirements-39_1_ReportMissedPickup_AlternativeFlow3</a>)</span></p>",
+                  "ForeignID": "User Requirements-39",
+                  "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+                  "attachments": [
+                    "User Requirements-38_1_ReportMissedPickup_AlternativeFlow3.png"
+                  ],
+                  "history": [
+                    {
+                      "affectedNodeId": "34",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00786182@mytru.ca",
+                        "name": "T00786182"
+                      },
+                      "changedOn": "2025-10-30T17:14:28.899Z",
+                      "docId": "User Requirements",
+                      "structureAction": "Create"
+                    }
+                  ]
+                },
+                {
+                  "id": "39",
+                  "guid": "c0423b7e-84d5-4531-b709-a3b3c26c8de3",
+                  "heading": "Exceptions, Priority and Assumptions",
+                  "text": "<p dir=\"ltr\"><br></p><table><tbody><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Exceptions</span></p></td><td style=\"vertical-align:top;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Media upload fails:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;The report is stored with a media placeholder; upload retries automatically once connectivity returns.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span><span style=\"text-decoration:none;vertical-align:baseline;\">Address-to-bin mapping missing or ambiguous:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;The system prompts for manual selection; if unresolved, the report is flagged as “unverified.”</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span><span style=\"text-decoration:none;vertical-align:baseline;\">Supervisor queue unavailable:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;The system queues the report and retries routing; acknowledgment still sent to resident.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span><span style=\"text-decoration:none;vertical-align:baseline;\">Duplicate report detected:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;The system warns the resident and offers to attach media to an existing open report.</span><br></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Priority</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">High: impacts resident satisfaction and service-level performance.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Business Rules</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">BR-005.</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Missed-pickup reports must be acknowledged within the SLA.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span><span style=\"text-decoration:none;vertical-align:baseline;\">BR-006.</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Attached photos are part of the audit log.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span><span style=\"text-decoration:none;vertical-align:baseline;\">BR-007.</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Driver photo evidence may reclassify issue type (e.g., “Skipped — Contamination”).</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span><span style=\"text-decoration:none;vertical-align:baseline;\">BR-003.</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;All actions must be auditable.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Assumptions</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Resident address–bin mappings are accurate.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span><span style=\"text-decoration:none;vertical-align:baseline;\">GPS or manual location input is sufficient.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span><span style=\"text-decoration:none;vertical-align:baseline;\">Supervisors act on reports within SLA.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Other Information</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">SLA Compliance:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;The system must send acknowledgment within SLA (e.g., 24h) and update the resident on progress and resolution.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span><span style=\"text-decoration:none;vertical-align:baseline;\">Offline Mode:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;Reports can be queued offline and auto-synced when connectivity returns.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span><span style=\"text-decoration:none;vertical-align:baseline;\">Auditability:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;All supervisor and system actions are logged with timestamps.</span><span style=\"text-decoration:none;vertical-align:baseline;\"><br></span><span style=\"text-decoration:none;vertical-align:baseline;\">Failure Policy:</span><span style=\"text-decoration:none;vertical-align:baseline;\">&nbsp;In case of systemic failure, the app shows a user-friendly error and retry behavior.</span></p></td></tr></tbody></table>",
+                  "ForeignID": "User Requirements-40",
+                  "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+                  "history": [
+                    {
+                      "affectedNodeId": "34",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00786182@mytru.ca",
+                        "name": "T00786182"
+                      },
+                      "changedOn": "2025-10-30T17:14:28.899Z",
+                      "docId": "User Requirements",
+                      "structureAction": "Create"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "40",
+              "guid": "476d33f4-456c-4c35-8bc3-9e04d9e4385d",
+              "heading": "UC-003 — Track & Redeem Recycling Rewards",
+              "text": "<p dir=\"ltr\"><br></p><table><tbody><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: right;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Use Case ID and Name</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">UC-003 — Track &amp; Redeem Recycling Rewards</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: right;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Author and Date Created</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Emerson Tavera — 2025-10-19</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: right;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Primary Actor</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Resident</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: right;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Secondary Actor</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Rewards Gateway (vendor API), City Administrator (configures rewards), IoT Bin Sensor (validates collections), Audit Log Service</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: right;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Description</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Resident monitors their recycling performance, earns points for validated collections, browses a rewards catalog, and redeems rewards. The system ensures collection events are verified before awarding points and coordinates redemption with reward providers.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: right;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Trigger</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Resident opens the Rewards section in the app or receives a push notification of awarded points and selects a reward to redeem.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: right;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Preconditions</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Resident has a verified account linked to an address and bin. Collection events for the resident's bin are validated. Rewards catalog contains at least one active reward.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: right;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Postconditions</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Resident points balance is updated. If a reward is redeemed, vendor is notified and the redemption is logged. Resident receives confirmation with redemption details or voucher.</span></p></td></tr></tbody></table>",
+              "ForeignID": "User Requirements-41",
+              "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+              "history": [
+                {
+                  "affectedNodeId": "26",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-30T17:14:28.899Z",
+                  "docId": "User Requirements",
+                  "structureAction": "Create"
+                }
+              ],
+              "children": [
+                {
+                  "id": "41",
+                  "guid": "50c31ff1-2d4f-4d1a-a085-d88c97f66fda",
+                  "heading": "Normal Flow",
+                  "ForeignID": "User Requirements-42",
+                  "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+                  "attachments": [
+                    "User Requirements-41_1_TrackRedemRecyclingRewards_NormalFlow.png"
+                  ],
+                  "history": [
+                    {
+                      "affectedNodeId": "40",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00786182@mytru.ca",
+                        "name": "T00786182"
+                      },
+                      "changedOn": "2025-10-30T17:14:28.899Z",
+                      "docId": "User Requirements",
+                      "structureAction": "Create"
+                    }
+                  ]
+                },
+                {
+                  "id": "42",
+                  "guid": "151fbcdd-d20d-4eee-9169-fdfa89cd4fd0",
+                  "heading": "Alternative Flow 1",
+                  "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Insufficient points : A path describing what happens when a resident attempts to redeem a reward but does not have enough points. The system notifies the resident, offers alternative rewards, partial redemption options, or allows cancellation. (Figure: <a href=\"#\" style=\"text-align: start;\">User Requirements-43_1_TrackRedemRecyclingRewards_AlternativeFlow1</a>)</span></p>",
+                  "ForeignID": "User Requirements-43",
+                  "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+                  "attachments": [
+                    "User Requirements-42_1_TrackRedemRecyclingRewards_AlternativeFlow1.png"
+                  ],
+                  "history": [
+                    {
+                      "affectedNodeId": "40",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00786182@mytru.ca",
+                        "name": "T00786182"
+                      },
+                      "changedOn": "2025-10-30T17:14:28.899Z",
+                      "docId": "User Requirements",
+                      "structureAction": "Create"
+                    }
+                  ]
+                },
+                {
+                  "id": "43",
+                  "guid": "56d4ca01-676a-49e5-a6d0-00b7a3215e83",
+                  "heading": "Alternative Flow 2",
+                  "text": "<p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Points pending validation: A path describing the situation where the residents’ points are not yet validated. The system blocks redemption, displays pending status, shows expected validation date, and optionally allows requesting manual intervention. (Figure: <a href=\"#\" style=\"text-align: start;\">User Requirements-44_1_TrackRedemRecyclingRewards_AlternativeFlow2</a>)</span></p>",
+                  "ForeignID": "User Requirements-44",
+                  "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+                  "attachments": [
+                    "User Requirements-43_1_TrackRedemRecyclingRewards_AlternativeFlow2.png"
+                  ],
+                  "history": [
+                    {
+                      "affectedNodeId": "40",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00786182@mytru.ca",
+                        "name": "T00786182"
+                      },
+                      "changedOn": "2025-10-30T17:14:28.899Z",
+                      "docId": "User Requirements",
+                      "structureAction": "Create"
+                    }
+                  ]
+                },
+                {
+                  "id": "44",
+                  "guid": "178312b8-9c79-47f5-994f-ace093b4a25c",
+                  "heading": "Exceptions, Priority and Assumptions",
+                  "text": "<p dir=\"ltr\"><br></p><table><tbody><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: right;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Exceptions</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Vendor or Gateway failure during redemption triggers rollback and notification. Duplicate redemption attempts are detected and prevented.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: right;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Priority</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Medium</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: right;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Business Rules</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">BR-008, BR-009, BR-010</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: right;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Assumptions</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Vendors support API or voucher-based redemptions. Points calculations depend only on validated pickups.</span></p></td></tr><tr><td style=\"vertical-align:top;\"><p dir=\"ltr\" style=\"text-align: right;\"><span style=\"text-decoration:none;vertical-align:baseline;\">Other Information</span></p></td><td style=\"vertical-align:top;\"><p dir=\"ltr\"><span style=\"text-decoration:none;vertical-align:baseline;\">Security: high-value redemptions may require MFA. Redemptions are atomic; points debit and vendor confirmation succeed or are rolled back. Rewards history is treated as personal data and retained per policy.</span></p></td></tr></tbody></table>",
+                  "ForeignID": "User Requirements-45",
+                  "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+                  "history": [
+                    {
+                      "affectedNodeId": "40",
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00786182@mytru.ca",
+                        "name": "T00786182"
+                      },
+                      "changedOn": "2025-10-30T17:14:28.899Z",
+                      "docId": "User Requirements",
+                      "structureAction": "Create"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "guid": "dbde54d2-2e45-4319-a308-f4f9c5fb9102",
+          "heading": "Constraints",
+          "text": "<p>The Smart Waste Management &amp; Recycling System (SWMRS) must operate within several technical, regulatory, and environmental limitations. These constraints define the boundaries and conditions that influence system design, implementation, and deployment.</p>",
+          "ForeignID": "User Requirements-46",
+          "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+          "history": [
+            {
+              "affectedNodeId": "11",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-30T17:14:28.899Z",
+              "docId": "User Requirements",
+              "structureAction": "Create"
+            }
+          ],
+          "children": [
+            {
+              "id": "46",
+              "guid": "60853d4b-52ff-4ce0-a5f4-62d852141011",
+              "heading": "Regulatory Compliance",
+              "text": "<p>The system must adhere to all <strong>city waste management policies</strong>, environmental regulations, and data privacy laws governing municipal digital systems. Any updates to these policies must be reflected in future software revisions.</p>",
+              "ForeignID": "User Requirements-47",
+              "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+              "history": [
+                {
+                  "affectedNodeId": "45",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-30T17:14:28.899Z",
+                  "docId": "User Requirements",
+                  "structureAction": "Create"
+                }
+              ]
+            },
+            {
+              "id": "47",
+              "guid": "465cd0ea-29d6-4fee-bd9d-f5ba1a3f8bd9",
+              "heading": "Connectivity Limitations",
+              "text": "<p>Due to <strong>limited mobile data coverage</strong> in certain areas, the system must support <strong>offline functionality</strong> for drivers and field workers, allowing data to be stored locally and synchronized when connectivity is restored.</p>",
+              "ForeignID": "User Requirements-49",
+              "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+              "history": [
+                {
+                  "affectedNodeId": "45",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-30T17:14:28.899Z",
+                  "docId": "User Requirements",
+                  "structureAction": "Create"
+                }
+              ]
+            },
+            {
+              "id": "48",
+              "guid": "b0044d3b-ccd2-4084-b6f6-af84b99afe5c",
+              "heading": "System Integration Requirements",
+              "text": "<p>The SWMRS must <strong>integrate seamlessly with existing municipal platforms</strong>, such as asset management or ticketing systems. This may require <strong>API alignment and data format compatibility</strong> to ensure smooth information exchange between systems.</p>",
+              "ForeignID": "User Requirements-50",
+              "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+              "history": [
+                {
+                  "affectedNodeId": "45",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-30T17:14:28.899Z",
+                  "docId": "User Requirements",
+                  "structureAction": "Create"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "guid": "682ec0ec-a3c4-41e2-84b8-374c1ba5e123",
+          "heading": "Assumptions and Dependencies",
+          "text": "<p>The development and operation of the <strong>Smart Waste Management &amp; Recycling System (SWMRS)</strong> rely on several assumptions about the environment, users, and technology, as well as dependencies on external systems and factors outside the project team’s direct control.</p>",
+          "ForeignID": "User Requirements-51",
+          "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+          "history": [
+            {
+              "affectedNodeId": "11",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-10-30T17:14:28.899Z",
+              "docId": "User Requirements",
+              "structureAction": "Create"
+            }
+          ],
+          "children": [
+            {
+              "id": "50",
+              "guid": "975a6624-4618-4924-b3dc-2b590f75f9f5",
+              "heading": "User Competency",
+              "text": "<p>It is assumed that all direct users (drivers, supervisors, administrators, and residents) have basic digital literacy and are capable of using the mobile or web interfaces provided by the system.</p>",
+              "ForeignID": "User Requirements-52",
+              "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+              "history": [
+                {
+                  "affectedNodeId": "49",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-30T17:14:28.899Z",
+                  "docId": "User Requirements",
+                  "structureAction": "Create"
+                }
+              ]
+            },
+            {
+              "id": "51",
+              "guid": "a47d977e-f568-40f0-b8b9-7472530be42b",
+              "heading": "Sensor Reliability",
+              "text": "<p>IoT bin sensors are assumed to function according to manufacturer specifications, reporting accurate fill levels, location, and status data consistently.</p>",
+              "ForeignID": "User Requirements-53",
+              "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+              "history": [
+                {
+                  "affectedNodeId": "49",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-30T17:14:28.899Z",
+                  "docId": "User Requirements",
+                  "structureAction": "Create"
+                }
+              ]
+            },
+            {
+              "id": "52",
+              "guid": "af35bb81-d2c6-43c3-adb5-50953e82d149",
+              "heading": "Data Availability",
+              "text": "<p>The system assumes continuous access to required external data, such as traffic updates from the Traffic Data API, for route optimization.</p>",
+              "ForeignID": "User Requirements-54",
+              "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+              "history": [
+                {
+                  "affectedNodeId": "49",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-30T17:14:28.899Z",
+                  "docId": "User Requirements",
+                  "structureAction": "Create"
+                }
+              ]
+            },
+            {
+              "id": "53",
+              "guid": "e72499a8-fe03-461e-8b47-7d335d81ad83",
+              "heading": "Device Compatibility",
+              "text": "<p>Users are assumed to access the system using supported devices (smartphones, tablets, or web-enabled computers) with up-to-date operating systems and browsers.</p>",
+              "ForeignID": "User Requirements-55",
+              "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+              "history": [
+                {
+                  "affectedNodeId": "49",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-30T17:14:28.899Z",
+                  "docId": "User Requirements",
+                  "structureAction": "Create"
+                }
+              ]
+            },
+            {
+              "id": "54",
+              "guid": "ca019155-66e0-4fe5-8eb7-6d17c9ca3196",
+              "heading": "External APIs and Services",
+              "text": "<p>SWMRS depends on external services such as traffic data providers, payment gateways, and municipal ticketing systems for certain features to function correctly.</p>",
+              "ForeignID": "User Requirements-56",
+              "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+              "history": [
+                {
+                  "affectedNodeId": "49",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-30T17:14:28.899Z",
+                  "docId": "User Requirements",
+                  "structureAction": "Create"
+                }
+              ]
+            },
+            {
+              "id": "55",
+              "guid": "202d2011-078c-4683-8143-af129bde79dc",
+              "heading": "Network and Connectivity",
+              "text": "<p>The system relies on sufficient network infrastructure (cellular or Wi-Fi) for real-time monitoring, notifications, and synchronization. Offline modes mitigate temporary connectivity issues but assume eventual network access.</p>",
+              "ForeignID": "User Requirements-57",
+              "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+              "history": [
+                {
+                  "affectedNodeId": "49",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-30T17:14:28.899Z",
+                  "docId": "User Requirements",
+                  "structureAction": "Create"
+                }
+              ]
+            },
+            {
+              "id": "56",
+              "guid": "f80278b2-c899-4f8a-a222-4c69ff3b681c",
+              "heading": "Legal and Regulatory Environment",
+              "text": "<p>The system’s operation depends on compliance with existing municipal policies, environmental regulations, and privacy laws. Changes in these regulations may necessitate updates to SWMRS functionality.</p>",
+              "ForeignID": "User Requirements-58",
+              "ReqIFObjectType": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+              "history": [
+                {
+                  "affectedNodeId": "49",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-10-30T17:14:28.899Z",
+                  "docId": "User Requirements",
+                  "structureAction": "Create"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "attributes": {
+    "ForeignID": {
+      "readOnly": true,
+      "type": "string"
+    },
+    "ReqIFObjectType": {
+      "name": "ReqIF Object Type",
+      "type": "enum",
+      "values": [
+        {
+          "key": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3",
+          "label": "User Requirements Object Type"
+        }
+      ]
+    }
+  },
+  "templateColumns": {
+  },
+  "views": {
+    "Primary": {
+      "columns": [
+        {
+          "columnId": "id",
+          "width": 65
+        },
+        {
+          "columnId": "description",
+          "width": 500
+        },
+        {
+          "columnId": "links",
+          "width": 150
+        },
+        {
+          "columnId": "ReqIFObjectType",
+          "width": 150
+        },
+        {
+          "columnId": "ForeignID",
+          "width": 150
+        }
+      ],
+      "default": true
+    }
+  },
+  "integrations": {
+    "reqif": {
+      "specObjects": {
+        "08a35ff3-301c-4eee-b2e5-d084c3982d0b": {
+          "identifier": "_5286f69d-b5eb-43ac-a858-1545fb96fc97",
+          "lastChange": "2025-10-23T18:57:55.742Z",
+          "reqviewObjId": "11",
+          "specHierarchy": {
+            "identifier": "_595f025a-fba0-464b-aa3f-48a4e1f9581f",
+            "lastChange": "2025-10-23T18:57:55.742Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "0f14cae0-e311-4bc9-b383-5393ad51e88d": {
+          "identifier": "_81678103-311d-43cf-8a58-cac98af93ac3",
+          "lastChange": "2025-10-23T19:32:48.020Z",
+          "reqviewObjId": "38",
+          "specHierarchy": {
+            "identifier": "_bca1044b-55f6-49c5-874a-6e8a4fe967e7",
+            "lastChange": "2025-10-23T19:32:48.020Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "11dc9f1f-e49f-476d-96bb-d299e1361b85": {
+          "identifier": "_09568c5d-7ad9-4954-b156-4771bac7bff8",
+          "lastChange": "2025-10-23T19:03:03.130Z",
+          "reqviewObjId": "20",
+          "specHierarchy": {
+            "identifier": "_7330c7b7-bd72-4088-b1d1-03a723623a3d",
+            "lastChange": "2025-10-23T19:03:03.130Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "151fbcdd-d20d-4eee-9169-fdfa89cd4fd0": {
+          "identifier": "_648c8930-c404-47e3-acf7-b925bb7d351b",
+          "lastChange": "2025-10-23T19:36:40.556Z",
+          "reqviewObjId": "42",
+          "specHierarchy": {
+            "identifier": "_e780e893-54d3-4605-a7d3-6865dd90ea0e",
+            "lastChange": "2025-10-23T19:36:40.556Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "178312b8-9c79-47f5-994f-ace093b4a25c": {
+          "identifier": "_a2d67431-7801-4ddb-bdf8-c0b45cce0641",
+          "lastChange": "2025-10-23T19:35:50.139Z",
+          "reqviewObjId": "44",
+          "specHierarchy": {
+            "identifier": "_4421cef2-2367-491f-9568-c0a6e1ee2dc9",
+            "lastChange": "2025-10-23T19:35:50.139Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "1844cb20-540b-42fc-9fd3-a93327a07adb": {
+          "identifier": "_d0ae5a0e-808e-44c5-b984-b0960d7e8b55",
+          "lastChange": "2025-10-23T19:31:50.382Z",
+          "reqviewObjId": "37",
+          "specHierarchy": {
+            "identifier": "_ff9799ec-37a9-449d-8056-0d3110bc9aa4",
+            "lastChange": "2025-10-23T19:31:50.382Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "18758bfa-f256-4694-a896-495a70b1f976": {
+          "identifier": "_850d7864-323d-4b97-bc82-6fede241618b",
+          "lastChange": "2025-10-23T19:30:21.440Z",
+          "reqviewObjId": "36",
+          "specHierarchy": {
+            "identifier": "_fe700ff5-c38c-400a-bdb9-ec01cc6576ed",
+            "lastChange": "2025-10-23T19:30:21.440Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "1bb45c9f-23bb-4e3d-a44e-34fe8a663b86": {
+          "identifier": "_5947d2b7-0d3e-4bfd-9bac-7307a63f6629",
+          "lastChange": "2025-10-23T18:52:24.158Z",
+          "reqviewObjId": "9",
+          "specHierarchy": {
+            "identifier": "_0fccbd6b-a140-4d48-bcb1-09bd9218fabc",
+            "lastChange": "2025-10-23T18:52:24.158Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "1d8ee00d-2bd7-4a23-b2d1-4a9769e49781": {
+          "identifier": "_9749eb04-d309-4ef2-a5b7-2924623be929",
+          "lastChange": "2025-10-23T19:11:36.603Z",
+          "reqviewObjId": "28",
+          "specHierarchy": {
+            "identifier": "_55368b09-8e9c-49e3-badb-d3173029b66c",
+            "lastChange": "2025-10-23T19:11:36.603Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "1e3bf6e2-7e1e-4a6c-ac18-64b83cb9a44a": {
+          "identifier": "_4a3511a5-c064-4073-b0b7-a66e54e21237",
+          "lastChange": "2025-10-23T19:22:02.923Z",
+          "reqviewObjId": "33",
+          "specHierarchy": {
+            "identifier": "_aefb58b5-5f2e-4133-a2bd-e5379ed0964b",
+            "lastChange": "2025-10-23T19:22:02.923Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "202d2011-078c-4683-8143-af129bde79dc": {
+          "identifier": "_bf861a14-1f80-40b6-b201-3b1b1f7c6dbd",
+          "lastChange": "2025-10-23T19:44:43.676Z",
+          "reqviewObjId": "55",
+          "specHierarchy": {
+            "identifier": "_84dc2f14-5ad4-49d0-b174-a1bd2e88a57a",
+            "lastChange": "2025-10-23T19:44:43.676Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "222ac545-a84a-4e7e-880c-9d1f0aa708e4": {
+          "identifier": "_af0f10ec-ce8a-406f-b74e-f2ff20a29080",
+          "lastChange": "2025-10-23T19:00:58.932Z",
+          "reqviewObjId": "18",
+          "specHierarchy": {
+            "identifier": "_b63151ef-6b36-4e94-ab50-f90e6f951a2d",
+            "lastChange": "2025-10-23T19:00:58.932Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "2e0a6e98-4d24-4bb4-be86-3e13c0c13647": {
+          "identifier": "_31d80fca-8674-4d1e-a83d-da201d6fa1b0",
+          "lastChange": "2025-10-23T18:58:14.201Z",
+          "reqviewObjId": "12",
+          "specHierarchy": {
+            "identifier": "_d3dc4ad1-c64d-412d-97cb-a9370c91929c",
+            "lastChange": "2025-10-23T18:58:14.201Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "2fd1f6c3-bb6b-4659-9f41-5a55aa6cdb59": {
+          "identifier": "_6f8c62a8-e0d8-4e68-9475-bd0aea66fb1a",
+          "lastChange": "2025-10-23T18:59:43.164Z",
+          "reqviewObjId": "13",
+          "specHierarchy": {
+            "identifier": "_eaaba05e-2aca-48d7-8357-b1284f5252d7",
+            "lastChange": "2025-10-23T18:59:43.164Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "31460b65-c140-4b8e-a119-8f3bb537236f": {
+          "identifier": "_1ba09bd3-4926-4c74-ae2a-0ed07f2e78e4",
+          "lastChange": "2025-10-23T19:00:47.486Z",
+          "reqviewObjId": "17",
+          "specHierarchy": {
+            "identifier": "_65406e54-1ef3-47b3-ba05-137a0e17854e",
+            "lastChange": "2025-10-23T19:00:47.486Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "465cd0ea-29d6-4fee-bd9d-f5ba1a3f8bd9": {
+          "identifier": "_e057ada8-fdc5-46c6-8a5c-ff4b1f090202",
+          "lastChange": "2025-10-23T19:42:20.496Z",
+          "reqviewObjId": "47",
+          "specHierarchy": {
+            "identifier": "_32487017-adee-4334-b27a-a71ae7d97ada",
+            "lastChange": "2025-10-23T19:42:20.496Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "476d33f4-456c-4c35-8bc3-9e04d9e4385d": {
+          "identifier": "_b77a2fb5-b4bc-49e5-91c0-ef187440fdc7",
+          "lastChange": "2025-10-23T19:34:13.591Z",
+          "reqviewObjId": "40",
+          "specHierarchy": {
+            "identifier": "_65a574cd-ef81-416b-a33b-62548a08267a",
+            "lastChange": "2025-10-23T19:34:13.591Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "4fcedbd3-3023-40af-97dd-6d976f712180": {
+          "identifier": "_5a31a8d2-d3e4-4c3b-890e-45ecc59acfb4",
+          "lastChange": "2025-10-23T19:01:10.024Z",
+          "reqviewObjId": "19",
+          "specHierarchy": {
+            "identifier": "_778d1598-ecfa-49c3-ac99-0fed9cc6da60",
+            "lastChange": "2025-10-23T19:01:10.024Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "50c31ff1-2d4f-4d1a-a085-d88c97f66fda": {
+          "identifier": "_0a7cfada-085e-4b19-9fac-fcb3365a1ab1",
+          "lastChange": "2025-10-23T19:37:36.905Z",
+          "reqviewObjId": "41",
+          "specHierarchy": {
+            "identifier": "_a3d04f7c-99f9-4ecb-971c-45db589aa53c",
+            "lastChange": "2025-10-23T19:37:36.905Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "5170253e-fca8-4cc1-85df-1b7c73d0d184": {
+          "identifier": "_36304c51-195c-4374-b22a-955c3f5d25b7",
+          "lastChange": "2025-10-23T20:11:20.896Z",
+          "reqviewObjId": "29",
+          "specHierarchy": {
+            "identifier": "_dd02d015-6058-4c49-b94b-8cc10162a689",
+            "lastChange": "2025-10-23T20:11:20.896Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "54c4b2d2-4161-45f7-9240-4e4c995a5ff6": {
+          "identifier": "_368c11f0-38d9-4fdb-b363-d1f18e2c616d",
+          "lastChange": "2025-10-23T19:29:32.984Z",
+          "reqviewObjId": "30",
+          "specHierarchy": {
+            "identifier": "_7c081576-606a-43cf-af82-3fa1b120ee05",
+            "lastChange": "2025-10-23T19:29:32.984Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "56d4ca01-676a-49e5-a6d0-00b7a3215e83": {
+          "identifier": "_2984692a-c4e0-4a53-9f44-bd366582a456",
+          "lastChange": "2025-10-23T19:37:21.429Z",
+          "reqviewObjId": "43",
+          "specHierarchy": {
+            "identifier": "_afb17abc-40cc-4d92-845e-1d2c8435607c",
+            "lastChange": "2025-10-23T19:37:21.429Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "58c8453f-0d70-48f0-b694-4df41a2ed509": {
+          "identifier": "_7ace2966-ed0d-49c4-89b5-cb062b14a8d4",
+          "lastChange": "2025-10-23T18:50:42.305Z",
+          "reqviewObjId": "4",
+          "specHierarchy": {
+            "identifier": "_caf55f0b-7c59-4232-84b0-0f5ba606bd3a",
+            "lastChange": "2025-10-23T18:50:42.305Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "60853d4b-52ff-4ce0-a5f4-62d852141011": {
+          "identifier": "_6572b60a-c070-4248-9335-c2e8d69083cb",
+          "lastChange": "2025-10-23T19:41:51.027Z",
+          "reqviewObjId": "46",
+          "specHierarchy": {
+            "identifier": "_ee0b7845-4950-4bbb-bfe8-339e3e1f0d75",
+            "lastChange": "2025-10-23T19:41:51.027Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "66105d2f-3d41-4634-9355-ecd10c139b63": {
+          "identifier": "_aa488bdc-9abc-4269-be7e-d58ab9a695be",
+          "lastChange": "2025-10-23T19:02:54.055Z",
+          "reqviewObjId": "21",
+          "specHierarchy": {
+            "identifier": "_e969ff6e-d143-43bb-a2e2-7184a4fddaed",
+            "lastChange": "2025-10-23T19:02:54.055Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "682ec0ec-a3c4-41e2-84b8-374c1ba5e123": {
+          "identifier": "_5a765cd2-9159-45c3-8637-b5d2b7a5cfcd",
+          "lastChange": "2025-10-23T19:43:05.507Z",
+          "reqviewObjId": "49",
+          "specHierarchy": {
+            "identifier": "_0653cc36-ae82-401b-93b7-97e411bc00f6",
+            "lastChange": "2025-10-23T19:43:05.507Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "687a33c7-b8e9-4132-a42b-24474ed68752": {
+          "identifier": "_66ded405-6392-4ec6-9898-808ffc262037",
+          "lastChange": "2025-10-23T19:06:34.647Z",
+          "reqviewObjId": "24",
+          "specHierarchy": {
+            "identifier": "_94140bba-6cd8-4aca-a29d-0081b9fa6a17",
+            "lastChange": "2025-10-23T19:06:34.647Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "69ef9106-c04e-4605-9bcb-d0cd8c98d68e": {
+          "identifier": "_e481e8c6-ec09-478e-8015-9888bde89058",
+          "lastChange": "2025-10-23T19:05:59.042Z",
+          "reqviewObjId": "22",
+          "specHierarchy": {
+            "identifier": "_716fb4d0-6d13-418a-9c3d-61940880801a",
+            "lastChange": "2025-10-23T19:05:59.042Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "6a0ae8c8-71b4-44f8-889a-6a74a303bf5d": {
+          "identifier": "_78fe9260-49ea-4906-9f17-b6d649ef5b74",
+          "lastChange": "2025-10-23T18:51:02.771Z",
+          "reqviewObjId": "5",
+          "specHierarchy": {
+            "identifier": "_3310a67b-06b9-40c2-8801-ac3de287f60e",
+            "lastChange": "2025-10-23T18:51:02.771Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "74d46503-a078-44aa-9250-bea07331adb0": {
+          "identifier": "_fb1e5d72-310e-4c9f-8955-2048a0eece87",
+          "lastChange": "2025-10-23T19:00:21.169Z",
+          "reqviewObjId": "15",
+          "specHierarchy": {
+            "identifier": "_0cdfdab2-989f-49d4-a7db-6ff55b42d60c",
+            "lastChange": "2025-10-23T19:00:21.169Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "7528cb42-80a2-4084-a7e9-be72e6c36e05": {
+          "identifier": "_242c753c-8b05-45d3-830d-ce6e2bca90ab",
+          "lastChange": "2025-10-23T18:52:57.168Z",
+          "reqviewObjId": "10",
+          "specHierarchy": {
+            "identifier": "_878bb1c5-5b4c-4357-9008-8a9a43653e6c",
+            "lastChange": "2025-10-23T18:52:57.168Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "7c8f6483-a85c-46f1-8d92-a7741147520d": {
+          "identifier": "_1c937201-799b-4dd3-af76-dd8abcb0f207",
+          "lastChange": "2025-10-23T19:57:53.590Z",
+          "reqviewObjId": "1",
+          "specHierarchy": {
+            "identifier": "_4331763f-b82f-4220-b0e1-5bc7aab79dbb",
+            "lastChange": "2025-10-23T19:57:53.590Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "88e8b948-ca92-4674-b92f-7fc0999c07f9": {
+          "identifier": "_0884f5aa-6b9c-4385-a927-54fa1305c0f5",
+          "lastChange": "2025-10-23T19:00:07.619Z",
+          "reqviewObjId": "14",
+          "specHierarchy": {
+            "identifier": "_f287f106-a29c-4380-b9f3-743a1dcd4baa",
+            "lastChange": "2025-10-23T19:00:07.619Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "89627aff-c89c-4e6d-9bf1-c45fe00ce442": {
+          "identifier": "_d4da53f6-c467-4479-8588-e7ecf1989ced",
+          "lastChange": "2025-10-23T19:29:22.994Z",
+          "reqviewObjId": "31",
+          "specHierarchy": {
+            "identifier": "_67780c27-b4e5-41f8-bf4a-8b801dff98f7",
+            "lastChange": "2025-10-23T19:29:22.994Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "975a6624-4618-4924-b3dc-2b590f75f9f5": {
+          "identifier": "_d296d076-694a-488e-a33d-4d095fe627b7",
+          "lastChange": "2025-10-23T19:43:22.521Z",
+          "reqviewObjId": "50",
+          "specHierarchy": {
+            "identifier": "_95ae7058-f220-41d7-81c4-bdae108399f1",
+            "lastChange": "2025-10-23T19:43:22.521Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "991abe58-b154-401c-a307-70b7f9c808d6": {
+          "identifier": "_ffcde82f-2c15-4ae1-b39c-90973e20b769",
+          "lastChange": "2025-10-23T19:06:52.489Z",
+          "reqviewObjId": "25",
+          "specHierarchy": {
+            "identifier": "_049ae294-dec9-446c-af9c-fb8ffc2f0b1d",
+            "lastChange": "2025-10-23T19:06:52.489Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "9a4d2fc8-3f4e-4e1f-9884-01bb387611b8": {
+          "identifier": "_0e47719f-c15b-4614-af66-8bd3b739fc1c",
+          "lastChange": "2025-10-23T19:38:26.984Z",
+          "reqviewObjId": "27",
+          "specHierarchy": {
+            "identifier": "_3f1ae9ec-bbf2-4741-86c4-498ec5104ead",
+            "lastChange": "2025-10-23T19:38:26.984Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "a0f2a74d-cc42-4769-af25-2cdc08bea8b1": {
+          "identifier": "_a8604755-144d-4c32-a155-bfb6643cdab6",
+          "lastChange": "2025-10-23T19:29:58.407Z",
+          "reqviewObjId": "32",
+          "specHierarchy": {
+            "identifier": "_1080597f-79f5-4a34-bf76-4fcbac0a74a9",
+            "lastChange": "2025-10-23T19:29:58.407Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "a47d977e-f568-40f0-b8b9-7472530be42b": {
+          "identifier": "_d2510457-01e7-4361-9414-993c70d1f6e5",
+          "lastChange": "2025-10-23T19:43:40.793Z",
+          "reqviewObjId": "51",
+          "specHierarchy": {
+            "identifier": "_02f197de-c631-4acc-b3ba-cf0b972bd50c",
+            "lastChange": "2025-10-23T19:43:40.793Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "aa10946a-bd2b-4968-bb8c-4f7f08333093": {
+          "identifier": "_63557247-3766-4cd5-980d-ae5ec22a04ea",
+          "lastChange": "2025-10-23T18:51:44.821Z",
+          "reqviewObjId": "7",
+          "specHierarchy": {
+            "identifier": "_87fabd1d-1317-4580-804b-397d9b26e0b0",
+            "lastChange": "2025-10-23T18:51:44.821Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "af35bb81-d2c6-43c3-adb5-50953e82d149": {
+          "identifier": "_6cfcbcef-4cae-402c-b884-a0bf4a1cb7b6",
+          "lastChange": "2025-10-23T19:43:52.437Z",
+          "reqviewObjId": "52",
+          "specHierarchy": {
+            "identifier": "_ee4dc0f0-7e9e-48c3-bc03-02ad2c6c0878",
+            "lastChange": "2025-10-23T19:43:52.437Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "b0044d3b-ccd2-4084-b6f6-af84b99afe5c": {
+          "identifier": "_24f530db-8039-4119-8b4b-f227cca77dd8",
+          "lastChange": "2025-10-23T19:42:31.339Z",
+          "reqviewObjId": "48",
+          "specHierarchy": {
+            "identifier": "_5dbfef6f-dbf4-48db-b658-c8cfdc60307a",
+            "lastChange": "2025-10-23T19:42:31.339Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "c0423b7e-84d5-4531-b709-a3b3c26c8de3": {
+          "identifier": "_ac32b85c-6257-452e-a2c9-97e38f77ed0a",
+          "lastChange": "2025-10-23T19:33:34.435Z",
+          "reqviewObjId": "39",
+          "specHierarchy": {
+            "identifier": "_f179e595-0da9-4cf5-9f60-d12f16e1f951",
+            "lastChange": "2025-10-23T19:33:34.435Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "c2a87393-9b61-4c14-9ed0-f988967624d7": {
+          "identifier": "_83ab849b-ae48-42fb-9c8e-fb2ee16222a5",
+          "lastChange": "2025-10-23T19:23:17.266Z",
+          "reqviewObjId": "34",
+          "specHierarchy": {
+            "identifier": "_1f96c873-f760-4943-bd87-658fcd99822b",
+            "lastChange": "2025-10-23T19:23:17.266Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "c3be8f00-63bb-4567-93f3-fbcdc4940bc8": {
+          "identifier": "_6bdcf6d6-60e8-4e0b-9e11-167226a6d46a",
+          "lastChange": "2025-10-23T19:39:03.123Z",
+          "reqviewObjId": "26",
+          "specHierarchy": {
+            "identifier": "_e43c48e0-cbc7-4d18-b1c7-1400d66500f3",
+            "lastChange": "2025-10-23T19:39:03.123Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "c80f03cd-49cd-4e34-b56c-44e21606b6dd": {
+          "identifier": "_280eb3b6-bbf2-419f-a518-5d7bd432378e",
+          "lastChange": "2025-10-23T18:51:17.321Z",
+          "reqviewObjId": "6",
+          "specHierarchy": {
+            "identifier": "_40ea7213-1f12-4712-91ea-f24997be9517",
+            "lastChange": "2025-10-23T18:51:17.321Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "ca019155-66e0-4fe5-8eb7-6d17c9ca3196": {
+          "identifier": "_5dcbdc25-d523-432f-a51d-aef9c8384fb2",
+          "lastChange": "2025-10-23T19:44:34.092Z",
+          "reqviewObjId": "54",
+          "specHierarchy": {
+            "identifier": "_deac286e-e2da-4048-b249-5cbf3b9e7de9",
+            "lastChange": "2025-10-23T19:44:34.092Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "d65f60a8-cf81-4ece-b7db-c0da79082a29": {
+          "identifier": "_2e378b69-c852-4b64-937f-d4c7a40218f1",
+          "lastChange": "2025-10-23T19:06:20.228Z",
+          "reqviewObjId": "23",
+          "specHierarchy": {
+            "identifier": "_771ff132-b83d-47f4-a08c-adb6088a3c46",
+            "lastChange": "2025-10-23T19:06:20.228Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "d82b4c95-67d4-46ac-8d8a-d65fc037d613": {
+          "identifier": "_2216e39c-f322-42e1-a6de-d20e75bb7755",
+          "lastChange": "2025-10-23T18:50:33.419Z",
+          "reqviewObjId": "2",
+          "specHierarchy": {
+            "identifier": "_cfd4276b-9d67-470c-8c79-e781f357be74",
+            "lastChange": "2025-10-23T18:50:33.419Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "da9cc981-1e3c-421d-841f-c31e1d457f8c": {
+          "identifier": "_81b8b892-f705-48ba-bb92-a55642719a4d",
+          "lastChange": "2025-10-23T18:52:03.142Z",
+          "reqviewObjId": "8",
+          "specHierarchy": {
+            "identifier": "_a9451319-f7a6-41d5-a7eb-5c1f72493d73",
+            "lastChange": "2025-10-23T18:52:03.142Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "dbde54d2-2e45-4319-a308-f4f9c5fb9102": {
+          "identifier": "_2853ffb5-8007-4034-b65d-cf1a18f6cb22",
+          "lastChange": "2025-10-23T19:41:28.497Z",
+          "reqviewObjId": "45",
+          "specHierarchy": {
+            "identifier": "_360530f4-bea5-4fe2-bb40-b468a042eada",
+            "lastChange": "2025-10-23T19:41:28.497Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "dfc04530-2fc0-46ff-9caf-156112c70c17": {
+          "identifier": "_3fd82d94-f739-4fcd-a959-2fccd6d8a66a",
+          "lastChange": "2025-10-23T19:30:04.643Z",
+          "reqviewObjId": "35",
+          "specHierarchy": {
+            "identifier": "_2f1cd4bc-ad5b-4a41-92f9-47149603a29e",
+            "lastChange": "2025-10-23T19:30:04.643Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "e72499a8-fe03-461e-8b47-7d335d81ad83": {
+          "identifier": "_8df2c04f-4706-44dd-b3a1-146babc86de0",
+          "lastChange": "2025-10-23T19:44:20.511Z",
+          "reqviewObjId": "53",
+          "specHierarchy": {
+            "identifier": "_92658b1c-7d4f-44da-a13d-0456b5ef6257",
+            "lastChange": "2025-10-23T19:44:20.511Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "f80278b2-c899-4f8a-a222-4c69ff3b681c": {
+          "identifier": "_5ea90609-e024-4fc4-9ab7-8d20556ac3ce",
+          "lastChange": "2025-10-23T19:44:55.018Z",
+          "reqviewObjId": "56",
+          "specHierarchy": {
+            "identifier": "_4e3edde0-a5fa-42c9-91ee-636177c98e13",
+            "lastChange": "2025-10-23T19:44:55.018Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "faa67d31-0f01-4aa5-9ee2-88db6b7df1c8": {
+          "identifier": "_0a193440-36fc-4af0-9dc5-bb1e589f1542",
+          "lastChange": "2025-10-23T18:53:55.054Z",
+          "reqviewObjId": "3",
+          "specHierarchy": {
+            "identifier": "_a24b4024-ace4-4006-9578-b869d013de87",
+            "lastChange": "2025-10-23T18:53:55.054Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        },
+        "ff2a3e90-f597-46db-bad5-47f64c6dac8b": {
+          "identifier": "_d6a38b24-3b3e-42be-8dfd-d25cc1c6a782",
+          "lastChange": "2025-10-23T19:00:33.558Z",
+          "reqviewObjId": "16",
+          "specHierarchy": {
+            "identifier": "_9bbb1034-1f51-46b7-9a05-620ea279d968",
+            "lastChange": "2025-10-23T19:00:33.558Z"
+          },
+          "specObjectTypeRef": "_651eca41-a7dc-46c3-bee7-1b5dbbaa94c3"
+        }
+      },
+      "specRelations": {
+      },
+      "specification": {
+        "attrValues": {
+          "_09b23e7e-eab4-4c25-bd39-a6a5abc2a3d6": "T00697855, Thompson Rivers University, t00697855@mytru.ca",
+          "_55f5a86e-0274-4b40-a7c3-12da1b14bb94": "User Requirements",
+          "_a136e4be-cb82-4459-a4f5-2b5545a2102e": "Salam, Emer and Dianna, Thompson Rivers University, t00697855@mytru.ca",
+          "_f6377ebf-1b1b-4110-930c-ffe5228c77e4": "2025-10-23T18:48:04.482Z"
+        },
+        "conversationId": "_38502b65-8045-47de-8b12-f0dd7e4391bc",
+        "identifier": "_ef06f3c9-72e2-4a2f-8f68-38819ffa31fe",
+        "lastChange": "2025-10-23T20:11:20.896Z",
+        "longName": "User Requirements",
+        "specificationTypeRef": "_07b5786d-253c-47a4-839e-6bebbfa02c2f"
+      }
+    }
+  },
+  "metadata": {
+    "format": "2.20"
+  }
+}
